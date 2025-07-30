@@ -78,30 +78,81 @@ def scrape_geoiq(url, pincode):
             "male_population": "", "female_population": ""
         }
 
-def get_all_pincodes_from_csv(csv_path):
-    """Read all unique pincodes from the given CSV file"""
-    pincodes = set()
+def get_pincodes_with_missing_data(csv_path):
+    """Read pincodes that have missing data from the existing CSV file"""
+    missing_pincodes = []
+    
     with open(csv_path, newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            pincode = row.get('pincode') or row.get('Pincode') or row.get('PINCODE')
-            if pincode:
-                pincodes.add(str(pincode).strip())
-    return sorted(pincodes)
+            # Check if any of the key fields are missing
+            population = row.get('population', '').strip()
+            area_km2 = row.get('area_km2', '').strip()
+            male_population = row.get('male_population', '').strip()
+            female_population = row.get('female_population', '').strip()
+            
+            if not population or not area_km2 or not male_population or not female_population:
+                missing_pincodes.append(row['pincode'])
+    
+    return missing_pincodes
 
-def scrape_pincodes(pincodes, output_file):
-    """Main function to scrape multiple pincodes and save to CSV"""
+def update_existing_data(existing_csv_path, new_data, output_csv_path):
+    """Update the existing CSV with new data for missing pincodes"""
+    # Read existing data
+    existing_data = {}
+    with open(existing_csv_path, newline='', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            existing_data[row['pincode']] = row
+    
+    # Update with new data
+    for new_row in new_data:
+        pincode = new_row['pincode']
+        if pincode in existing_data:
+            # Only update fields that were missing and now have data
+            existing_row = existing_data[pincode]
+            for field in ['population', 'area_km2', 'male_population', 'female_population', 'place_name', 'url']:
+                if not existing_row.get(field, '').strip() and new_row.get(field, '').strip():
+                    existing_row[field] = new_row[field]
+    
+    # Write updated data back to CSV
+    with open(output_csv_path, "w", newline="", encoding='utf-8') as f:
+        fieldnames = [
+            'url', 'pincode', 'place_name', 'population', 'area_km2', 'male_population', 
+            'female_population'
+        ]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(existing_data.values())
+    
+    return len(existing_data)
+
+def scrape_missing_pincodes(existing_csv_path, output_csv_path):
+    """Main function to scrape only pincodes with missing data"""
+    # Get pincodes with missing data
+    missing_pincodes = get_pincodes_with_missing_data(existing_csv_path)
+    
+    if not missing_pincodes:
+        print("✅ No pincodes with missing data found!")
+        return
+    
+    print(f"Found {len(missing_pincodes)} pincodes with missing data")
+    print("Starting to scrape missing data...")
+    
     results = []
-    total = len(pincodes)
+    total = len(missing_pincodes)
     
-    print(f"Starting to scrape {total} pincodes...")
-    
-    for i, pincode in enumerate(pincodes, 1):
+    for i, pincode in enumerate(missing_pincodes, 1):
+        print(f"Processing {i}/{total}: {pincode}")
+        
         url = get_geoiq_url_for_pincode(pincode)
         
         if url:
             data = scrape_geoiq(url, pincode)
             results.append(data)
+            
+            # Add a small delay to be respectful to the server
+            time.sleep(1)
         else:
             # Add empty data for pincodes without URLs
             results.append({
@@ -109,34 +160,28 @@ def scrape_pincodes(pincodes, output_file):
                 "area_km2": "", "male_population": "", "female_population": ""
             })
         
-        # Show progress every 100 pincodes
-        if i % 100 == 0:
+        # Show progress every 50 pincodes
+        if i % 50 == 0:
             successful_count = len([r for r in results if r.get('population')])
             print(f"Progress: {i}/{total} pincodes processed ({successful_count} successful)")
     
-    # Save to CSV
+    # Update the existing CSV with new data
     if results:
-        with open(output_file, "w", newline="", encoding='utf-8') as f:
-            fieldnames = [
-                'url', 'pincode', 'place_name', 'population', 'area_km2', 'male_population', 
-                'female_population'
-            ]
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(results)
-        
+        total_records = update_existing_data(existing_csv_path, results, output_csv_path)
         successful_count = len([r for r in results if r.get('population')])
-        print(f"\n✅ Done! Data saved to {output_file}")
-        print(f"📊 Successfully scraped {successful_count}/{total} pincodes")
+        print(f"\n✅ Done! Data updated in {output_csv_path}")
+        print(f"📊 Successfully scraped {successful_count}/{total} missing pincodes")
+        print(f"📁 Total records in file: {total_records}")
     else:
         print("❌ No data scraped.")
 
 if __name__ == "__main__":
-    # Read all pincodes from processed data/pincode_directory.csv
-    input_csv = os.path.join("processed_data", "pincode_directory.csv")
+    # Use the existing GeoIQ data file
+    existing_csv = os.path.join("processed_data", "geoiq_pincode_data.csv")
     output_csv = os.path.join("processed_data", "geoiq_pincode_data.csv")
-    if not os.path.exists(input_csv):
-        print(f"❌ Input CSV not found: {input_csv}")
+    
+    if not os.path.exists(existing_csv):
+        print(f"❌ Existing CSV not found: {existing_csv}")
+        print("Please run the original scraper first to create the initial data file.")
     else:
-        pincodes = get_all_pincodes_from_csv(input_csv)
-        scrape_pincodes(pincodes, output_csv)
+        scrape_missing_pincodes(existing_csv, output_csv)
