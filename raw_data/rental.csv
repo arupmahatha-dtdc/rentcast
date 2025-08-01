@@ -1,497 +1,458 @@
-Status,Address,Region,Zone,Facility name,Contract No,Sqft,Main Usage,Multifacility,Principal Facility,Co location,TMS Code,Status,Mar-24,Apr-24,May-24,Jun-24,Jul-24,Aug-24,Sep-24,Oct-24,Nov-24,Dec-24,Jan-25,Feb-25,Mar-25,Total
-Active in Dec,"Ahamadabab Hub -No.19, Near Ranasan - Chiloda Railway Crossing,SP Reing Raod, Ranasan Gandhinagar382330",AMD,West,AHMEDABAD HUB,11000000645,47592,HUB/APEX+ RO,2003,A01,A01/A/A48,,c/f from Mar'24,"  665,637 ","  665,637 ","  665,637 ","  665,637 ","  665,637 ","  682,280 ","  698,919 ","  698,919 ","  698,919 ","  698,919 ",,,,"  6,140,504 "
-Active in Dec,"Plot No.19,Near Ranasan- Chikoda Railway Creossing, SP Reing Road , Ranasan, Gandhinagar- 382330",AMD,West,AHMEDABAD HUB,11000000617,62641,HUB/APEX+ RO,2003,A01,A01/A/A48,,c/f from Mar'24-Add Space,"  1,051,000 ","  1,103,550 ","  1,103,550 ","  1,103,550 ","  1,103,550 ","  1,103,550 ","  1,103,550 ","  1,103,550 ","  1,103,550 ","  1,103,550 ",,,,"  9,931,950 "
-Active in Dec,Baroda Branch - Ground Floor Shop No.A/5/8 Of .A.Part Bidc Gorwa Situted At Opp.Jyoti Switch Ltd Gorwa Refinery Road Gorwa Vadodara-16,AMD,West,BARODA BRANCH,11000000644,3272,Branch,1981,A02,A02/AC029,,c/f from Mar'24,"  75,200 ","  75,200 ","  75,200 ","  75,200 ","  75,200 ","  75,200 ","  75,200 ","  75,200 ","  75,200 ","  79,720 ",,,,"  681,320 "
-Active in Dec,"RAJKOT BRANCH-E-48,Bhakthinagar Industial Estate,Rajkot,360002",AMD,West,RAJKOT BRANCH - A03 (BO),11000000001,4300,Branch,2082,A03,A03,,c/f from Mar'24,"  130,000 ","  130,000 ","  130,000 ","  130,000 ","  136,500 ","  136,500 ","  136,500 ","  136,500 ","  136,500 ","  136,500 ",,,,"  1,209,000 "
-Active in Dec,"Block no 218/A/3, Sub Plot no 1, Surat Kadodra Road, Opp Garden Mill,394325",AMD,West,Surat HUB,11000000603,30376,HUB/APEX,11000000603,A04,A04/A21,STV,c/f from Mar'24,"  713,836 ","  713,836 ","  713,836 ","  713,836 ","  713,836 ","  713,836 ","  713,836 ","  774,588 ","  774,588 ","  774,588 ",,,,"  6,606,780 "
-Active in Dec,"Plot no:32/3,Shah chemical,1st phase GIDC Vapi ,Valsad,396195",AMD,West,VAPI  BRANCH,11000000648,4225,Branch,2097,A05,A05,,c/f from Mar'24,"  80,850 ","  80,850 ","  80,850 ","  84,893 ","  84,893 ","  84,893 ","  84,893 ","  84,893 ","  84,893 ","  84,893 ",,,,"  755,951 "
-Active in Dec,"ANKLESHWAR BRANCH- Plot No 1018/8, G.I.D.C,Ankleshwar, Bharuch-393002 ",AMD,West,ANKLESHWAR BRANCH - A07 (BO),11000000651,2000,Branch,2125,A07,A07,,c/f from Mar'24,"  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  30,319 ","  28,941 ","  28,941 ","  28,941 ",,,,"  254,957 "
-Active in Dec,"Ahmedabad Khokra-NO. 6,7,8, MAHAVEER ESTATE, BEHIND ANUPAM CINEMA,",AMD,West,Amd-Khokhra New,11000000002,2000,Branch,1559,A11,A11,,c/f from Mar'24,"  87,516 ","  87,516 ","  87,516 ","  87,516 ","  87,516 ","  87,516 ","  87,516 ","  87,516 ","  87,516 ","  93,642 ",,,,"  793,770 "
-Active in Dec,"Plot No. - C-249-252,231-235, Nilkantheshwar Estate, Beside Airforce Station, N.H. 8, Harni, Darjipura, Vadodara-390022.",AMD,West,BARODA BRANCH - A02 (BO),11000000653,6000,Branch,2186,A17,"A17,A49",,c/f from Mar'24,"  238,500 ","  252,810 ","  252,810 ","  252,810 ","  252,810 ","  252,810 ","  252,810 ","  252,810 ","  252,810 ","  252,810 ",,,,"  2,275,290 "
-Active in Dec,"MAHESANA BRANCH -Shed No. 65, Dediyasam GIDC, Village : Dediyasan(PART), Taluka : Mahesana, Dist : Mahesana",AMD,West,MEHSANA BRANCH- A18,11000000650,2200,Branch,2118,A18,A18,,c/f from Mar'24,"  27,040 ",  -   ,"  54,080 ","  57,326 ","  1,082 ","  28,122 ","  28,122 ","  28,122 ","  28,122 ","  28,122 ",,,,"  253,098 "
-Active in Dec,"Ahmedabad RO - 10 Mill Officer Colony,Behind old RBI, Off Times of India, Ashram Raod, Ahmedabad-380009.",AMD,West,AHMEDABAD - RO,11000000647,2847,Branch,1252,A24,A24,,c/f from Mar'24,"  154,350 ","  154,350 ","  154,350 ","  154,350 ","  154,350 ","  154,350 ","  154,350 ","  154,350 ","  154,350 ","  162,068 ",,,,"  1,396,868 "
-Active in Dec,"Ahmedabad West Branch - Survey No.04, Near Water Tank, Near Bal Mandir School,Bodakdev, Ahmedabad-380054.",AMD,West,AMD - WEST BRANCH,11000000643,1200,Branch,1560,A36,A36,,c/f from Mar'24,"  66,854 ","  66,854 ","  66,854 ","  66,854 ","  66,854 ","  66,854 ","  66,854 ","  66,854 ","  66,854 ","  66,854 ",,,,"  601,686 "
-Active in Dec,"E7+E8/5, Electronics GIDC, Sector 26, Gandhinagar - 382028",AMD,West,GANDHINAGAR BRANCH - A38 (BO),11000000654,2100,Branch,11000000576,A38,A38,,c/f from Mar'24,"  78,750 ","  78,750 ","  78,750 ","  78,750 ","  78,750 ","  80,719 ","  82,688 ","  82,688 ","  82,688 ","  82,688 ",,,,"  726,471 "
-Active in Dec,"ANAND BRANCHGround Floor,Shop No.1,Gopal Square, Opp Amin Auto Railway Crossing,Anand,Gujrat388001",AMD,West,ANAND BRANCH,11000000652,680,Branch,2169,A44,A44,,c/f from Mar'24,"  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ",,,,"  238,140 "
-Active in Dec,"Block no 343/3, Sub Standard Mill compund, Lal Darwaja, Vasta Devi Road, Surat 395007",AMD,West,Surat city new branch,11000000609,4190,Branch,11000000609,A46,A46,,c/f from Mar'24,"  201,120 ","  201,120 ","  201,120 ","  201,120 ","  201,120 ","  201,120 ","  201,120 ","  201,120 ","  201,120 ","  201,120 ",,,,"  1,810,080 "
-Active in Dec,"183/A, PAIKI  3, Ajanta Estate, Village- Vasnalyava, Taluka- sanand, Ahmedabad - 382170",AMD,West,Sanand Branch,11000000656,7000,Branch,11000000582,A50,A50,SND,c/f from Mar'24,"  87,360 ","  87,360 ","  87,360 ","  87,360 ","  87,360 ","  88,525 ","  90,854 ","  90,854 ","  90,854 ","  90,854 ",,,,"  801,381 "
-Active in Dec,"Ahmedabad Sanathal - SCS Hub,No.187-B,Near Maruthi Stock Yard,Vill Bakrol- Badrabad, Taluka -Daskrai,382210",AMD,West,AHMEDABAD SCS SANATHAL,11000000646,3500,Branch,2052,ASL,ASL,A19,c/f from Mar'24,"  42,120 ",  -   ,"  84,240 ",  -   ,"  127,760 ","  14,051 ","  104,772 ","  53,000 ","  53,000 ","  53,000 ",,,,"  489,823 "
-Active in Dec,"Hubli Branch, CTS No.13/66,CTS Ward III, P.B. Road,Hosur, Hubali 580021",BLR,South,Hubli New Premises,11000000733,3370,Branch,1527,B03,B03,,c/f from Mar'24,"  112,138 ","  112,138 ","  112,138 ","  112,138 ","  112,138 ","  112,138 ","  112,138 ","  112,138 ","  112,138 ","  112,138 ",,,,"  1,009,242 "
-Active in Dec,"Shop No 165, Sri Pooja Traders, cotton Market, nehru Gunj, Kalaburagi- 585104",BLR,South,GULBARGA SUPER FRANCHISEE - B05 (SF),11000000765,3000,Branch,11000000591,B05,B05,,c/f from Mar'24,"  34,650 ","  34,650 ","  34,650 ","  34,650 ","  34,650 ","  34,650 ","  35,112 ","  36,383 ","  36,383 ","  36,383 ",,,,"  317,511 "
-Active in Dec,"Ploat No.4,Sy No.114 of Hongasandra Village, Begur Hobli,Garveghavipalya, Bangalore-560068",BLR,South,BOMMANAHALLI BRANCH - B06 (BO),11000001130,11300,Branch,11000001130,B06,B06,,c/f from Mar'24,"  231,133 ","  242,130 ","  242,130 ","  242,130 ","  242,130 ","  242,130 ","  242,130 ","  242,130 ","  266,343 ","  242,130 ",,,,"  2,203,383 "
-Active in Dec,"Bangalore RO - #269, Lahari Towers, 1st Main Road, Albert Road, Chamarajpet, Bangalore -560018",BLR,South,Bangalore RO (Lahari Towers),11000000728,18355,Branch+ RO,1590/11000000557,B07,B07/B14/B24/B/B34,BLRC,c/f from Mar'24,"  925,146 ","  925,146 ","  974,655 ","  974,655 ","  974,655 ","  974,655 ","  974,655 ","  974,655 ","  974,655 ","  974,655 ",,,,"  8,722,386 "
-Active in Dec,"268, 1st Main, Albert Victory Road, chamrajpet,1st Main, Banglore-18",BLR,South,CHAMRAJPET BRANCH - B07 (BO),11000000761,3600,Branch+ RO,1590/11000000557,B07,B07/B14/B24/B/B34,BLRC,c/f from Mar'24-Add Space,"  132,300 ","  132,300 ","  132,300 ","  132,300 ","  138,915 ","  138,915 ","  138,915 ","  138,915 ","  138,915 ","  138,915 ",,,,"  1,230,390 "
-Active in Dec,"New Peenya BranchGround Floor of PIA Bhavan, 1st Cross, Ist stage, Peenya Industrial Estate, Bangalore – 560 058",BLR,South,New Peenya Branch,11000000734,3600,Branch,1537,B08,B08,,c/f from Mar'24,"  148,000 ","  148,000 ","  148,000 ","  148,000 ","  148,000 ","  148,000 ","  148,000 ","  148,000 ","  148,000 ","  148,000 ",,,,"  1,332,000 "
-Active in Dec,"RAJAJINAGAR MFNo.77/9, G.F, 3rd Main, Rajajinagar Industrial Town, Bangalore - 560044",BLR,South,Rajajninagar,11000000737,2500,Branch+Retail Counter,1502,B09,B09/BC206,,c/f from Mar'24,"  95,721 ","  95,721 ","  95,721 ","  95,721 ","  95,721 ","  95,721 ","  95,721 ","  98,912 ","  100,507 ","  100,507 ",,,,"  874,252 "
-Active in Dec,"Kogilu-integrated Apex,Kogilu Village, Yehlanka",BLR,South,Kogilu-integrated Apex,11000000750,62960,HUB/APEX,2031,B10,B10/B37,,c/f from Mar'24,"  936,652 ","  936,652 ","  936,652 ","  936,652 ","  983,484 ","  983,484 ","  983,484 ","  983,484 ","  983,484 ","  983,484 ",,,,"  8,710,860 "
-Active in Dec,"HENNUR BRANCH-No.9,H.L. No.2324/15, KhataNo.3658,H.B.R Layout, 3rd Block,Krishna Reddy Layout, Kalyan Nagar, Bangalore-560043",BLR,South,FRAZER TOWN BRANCH - B11 (BO),11000000754,5000,Branch,2135,B11,B11,,c/f from Mar'24,"  220,500 ","  220,500 ","  220,500 ","  220,500 ","  220,500 ","  220,500 ","  224,543 ","  231,525 ","  231,525 ","  231,525 ",,,,"  2,021,618 "
-Active in Dec,"NO.3536/5 OF SURVEY NO.75/5 (3536/5), AT NERALUR VILLAGE, HOSUR ROAD, , ATTIBELE HOBLI, ANEKAL TALUK, BANGALORE - 562107",BLR,South,ATTIBELE APEX,11000000762,27165,HUB,2154,B113,B113/B61,,c/f from Mar'24,"  496,088 ","  496,088 ","  496,088 ","  496,088 ","  520,893 ","  520,893 ","  520,893 ","  520,893 ","  520,893 ","  520,893 ",,,,"  4,613,622 "
-Active in Dec,"Thuruvanur Road, Near Chitradurga Multi speciality Hospital, Chitradurga  - 577501",BLR,South,CHITRADURGA SORTING OFFICE,11000000757,670,Branch,2177,B13,B13,,c/f from Mar'24,"  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ",,,,"  178,605 "
-Active in Dec,"BELGAUM SF - Shop No. 13, Contonment complex, Near Contonment office, Khanapur Road, Belgaum",BLR,South,Belgaum Branch,11000000727,420,Branch,1569,B16,B16,,c/f from Mar'24,"  22,112 ","  23,218 ","  23,218 ","  23,218 ","  23,218 ","  23,218 ","  23,218 ","  23,218 ","  23,218 ","  23,218 ",,,,"  208,962 "
-Active in Dec,"No.64, KHB Channapatna, Housing Board, Off KSRTC Bus Stand, Hassan-573201",BLR,South,HASSAN SUPER FRANCHISEE - B18 (SF),11000000758,1300,Branch,2183,B18,B18,,c/f from Mar'24,"  25,830 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ",,,,"  238,140 "
-Active in Dec,"Bangalore Air Apexsurvey no No.1/2, Kogilu Village, Yehlanka Hobli, Bangalore North",BLR,South,KOGILU BRANCH,11000000736,12500,Branch,1514,B26,B26,,c/f from Mar'24,"  401,023 ","  401,023 ","  401,023 ","  401,023 ","  401,023 ","  401,023 ","  401,023 ","  411,718 ","  421,074 ","  421,074 ",,,,"  3,660,004 "
-Active in Dec,"HOSUR BRANCHNo.16,17&18,4th Cross,NTR Nagar,,Mookondpalli,ESI Ring Road,Hosur",BLR,South,HOSUR BRANCH - B27(BO),11000000746,3600,Branch,2037,B27,B27,,c/f from Mar'24,"  60,640 ","  64,885 ","  64,885 ","  64,885 ","  64,885 ","  64,885 ","  64,885 ","  64,885 ","  64,885 ","  64,885 ",,,,"  583,965 "
-Active in Dec,"281/1-A, EDCON Green Fields, Village  Mormbi -O_ Grance, Merces, Goa -403005",BLR,South,GOA PANJIM BRANCH - B32 (BO),11000000639,2142.77165,Branch,11000000639,B32,B32,,c/f from Mar'24,"  76,000 ","  78,750 ","  78,750 ","  78,750 ","  78,750 ","  78,750 ","  78,750 ","  78,750 ","  78,750 ","  78,750 ",,,,"  708,750 "
-Active in Dec,"Whitefield Parcel BranchSy No 32 by 4, Garudacharpalya, Mahadevapura Posts, Bengaluru (Bangalore) Urban, Karnataka, 560048",BLR,South,Whitefield Branch,11000000741,8020,Branch,1507/11000000626/11000000048,B35,B35,,c/f from Mar'24,"  191,442 ","  191,442 ","  191,442 ","  201,014 ","  201,014 ","  201,014 ","  201,014 ","  201,014 ","  201,014 ","  201,014 ",,,,"  1,789,982 "
-Active in Dec,"No.32/4,Garudacharpalya,Mahadevapura post,Banaglore-560048,",BLR,South,WHITE FIELD BRANCH,11000000823,5300,Branch,1507/11000000626/11000000048,B35,B35,,c/f from Mar'24-Add Space,"  200,340 ","  200,340 ","  200,340 ","  200,340 ","  200,340 ","  200,340 ","  200,340 ","  200,340 ","  210,023 ","  210,357 ",,,,"  1,822,760 "
-Active in Dec,"FC -9 Nelmangala W/H-S.No 79/2, 79/1A & 78/6,Dasanapura village,Bangalore north taluk",BLR,South,FC -9 NELMANGALA W/H,11000000751,56125,HUB/APEX+FC,2107/2109,B36,B36,,c/f from Mar'24,"  1,091,558 ","  1,091,558 ","  1,144,860 ","  1,144,860 ","  1,144,860 ","  1,144,860 ","  1,144,860 ","  1,144,860 ","  1,145,540 ","  1,146,136 ",,,,"  10,252,394 "
-Active in Dec,"FC -9 Nelmangala W/H-S.No 79/2, 79/1A & 78/6,Dasanapura village,Dasanapura, Hobli, Banaglore North",BLR,South,FC -9 NELMANGALA W/H ADDL SPACE,11000000752,11363,HUB/APEX+FC,2107/2109,B36,B36,,c/f from Mar'24,"  223,889 ","  223,889 ","  223,889 ","  223,889 ","  223,889 ","  223,889 ","  223,889 ","  223,889 ","  223,889 ","  223,889 ",,,,"  2,015,001 "
-Active in Dec,"Door No 24/2, Maruthi Farm, Dombarahali, off Tumkur Road, Lakshmipura Post, Banglore -562162",BLR,South,NELAMANGALA HUB- Temparory Space,11000001220,10000,HUB/APEX+FC,2107/2109/11000001220,B36,B36,,New Dec'24-Add Temp Space,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  583,200 ",,,,"  583,200 "
-Active in Dec,"No 4229/12111, H No 14, Goadi Koppa, shivamoga-577201",BLR,South,SHIMOGA SORTING OFFICE - B38 (SO),11000000766,1450,BRANCH,11000000597,B38,B38,,c/f from Mar'24,"  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  35,280 ","  35,280 ","  35,280 ",,,,"  307,440 "
-Active in Dec,"Sirsi BRANCHNo.3, Suresh Plaza,Nirmal Nagar,1st Main,Banavasi Road,Sirsi-581401",BLR,South,SIRSI BRANCH,11000000742,300,Branch,1886,B39,B39,,c/f from Mar'24,"  14,641 ","  14,641 ","  14,641 ","  14,641 ","  16,105 ","  16,105 ","  16,105 ","  16,105 ","  16,105 ","  16,105 ",,,,"  140,553 "
-Active in Dec,"Bagalkot BRANCHShop no 59/B, BEHIND BDCC BANK STATION ROAD BAGALKOT -587101",BLR,South,BAGALKOT BRANCH,11000000745,528,Branch,1926,B41,B41,,c/f from Mar'24,"  14,641 ","  14,641 ","  14,641 ","  14,641 ","  14,641 ","  16,105 ","  16,105 ","  16,105 ","  16,105 ","  16,105 ",,,,"  139,089 "
-Active in Dec,"No 766/552, Ward no 16, Sriram nagar, Tumkur -572160",BLR,South,TUMKUR SORTING OFFICE - B43 (SO),11000000763,2600,Branch+Retail Counter,11000000571,B43,B43/BC207,,c/f from Mar'24,"  72,293 ","  72,293 ","  72,293 ","  72,293 ","  72,293 ","  75,908 ","  75,908 ","  75,908 ","  75,908 ","  75,908 ",,,,"  668,712 "
-Active in Dec,"Bellary BranchH.No.15Ward No.21,Gandinagar Main Road,Bellay",BLR,South,BELLARY BRANCH,11000000743,400,Branch,1923,B47,B47,,c/f from Mar'24,"  14,587 ","  14,587 ","  14,587 ","  14,587 ","  14,587 ","  14,952 ","  15,316 ","  15,316 ","  15,316 ","  15,316 ",,,,"  134,564 "
-Active in Dec,"No. 1214/D1/ 135 APMC Yard ""D"" Block, Davangere - 577003",BLR,South,DAVANGERE BRANCH - B50 (BO),11000000764,4800,Branch+ Retail Counter,11000000574,B50,B50/BC166,,c/f from Mar'24,"  52,500 ","  52,500 ","  52,500 ","  52,500 ","  52,500 ","  54,338 ","  55,125 ","  55,125 ","  55,125 ","  55,125 ",,,,"  484,838 "
-Active in Dec,"MARGAO BRANCH- Flat No F-1,Shop No SH2, House No 9169,Ward No.3, C.R Floor, Bolshe Circle,,Gogol, Margaon_403601",BLR,South,MARGAO BRANCH - B51 (BO),11000000759,844,Branch,11000000558,B51,B51,,c/f from Mar'24,"  31,500 ","  31,500 ","  31,500 ","  33,075 ","  33,075 ","  33,075 ","  33,075 ","  33,075 ","  33,075 ","  33,075 ",,,,"  294,525 "
-Active in Dec,"Damlur Branch - 2400 Sq FtNo.139/26, G.F,Ring Road, Amarjyothi Layout, Domlur, Bangalore - 71",BLR,South,Domlur Branch,11000000739,2800,Branch,1517/1591,B58,B58,,c/f from Mar'24,"  255,256 ","  255,256 ","  265,466 ","  268,019 ","  268,019 ","  268,019 ","  268,019 ","  268,019 ","  268,019 ","  268,019 ",,,,"  2,396,855 "
-Active in Dec,"Damlur Branch - No.139/26, G.F,Ring Road, Amarjyothi Layout, Domlur, Bangalore - 71",BLR,South,DOMLUR BRANCH- Additional,11000000740,4000,Branch,1517/1591,B58,B58,,c/f from Mar'24,"  269,247 ","  269,247 ","  282,709 ","  282,709 ","  282,709 ","  282,709 ","  282,709 ","  282,709 ","  282,709 ","  282,709 ",,,,"  2,530,919 "
-Active in Dec,"Sarakki BranchNo.8, [Old No.403] G.F, 9th Cross Road, Sarakki Grama, J.P.Nagar, 1st Phase, Ward No.178, BLR-78",BLR,South,Sarakki Branch,11000000732,2700,Branch,1519,B59,B59,,c/f from Mar'24,"  159,385 ","  159,385 ","  159,385 ","  168,948 ","  168,948 ","  168,948 ","  168,948 ","  168,948 ","  168,948 ","  168,948 ",,,,"  1,501,406 "
-Active in Dec,"Chikmangalore branch, Ambedkar Circle, Bypass road,Opp Higher Primary School, Hiremangalore, chikamanglore-577101",BLR,South,CHIKMAGALORE NODAL POINT,11000000748,1200,Branch,1681,B64,B64,,c/f from Mar'24,"  18,232 ","  18,232 ","  18,415 ","  19,144 ","  19,144 ","  19,144 ","  19,144 ","  19,144 ","  19,144 ","  19,144 ",,,,"  170,655 "
-Active in Dec,"Verna BranchL 2/3 Phase 01, verna industial area, verna, Goa",BLR,South,Verna Branch,11000000749,3300,Branch,1939,B65,B65,,c/f from Mar'24,"  63,814 ","  63,814 ","  63,814 ","  67,005 ","  67,005 ","  67,005 ","  67,005 ","  67,005 ","  67,005 ","  67,005 ",,,,"  596,663 "
-Active in Dec,"Hosakote BranchBehind Karnataka Function Hall,, OPP VRL, Old Madras Road, Dandupalya, Hosakote",BLR,South,Hosakote Branch,11000000747,1700,Branch,1538,B68,B68,,c/f from Mar'24,"  44,388 ","  44,671 ","  44,671 ","  44,671 ","  44,671 ","  44,671 ","  44,671 ","  44,671 ","  44,671 ","  44,671 ",,,,"  402,039 "
-Active in Dec,"BELGAUM LTL-No.1127/9, Poonam House,Sambora Road,Gandhi Ngar,Belgavi-590016",BLR,South,BELGAUM LTL,11000000753,4000,Branch,2134,BGM,BGM,B36,c/f from Mar'24,"  61,740 ","  61,740 ","  61,740 ","  61,740 ","  61,740 ","  61,740 ","  61,740 ","  61,740 ","  63,901 ","  64,827 ",,,,"  560,908 "
-Active in Dec,"BHOPAL LTL WAREHOUSE-B-36,Transport Nagar, New By Pass Road, Bhopal-462022",IDR,West,BHOPAL LTL WAREHOUSE,11000001046,2750,Branch,2079,BPL,BPL,,c/f from Mar'24,"  39,359 ","  39,359 ","  39,359 ","  39,359 ","  39,359 ","  41,327 ","  41,327 ","  41,327 ","  41,327 ","  41,327 ",,,,"  364,071 "
-Active in Dec,"KATPADI SUB BRANCHNo:1,Rathna Complex,Chennai to Bangalore Bypass Road,Vellore-632004.",CHE,South,KATPADI BRANCH,11000000075,800,Branch,1438,C08,C08,,c/f from Mar'24,"  56,600 ","  35,847 ","  77,353 ","  62,260 ","  69,996 ","  62,260 ","  62,260 ","  62,260 ","  62,260 ","  62,260 ",,,,"  556,756 "
-Active in Dec,"No 1,  Thiruverkadu Main Road, Perumalagaram, Velappanchavadi , Chennai -600077",CHE,South,CHENNAI APEX - C20 (HO),11000000561,175015,HUB+RO,11000000561,C20,C35 / C54 / C / C20/ C41 / C74,,c/f from Mar'24,"  3,633,054 ","  3,633,054 ","  3,633,054 ","  3,633,054 ","  3,633,054 ","  3,633,054 ","  3,633,054 ","  3,633,054 ","  3,633,054 ","  3,633,054 ",,,,"  32,697,486 "
-Active in Dec,"19A,Ground Floor Thiruvika Industrial Estate, Guindy, Chennai - 600032",CHE,South,GUINDY BRANCH - C13 (BO),11000001139,5500,Branch,11000001139,C13,C13/C42,,c/f from Mar'24,"  425,000 ","  425,000 ","  425,000 ","  425,000 ","  446,250 ","  467,500 ","  467,500 ","  467,500 ","  467,500 ","  467,500 ",,,,"  4,058,750 "
-Active in Dec,"Door No 92 (47/6), N. M. Road, Aminjikarai , chennai -600029",CHE,South,NUNGAMBAKKAM BRANCH - C14 (BO),11000000771,3850,BRANCH,11000000596,C14,C14,,c/f from Mar'24,"  381,150 ","  381,150 ","  381,150 ","  381,150 ","  381,150 ","  381,150 ","  381,150 ","  419,265 ","  419,265 ","  419,265 ",,,,"  3,544,695 "
-Active in Dec,"PARRYS BRANCHNo:10/1, Jaffer Syrang Street , Chennai- 600 001.",CHE,South,PARRYS -BRANCH,11000000063,1250,Branch,1539,C15,C15,,c/f from Mar'24,"  76,696 ","  84,366 ","  84,366 ","  84,366 ","  84,366 ","  84,366 ","  84,366 ","  84,366 ","  84,366 ","  84,366 ",,,,"  759,294 "
-Active in Dec,"VILLUPURAM BRANCH- No.27/1179,Elichatram Road,Vazhudareddy ,Villipuram-605602",CHE,South,VILLUPURAM BRANCH - C22 (SB),11000000087,2500,Branch,2124,C22,C22,,c/f from Mar'24,"  66,550 ","  66,550 ","  66,550 ","  66,550 ","  70,100 ","  73,205 ","  73,205 ","  73,205 ","  73,205 ","  73,205 ",,,,"  635,775 "
-Active in Dec,"TAMBARAM MASTER FRANCHISEENO:2 MELANDAI MAIN ROAD, GROUND FLOOR (NORTHERN PORTION), TAMBARAM WEST, CHENNAI-600045",CHE,South,TAMBARAM MF,11000001158,1520,Branch,1973,C30,C30,,c/f from Mar'24,"  87,980 ","  87,980 ","  87,980 ","  87,980 ","  87,980 ","  87,980 ","  87,980 ","  87,980 ","  92,379 ","  92,379 ",,,,"  800,618 "
-Active in Dec,"ELDAMS ROAD BRANCH :80/136, ELDAMS ROAD, TEYNAMPET, CHENNAI-600018",CHE,South,ELDAMS ROAD BRANCH,11000001153,2700,Branch,1929,C36-,C36,,c/f from Mar'24,"  179,685 ","  179,685 ","  179,685 ","  179,685 ","  179,685 ","  179,685 ","  197,654 ","  197,654 ","  197,654 ","  197,654 ",,,,"  1,689,041 "
-Active in Dec,"AMBATTUR BRANCHNo:610, MTH Road, Padi, Chennai-600050",CHE,South,AMBATUR BRANCH,11000000068,1750,Branch,1432,C37,C37,,c/f from Mar'24,"  176,834 ","  176,834 ","  176,834 ","  176,834 ","  176,834 ","  176,834 ","  176,834 ","  176,834 ","  176,834 ","  176,834 ",,,,"  1,591,506 "
-Active in Dec,"PORUR BRANCHNo-201/1, Rajagopal Nagar, Gowriammal Main Road, Porur Chennai -116",CHE,South,PORUR BRANCH,11000001160,3400,Branch,1967,C38,C38,,c/f from Mar'24,"  128,841 ","  128,841 ","  128,841 ","  128,841 ","  128,841 ","  128,841 ","  128,841 ","  128,841 ","  141,725 ","  141,725 ",,,,"  1,185,337 "
-Active in Dec,"MADHAVARAM PARCELSHOP NO:738, 200 FEET INNER RING ROAD,MADHAVARAM, CHENNAI-600060",CHE,South,MADHAVARAM MINI HUB,11000000769,4245,Branch,1443,C48,C48,,c/f from Mar'24,"  136,599 ","  136,599 ","  136,599 ","  136,599 ","  136,599 ","  136,599 ","  136,599 ","  136,599 ","  136,599 ","  136,599 ",,,,"  1,229,391 "
-Active in Dec,"SRM - POTHERI SUPER FRANCHISEENo. 19, Samundeeswari Nagar, GST Road, Thailavaram, Kattankulathur Post, Chengulpattu Taluk, Kancheepuram District, - 603203",CHE,South,POTHERI SORTING OFFICE,11000001152,700,Branch,1408,C50,C50,,c/f from Mar'24,"  52,094 ","  52,094 ","  52,094 ","  52,094 ","  52,094 ","  52,094 ","  52,094 ","  59,909 ","  54,699 ","  54,699 ",,,,"  481,871 "
-Active in Dec,SREEPERUMBADHUR BRANCH - C53BANGALORE MAIN ROADSRIPERUMBUDUR602105,CHE,South,SREEPERUMBADHUR BRANCH,11000001154,1750,Branch,2048,C53,C53,,c/f from Mar'24,"  67,528 ","  67,528 ","  67,528 ","  67,528 ","  67,528 ","  67,528 ","  72,704 ","  70,904 ","  70,904 ","  70,904 ",,,,"  623,056 "
-Active in Dec,"#20,  Kancheepuram High Road, Chengalpattu - 603002",CHE,South,CHENGALPATTU BRANCH,11000001155,1000,Branch,11000001155,C57,C57,,c/f from Mar'24,"  57,880 ","  57,880 ","  57,880 ","  57,880 ","  57,880 ","  57,880 ","  57,880 ","  57,880 ","  63,668 ","  60,774 ",,,,"  529,602 "
-Active in Dec,"KancheepuramNO:14/1 VP MADAVEETHI, OPP KANDAN PARK, KANCHIPURAM-631502",CHE,South,KANCHIPURAM SORTING OFFICE,11000000080,700,Branch,1410,C59,C59,,c/f from Mar'24,"  15,803 ","  15,803 ","  15,803 ","  15,803 ","  15,803 ","  15,803 ","  15,803 ","  15,803 ","  16,593 ","  17,383 ",,,,"  144,597 "
-Active in Dec,"SRI CITY BRANCHNO:571 SRI HARI KOTA COLONY, THONDUR SOCIETY, VARADAYAPALLEM, MANDALAM, SRICITY-517646",CHE,South,Sri City Branch,11000001142,500,Branch,1697,C60,C60,,c/f from Mar'24,"  26,620 ","  26,620 ","  26,620 ","  31,944 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ",,,,"  260,876 "
-Active in Dec,"MAHAPALIPURAM STAND ALONE CC, Ward no 11,Thirukalla street,Mammalapuram,603104",CHE,South,MAHAPALIPURAM STAND ALONE CC,11000000767,200,Branch+ Retail Counter,1246,C72,C72/CC135,,c/f from Mar'24,"  4,832 ","  5,315 ","  5,315 ","  5,315 ","  5,315 ","  5,315 ","  5,315 ","  5,315 ","  5,315 ","  5,315 ",,,,"  47,835 "
-Active in Dec,"No.8/1B2B,GNT Bypass Road,Near RTO Office,Verkadu,Gummudipoondi-621201,TN",CHE,South,GUMMIDIPONDI ,11000000772,1115,Branch,11000000580,C73,C73,,c/f from Mar'24,"  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  42,000 ","  38,500 ",,,,"  325,500 "
-Active in Dec,"Udyog Nagar,I-4 Udhyog Nagar , New Delhi",NDL,North,UDYOG NAGAR SCS BRANCH,11000000946,2300,Branch,1275,DEL,DEL,N19,c/f from Mar'24,"  176,248 ","  176,248 ","  176,248 ","  176,248 ","  185,060 ","  185,060 ","  185,060 ","  185,060 ","  185,060 ","  185,060 ",,,,"  1,639,104 "
-Active in Dec,"No Khasra No. 29/25/2,  Village Tikri Kalan, Near Jai Mata Dharakanta, New Delhi- 110041",NDL,North,NARAINA SCS HUB - N19 (HO)- Udyog Nagar  Tikrit,11000000974,6500,Branch,11000000575,TKI,TKI,N11,c/f from Mar'24,"  84,000 ","  84,000 ","  84,000 ","  84,000 ","  84,000 ","  88,200 ","  88,200 ","  88,200 ","  88,200 ","  88,200 ",,,,"  777,000 "
-Active in Dec,"COIMBATORE APEXNo.92,Parameshwaran layout, Behind Lakshmimill Quaters, Pappanaickenpalayam, Coimbatore-641037",CJB,South,COIMBATORE RO,11000000783,11200,HUB/APEX+ RO,2006,E01,E01/E,,c/f from Mar'24,"  377,662 ","  295,000 ","  295,000 ","  295,000 ","  295,000 ","  295,000 ","  295,000 ","  295,000 ","  295,000 ","  295,000 ",,,,"  2,655,000 "
-Active in Dec,"TIRUPUR BRANCH OFFICENO: 30 D, ERP layout, College Road,Tirupur- 641602",CJB,South,TIRUPUR BRANCH,11000000777,2050,Branch,1381,E02,E02/EC020,TPR,c/f from Mar'24,"  71,337 ","  71,337 ","  71,337 ","  73,620 ","  75,618 ","  75,618 ","  75,618 ","  75,618 ","  75,618 ","  75,618 ",,,,"  670,002 "
-Active in Dec,"8/6, VSM Coumpund,Bhavani NH Road,Namachilamadaipirivu,Nasiyanoor Post,Erode Tamil Nadu-638107",CJB,South,ERODE BRANCH - E03 (BO),11000000875,3200,Branch,2192,E03,E03,,c/f from Mar'24,"  32,000 ","  16,000 ","  48,000 ","  32,000 ","  54,400 ","  38,400 ","  38,400 ","  38,400 ","  38,400 ","  38,400 ",,,,"  342,400 "
-Active in Dec,"SALEM HUB -No.18/15,Malayandipillai Thottam, Sivathapuram Road, Kandhampatty Bypass, Salem, Tamil Nadu.636005",CJB,South,SALEM HUB,11000000786,8750,HUB/APEX+Branch+Retail Counter,2137,E04,E04/E14/EC022,SLM,c/f from Mar'24,"  160,286 ","  160,286 ","  160,286 ","  160,286 ","  160,286 ","  160,286 ","  160,286 ","  160,286 ","  160,286 ","  160,286 ",,,,"  1,442,574 "
-Active in Dec,"KARUR BRANCH OFFICENo.5/182, Ragavendra Nagara, Madurai By Pass Road, Near Karur By Pass Roundana, Karur-639002",CJB,South,KARUR BRANCH,11000000775,1220,Branch,1471,E05,E05,,c/f from Mar'24,"  38,720 ","  38,720 ","  38,720 ","  38,720 ","  38,720 ","  38,720 ","  42,592 ","  42,592 ","  42,592 ","  42,592 ",,,,"  363,968 "
-Active in Dec,"TRICHY BRANCHNo.36,RAAE Warehouse, Manalvarithurai Road, Sangiliyandapuram, Tiruchirappalli_620001",CJB,South,TRICHY BRANCH - E06 (BO),11000000789,9000,Branch,11000000181,E06,E06,,c/f from Mar'24,"  155,925 ","  155,925 ","  155,925 ","  163,721 ","  163,721 ","  163,721 ","  163,721 ","  163,721 ","  163,721 ","  163,721 ",,,,"  1,457,897 "
-Active in Dec,"DINDIGUL BranchS.No.165/7A, Palani - Madurai bypass road, Next to Kavin Complex, Kottapatti (PO), Dindigul - 624002",CJB,South,DINDIGUL BRANCH,11000000780,1400,Branch,1200,E07,E07,,c/f from Mar'24,"  19,184 ","  19,184 ","  19,184 ","  19,184 ","  19,184 ","  19,184 ","  19,184 ","  19,664 ","  20,143 ","  20,143 ",,,,"  175,054 "
-Active in Dec,"TIRUNELVELI BRANCH OFFICEAPA Complex,No.1/3, South Bypass raod,Vennarampatai,Tirunelveli, TN",CJB,South,Tirunelveli Branch,11000000781,1160,Branch,1943,E09,E09,,c/f from Mar'24,"  48,620 ","  48,620 ","  48,620 ","  48,620 ","  48,620 ","  49,430 ","  51,051 ","  51,051 ","  51,051 ","  51,051 ",,,,"  448,114 "
-Active in Dec,"TUTICORIN BRANCHNo.146,B 3,4,5,Ettayapuram Road,Near New Bus Stand,Tuticorin",CJB,South,Tuticorin Branch,11000000782,900,Branch,1941,E10,E10,,c/f from Mar'24,"  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ","  31,332 ","  32,210 ","  32,210 ","  32,210 ","  32,210 ",,,,"  277,300 "
-Active in Dec,"No L-10,11,12, Appta Market, Therakalpathoor, Nagarcoil, kanyakumari, Tamilnadu - 629001",CJB,South,NAGERCOILBRANCH - E11 (BO),11000000595,768,Branch,11000000595,E11,E11,,c/f from Mar'24,"  19,800 ","  19,800 ","  19,800 ","  7,260 ","  32,340 ","  19,800 ","  19,800 ","  19,800 ","  32,934 ","  21,780 ",,,,"  193,314 "
-Active in Dec,"COIMBATURE -LTL3/271K,Kulathur Raod,Chinniyampalyam,Venkitpuram(PO),Tamil Nadu",CJB,South,COIMBATORE LTL BRANCH,11000000785,7500,HUB/APEX,2043,E13,E13,,c/f from Mar'24,"  100,000 ","  100,000 ","  110,000 ","  215,000 ","  95,000 ","  105,000 ","  5,000 ","  205,000 ","  105,000 ","  105,000 ",,,,"  1,045,000 "
-Active in Dec,"KRISHNAGIRI BRANCH OFFICENo.3-242, GG Comples,West bypass Bangalore road, Gandhi Nagar-Krishnagiri-635001.",CJB,South,KRISHNAGIRI SORTING OFFICE,11000000779,520,Branch,1396,E16,E16,,c/f from Mar'24,"  16,800 ","  16,800 ","  16,800 ","  16,800 ","  16,800 ","  16,800 ","  16,800 ","  16,800 ","  20,160 ","  17,640 ",,,,"  155,400 "
-Active in Dec,"SIVAKASI BRANCHNo.52, Velayutham Road, Opp to LIC, Sivakashi (PO), Sivakashi-626123.",CJB,South,SIVAKASI BRANCH,11000000774,476,Branch,1380,E20,E20,,c/f from Mar'24,"  20,160 ","  20,160 ","  20,160 ","  20,160 ","  20,160 ","  20,160 ","  20,160 ","  20,160 ","  20,160 ","  28,224 ",,,,"  189,504 "
-Active in Dec,"COIMBATORE BRANCH-No.3, Gem Colony,Near Shiva Hospital,Ganapathy,Coimbatore- Tamil Nadu.-641006",CJB,South,COIMBATORE BRANCH GANAPATHY,11000000787,3200,Branch,2146,E21,E21,,c/f from Mar'24,"  49,692 ","  49,692 ","  49,692 ","  49,692 ","  49,692 ","  49,692 ","  49,692 ","  49,692 ","  49,692 ","  49,692 ",,,,"  447,228 "
-Active in Dec,"No 7, Gowtham Nagar, Nagai Road, Thanjauvr ,Tamilnadu-613001",CJB,South,THANJAVUR BRANCH - E23 (BO),11000000791,1300,BRANCH,11000000606,E23,E23,,c/f from Mar'24,"  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  34,776 ","  35,280 ","  35,280 ",,,,"  306,936 "
-Active in Dec,"No 164/4, Subban Street,Theni Allinagaram,Theni, Tamil Nadu-625531",CJB,South,THENI BRANCH,11000001144,990,BRANCH,11000001144,E24,E24,,c/f from Mar'24,"  14,000 ","  14,000 ","  14,607 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ",,,,"  131,507 "
-Active in Dec,"FC-7 KAPASHERA- Khasra no 27/9,Internal road Kapashera,New delhi-110037",NDL,North,FC-7 KAPASHERA,11000000966,36300,FC,2103,FC-7,FC-7,,c/f from Mar'24,"  800,415 ","  800,415 ","  800,415 ","  800,415 ","  800,415 ","  800,415 ","  800,415 ","  1,804,110 ","  943,800 ","  943,800 ",,,,"  8,494,200 "
-Active in Dec,"Noida SCS WH-No C-149,Phase II Extension, Hosiery complex,Noida-201305",NDL,North,NOIDA SCS BRANCH,11000000969,7000,Branch,2136,NDA,NDA,,c/f from Mar'24,"  140,391 ","  140,391 ","  140,391 ","  140,391 ","  140,391 ","  140,391 ","  144,135 ","  147,411 ","  147,411 ","  147,411 ",,,,"  1,288,323 "
-Active in Dec,"Guwahati LTL Hub-RUNGPUR COMPOUND,MOUJA- RAMSHARANI,AZARA,GUWAHATI,DIST: KAMPUR (M), ASSAM,GUWAHATI-781017",GUW,East,Guwahati LTL hub- Lakra Apex,11000000892,10000,Branch,11000000614,GAU,GAU,X01,c/f from Mar'24,"  241,500 ","  241,500 ","  241,500 ","  241,500 ","  241,500 ","  253,575 ","  253,575 ","  253,575 ","  253,575 ","  253,575 ",,,,"  2,233,875 "
-Active in Dec,"Basheerbagh BranchNo.3-6-5,Liberty Plaza Himyath Nagar Basheerbagh Hyderabad-500063",TEL,South,BASHEERBAGH  BRANCH,11000000174,2493,Branch,1337,H07,H07,,c/f from Mar'24,"  143,203 ","  143,203 ","  143,203 ","  143,203 ","  143,203 ","  143,203 ","  143,203 ","  143,203 ","  150,363 ","  150,363 ",,,,"  1,303,147 "
-Active in Dec,"Plot No.72,Road No.9, Jubilee Hills, Hyderabad, Telangana-500033",HYD,South,BANJARAHILLS BRANCH,11000001010,4074,Branch,2188,H08,H08,,c/f from Mar'24,"  299,439 ","  299,439 ","  314,411 ","  314,411 ","  314,411 ","  314,411 ","  314,411 ","  314,411 ","  314,411 ","  314,411 ",,,,"  2,814,727 "
-Active in Dec,"Balanagar Parcel BranchDoor No.5-5-35/P-155, Manu Towers,Prashanth Nagar, Kukatpally Hyderabad-500072",TEL,South,BALANAGAR PARCEL BRANCH,11000000998,2300,Branch,1181,H09,H09,,c/f from Mar'24,"  82,061 ","  82,061 ","  82,061 ","  82,061 ","  82,061 ","  86,985 ","  86,985 ","  86,985 ","  86,985 ","  86,985 ",,,,"  763,169 "
-Active in Dec,"Begumpet BranchH No - 1-11-249/A, OPP Pantaloons,Shyamlal Building Begumpet Hyderabad-500016",TEL,South,BEGUMPET RO,11000000995,8000,Branch+ RO,1476/2157,H10,H10/H,,c/f from Mar'24,"  419,998 ","  419,998 ","  440,999 ","  440,999 ","  440,999 ","  440,999 ","  440,999 ","  440,999 ","  440,999 ","  440,999 ",,,,"  3,947,990 "
-Active in Dec,"BEGUMPET  BRANCH-Manian Court,1-11-200/5,Block- E,F.No 105,Begumpet, Telangana-500016",TEL,South,BEGUMPET BRANCH,11000000191,1100,Branch+ RO,1476/2157,H10,H10/H,,c/f from Mar'24,"  30,189 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ",,,,"  248,067 "
-Active in Dec,"Karmanghat Branch8-5-284/35,Plot No.35,Defence Colony,Karmanghat Saroor Nagar Mandal,RR Dist-500079",TEL,South,MALAKPET BRANCH,11000001003,5000,Branch,1979,H11,H11,,c/f from Mar'24,"  105,000 ","  105,000 ","  105,000 ","  105,000 ","  105,000 ","  105,000 ","  105,000 ","  105,000 ","  105,000 ","  113,000 ",,,,"  953,000 "
-Active in Dec,"Shamshabad Aprex No. 22-194/3/2, Rallguda Village Shamshabad Mandal Ranga reddy dist",TEL,South,SHAMSHABAD NEW APEX  HYDERABAD,11000000999,43205,HUB/APEX+Branch,1273,H13,H13/H96,,c/f from Mar'24,"  621,264 ","  621,264 ","  621,264 ","  621,264 ","  621,264 ","  621,264 ","  621,264 ","  683,390 ","  683,390 ","  683,390 ",,,,"  5,777,754 "
-Active in Dec,"Anandbagh BranchPlot No.349,Jawahar Gateway Buiding Moulaali Main Road,Jawahar Nagar Colony Hyderabad-500040",TEL,South,ANANDBAGH BRANCH,11000001004,2600,Branch,1966,H48,H48,,c/f from Mar'24,"  124,449 ","  124,449 ","  124,449 ","  124,449 ","  124,449 ","  124,449 ","  124,449 ","  124,449 ","  124,449 ","  141,043 ",,,,"  1,136,635 "
-Active in Dec,"House No.6-26-141 & 142,Gurbabadi Road,Nizamabad, Telanagana-503002",TEL,South,NIZAMABAD SUPER FRANCHISEE - H53 (SF),11000001011,2040,Branch,11000000598,H53,H53,,c/f from Mar'24,"  53,550 ","  53,550 ","  53,550 ","  53,550 ","  53,550 ","  53,550 ","  58,906 ","  56,228 ","  56,228 ","  56,228 ",,,,"  495,340 "
-Active in Dec,"HYDERABAD - SCS WARE HOUSE- No.1-4-112,Survey No.157.158,159,Kompally Village,Medchal,Malajgiri Distict, Telangana",TEL,South,HYDERABAD - SCS WARE HOUSE ,11000001008,25000,HUB/APEX,2066,H66,H66,HYD,c/f from Mar'24,"  437,500 ","  437,500 ","  437,500 ","  437,500 ","  437,500 ","  437,500 ","  460,625 ","  483,750 ","  483,750 ","  483,750 ",,,,"  4,099,375 "
-Active in Dec,"Property No 8-52/8&12, SY no 694, Deveryamjal Village, Thumkunta Municipality, Medchal-500078",TEL,South,MEDCHAL KOMPALLY LTL H66,11000001224,5000,HUB/APEX,11000001224,H66,H66,,New Dec'24-Add Temp Space,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  216,000 ",,,,"  216,000 "
-Active in Dec,"GACHIBOWLI BRANCH-No.No.7-18/9, Plot No 161, Prashanthi Hills Colony, Rayadurgam Post, Chitrapur Colony Mandal",TEL,South,GACHIBOWLIHYDRABAD BRANCH,11000000997,2300,Branch,1176/11000001218,H70,H70,,c/f from Mar'24,"  88,578 ","  88,578 ","  88,578 ","  88,578 ","  88,578 ","  88,578 ","  88,578 ","  88,578 ","  88,578 ","  88,578 ",,,,"  797,202 "
-Active in Dec,"Plot no 31 TO 48, NEKNAMPUR, Ranga Reddy,  Gandipet",TEL,South,GACHIBOWLI - H70,11000001218,1650,Branch,1176/11000001218,H70,H70,,New Dec'24-Add Temp Space,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  224,833 ",,,,"  224,833 "
-Active in Dec,"MEHDIPATNAM MASTER FRANCHISEE12-02-709/C/1&G-3-4,Sai Teja Apartments,Padmanaba Nagar Colony,Gunimalkapur,Mehadipatnam,",TEL,South,MEHDIPATNAM MF,11000001001,1975,Branch,1936,H71,H71,,c/f from Mar'24,"  104,450 ","  104,450 ","  104,450 ","  104,450 ","  104,450 ","  104,450 ","  112,284 ","  112,284 ","  112,284 ","  112,284 ",,,,"  971,386 "
-Active in Dec,"Bowenpally BranchPlot No.1,Balaji Enclave Near Diamond Point ,Transport Road,Secunderabad,Hyderabad-500009",TEL,South,BOWENPALLY BRANCH,11000001005,2200,Branch,2025,H74,H74,,c/f from Mar'24,"  98,399 ","  98,399 ","  98,399 ","  98,399 ","  98,399 ","  98,399 ","  98,399 ","  98,399 ","  201,717 ","  4,919 ",,,,"  895,429 "
-Active in Dec,"Nagole BranchH.NO 2-6-497/1, PLOT No.5 Janga reddy colony ,Lane opp kalyan laxmi gardens -500068",TEL,South,NAGOLEPARCEL BRANCH,11000001000,6000,Branch,1216,H79,H79,,c/f from Mar'24,"  114,604 ","  114,604 ","  114,604 ","  114,604 ","  114,604 ","  114,604 ","  114,604 ","  114,604 ","  114,604 ","  120,334 ",,,,"  1,037,166 "
-Active in Dec,"Chandanagar Sub Branch22-108/17/3/N/R,SY No.208,209,210,Old Bombay Road ,BHEL X Road Lingampally -502032",TEL,South,CHANDANNAGAR BRANCH,11000001002,3000,Branch,1970,H80,H80,,c/f from Mar'24,"  101,023 ","  101,023 ","  101,023 ","  101,023 ","  101,023 ","  101,023 ","  101,023 ","  101,023 ","  106,411 ","  111,126 ",,,,"  924,698 "
-Active in Dec,"Suryapet Branch OfficeH.No1-2-270/88/c,NH-65 Beside Main Road Opp Hitech Bus Stand Suryapet-508213",TEL,South,SURYAPET BRANCH OFFICE,11000000996,1350,Branch,1069,H92,H92,,c/f from Mar'24,"  24,066 ","  24,066 ","  24,066 ","  24,066 ","  27,675 ","  25,269 ","  25,269 ","  25,269 ","  25,269 ","  25,269 ",,,,"  226,218 "
-Active in Dec,"143-A, Sector H Industrial Area,Govindpura, Bhopal-462023",IDR,West,Bhopal Branch,11000001049,6346,Branch,11000000103,I02,I02/I10,BPL,c/f from Mar'24,"  126,603 ","  126,603 ","  132,933 ","  132,933 ","  132,933 ","  132,933 ","  132,933 ","  132,933 ","  132,933 ","  132,933 ",,,,"  1,190,067 "
-Active in Dec,"PITHAMPUR BRANCHMunir Complex,Vishwas Nagar, Mhow- Neemach Road, Pithampur-454775",IDR,West,PITHAMPUR BRANCH,11000001020,1750,Branch,1767,I03,I03,PTM,c/f from Mar'24,"  54,699 ","  54,699 ","  54,699 ","  57,434 ","  57,434 ","  57,434 ","  57,434 ","  57,434 ","  57,434 ","  57,434 ",,,,"  511,436 "
-Active in Dec,"Survey no 16/1, 16/4, 16/6, 18/2, Patan by pass Damoh Road Village, Bineki , Jabalpur-482002",IDR,West,JABALPUR BRANCH - I08 (BO),11000001050,5000,Branch,11000000615,I08,I08,,c/f from Mar'24,"  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  99,225 ","  99,225 ",,,,"  859,950 "
-Active in Dec,"NH 7,Mamtha Marketing , Saman Tiraha,Near New Bus Stand, Rewa-M.P -  486001",IDR,West,REWA BRANCH - I19 (SB),11000001133,1000,Branch,11000001133,I19,I19,,c/f from Mar'24,"  24,000 ","  24,000 ","  24,000 ","  24,000 ","  24,000 ","  24,000 ","  24,000 ","  24,000 ","  24,000 ","  24,000 ",,,,"  216,000 "
-Active in Dec,"DEWAS BRANCHHOUSE NO. 104, STATION ROAD, RAMASHRAM, DEWAS",IDR,West,DEWAS BRANCH,11000001016,300,Branch,1315,I20,I20,,c/f from Mar'24,"  8,102 ","  8,102 ","  8,102 ","  8,102 ","  8,102 ","  8,102 ","  8,102 ","  8,102 ","  8,102 ","  8,102 ",,,,"  72,918 "
-Active in Dec,"307,Mangliya Sadak,NH3 Bypass Road, Opp- Omax City-2, Tehsil Sanwer, Indored(MP)-454771",IDR,West,INDORE SCS APEX - I24 (HO),11000001048,32060,HUB,2189,I24,I24,,c/f from Mar'24,"  555,440 ","  562,832 ","  569,300 ","  569,300 ","  583,212 ","  583,212 ","  583,212 ","  583,212 ","  583,212 ","  583,212 ",,,,"  5,200,704 "
-Active in Dec,"New Bus Stand, Opp Sarkar Petrol Pump, Shandol, Madhyapradesh-484001",IDR,West,SHAHDOL NODAL POINT - I30 (SO),11000000876,185,Branch,11000000876,I30,I30,,c/f from Mar'24,"  6,300 ","  6,300 ","  6,300 ","  6,300 ","  6,300 ","  6,300 ","  6,300 ","  6,300 ","  6,300 ","  6,300 ",,,,"  56,700 "
-Active in Dec,"SAGAR BRANCH177/11,Bhagwanganj,Near Telephone exchange,Kabulapur Station Link Road,Sagar(MP)",IDR,West,Sagar Branch,11000001045,820,Branch,1952,I34,I34,,c/f from Mar'24,"  17,017 ","  17,017 ","  17,017 ","  17,017 ","  17,868 ","  17,868 ","  17,868 ","  17,868 ","  17,868 ","  17,868 ",,,,"  158,259 "
-Active in Dec,"BETUL BRANCHChandra Shekhar Ward, Sadar Itarsi Road, BetulMP",IDR,West,BETUL BRANCH,11000001043,300,Branch,1852,I39,I39,,c/f from Mar'24,"  8,509 ","  8,509 ","  8,509 ","  8,509 ","  8,934 ","  8,934 ","  8,934 ","  8,934 ","  8,934 ","  8,934 ",,,,"  79,131 "
-Active in Dec,"Plot No 25, Industrial Phase -1, Chandigardh -160002",HHP,North,CHANDIGARH Branch,11000001147,7000,Branch,11000001147,J01,J01,,c/f from Mar'24,"  525,000 ","  525,000 ","  539,000 ","  551,250 ","  551,250 ","  551,250 ","  551,250 ","  551,250 ","  551,250 ","  551,250 ",,,,"  4,922,750 "
-Active in Dec,"15, Hargobind Nagar, Near Transport Nagar, Jalandhar, Punjab- 144001",HHP,North,JALANDHAR BRANCH DOM,11000001136,5580,Branch,11000001136,J02,J02,JLD,c/f from Mar'24,"  139,500 ","  139,500 ","  143,220 ","  146,475 ","  146,475 ","  146,475 ","  146,475 ","  146,475 ","  146,475 ","  146,475 ",,,,"  1,308,045 "
-Active in Dec,"B-23/2139,Industiral Area-A,Ludhiana-141003",HHP,North,LUDHIANA BRANCH - J03 (BO),11000000989,20000,Branch,2173,J03,J03/J32,LDH,c/f from Mar'24,"  424,000 ","  449,440 ","  449,440 ","  449,440 ","  449,440 ","  449,440 ","  449,440 ","  449,440 ","  449,440 ","  449,440 ",,,,"  4,044,960 "
-Active in Dec,"Panipat BranchPlot No 172, Hudda Sec25, Transport Nagar Panipat Pin Code 132103.",HHP,North,PANIPAT BRANCH,11000000907,5000,Branch,1353,J04,J04,,c/f from Mar'24,"  154,734 ","  154,734 ","  154,734 ","  154,734 ","  154,734 ","  154,734 ","  154,734 ","  154,734 ","  154,734 ","  154,734 ",,,,"  1,392,606 "
-Active in Dec,"Khasra No.1290,Sultanwind Suburban,Behniwal,Jawahar Nagar,Amritsar, Bachans Gtr, Amritsar -141001",HHP,North,AMRITSAR  BRANCH,11000000990,5000,Branch,2176,J05,J05,,c/f from Mar'24,"  210,000 ","  220,500 ","  220,500 ","  220,500 ","  220,500 ","  220,500 ","  220,500 ","  220,500 ","  220,500 ","  220,500 ",,,,"  1,984,500 "
-Active in Dec,"Hissar BranchHouse No.230 West,Near Easy Day,Model Town,Hisar,Haryana",HHP,North,HISAR BRANCH,11000000986,1475,Branch,2038,J07,J07,,c/f from Mar'24,"  60,775 ","  60,775 ","  60,775 ","  60,775 ","  60,775 ","  60,775 ","  60,775 ","  60,775 ","  60,775 ","  60,775 ",,,,"  546,975 "
-Active in Dec,"BHATINDA BRANCHShop No. - 1, 45 Foot Road, Dr. Mela Ram Road, New Shakti Nagar, Bathinda - Punjab Pin No. - 151005",HHP,North,BHATINDA BRANCH,11000000979,1360,Branch,1576,J08,J08,,c/f from Mar'24,"  38,288 ","  38,288 ","  38,288 ","  39,247 ","  40,203 ","  40,203 ","  40,203 ","  40,203 ","  40,203 ","  40,203 ",,,,"  357,041 "
-Active in Dec,"AMBALA Apex, Kasra No. 209, 210 & 211,Chandigarh Road, Revenue Estate, Village-SULTANPUR,Tehsil, Ambala, Haryana",HHP,North,AMBALA APEX,11000000171,14800,HUB/APEX+Branch,1766,J10,J06/J10/J31,AMB/HAMB,c/f from Mar'24,"  222,000 ","  222,000 ","  222,000 ","  222,000 ","  222,000 ","  287,840 ","  287,840 ","  287,840 ","  287,840 ","  287,840 ",,,,"  2,327,200 "
-Active in Dec,"PATHANKOT BRANCHGround Floor, Shop No-6 & 7, Manoj Complex, Bazri Company College Road, Pathankot.",HHP,North,PATHANKOT BRANCH,11000000897,540,Branch,1303/11000000149/11000000608,J11,J11,,c/f from Mar'24,"  14,104 ","  14,104 ","  14,104 ","  14,104 ","  14,104 ","  14,104 ","  14,104 ","  16,078 ","  15,091 ","  15,091 ",,,,"  130,884 "
-Active in Dec,"PATHANKOT BRANCHGround Floor, Shop No-6 & 7, Manoj Complex, Bazri Company College Road, Pathankot.",HHP,North,PATHANKOT BRANCH_Additional,11000000898,650,Branch,1303/11000000149/11000000608,J11,J11,,c/f from Mar'24-Add Space,"  24,904 ","  24,904 ","  24,904 ","  24,904 ","  26,647 ","  26,647 ","  26,647 ","  26,647 ","  26,647 ","  26,647 ",,,,"  234,594 "
-Active in Dec,"SHIMLA BRANCHSood Bhawan, Opposite- Mela Ram Petrol Pump, Upper Kathua, Cart Road, Shimla- 171003",HHP,North,SHIMLA BRANCH,11000000906,700,Branch,1313,J14,J14,,c/f from Mar'24,"  64,782 ","  64,782 ","  64,782 ","  64,782 ","  64,782 ","  64,782 ","  64,782 ","  64,782 ","  64,782 ","  69,965 ",,,,"  588,221 "
-Active in Dec,"Karnal BranchSector 16, Namaste Chowk, Karnal",HHP,North,KARNAL BRANCH,11000000985,2240,Branch,2005,J15,J15,,c/f from Mar'24,"  131,079 ","  131,079 ","  131,079 ","  131,079 ","  131,079 ","  131,079 ","  131,079 ","  131,079 ","  140,255 ","  140,255 ",,,,"  1,198,063 "
-Active in Dec,"PHAGWARA BRANCHkhullar Tawer, Nr. Elite Cinema, G.T. Road, Phagwara-144401 (PB)",HHP,North,PHAGWARA BRANCH,11000000901,650,Branch,1058,J17,J17,,c/f from Mar'24,"  24,379 ","  24,379 ","  24,379 ","  31,873 ","  51,256 ","  26,877 ","  2,498 ","  26,877 ","  26,877 ","  26,877 ",,,,"  241,893 "
-Active in Dec,"PATIALA SUB BRANCHS.C.F.Plot No.228,Urban Estate, Phase -1,Patiala",HHP,North,PATIALA BRANCH,11000000983,945,Branch,1879,J18,J18,,c/f from Mar'24,"  38,290 ","  38,290 ","  38,290 ","  39,822 ","  40,205 ","  40,205 ","  40,205 ","  40,205 ","  40,205 ","  40,205 ",,,,"  357,632 "
-Active in Dec,"Nangal Branch16-B, Jawahar Market,Nangal",HHP,North,NANGAL BRANCH,11000000984,1319,Branch,1994,J19,J19,,c/f from Mar'24,"  57,762 ","  57,762 ","  57,762 ","  57,762 ","  57,762 ","  57,762 ","  57,762 ","  57,762 ","  60,650 ","  60,650 ",,,,"  525,634 "
-Active in Dec,"Mohali BranchSCF No-11, Phase-3A, Mohali, SAS Nagar",HHP,North,MOHALI BRANCH,11000000893,3400,Branch,1417,J21,J21,,c/f from Mar'24,"  127,628 ","  127,628 ","  127,628 ","  127,628 ","  127,628 ","  127,629 ","  137,200 ","  134,009 ","  134,009 ","  134,009 ",,,,"  1,177,368 "
-Active in Dec,"Rohtak Branch - Budhram Saini Complex, Near B Tek Farm,Sukhpur Chowk,Harayana-124001",HHP,North,ROHTAK BRANCH - J25(BO),11000000987,1620,Branch,2120,J25,J25,,c/f from Mar'24,"  38,588 ","  38,588 ","  38,588 ","  40,517 ","  40,517 ","  40,517 ","  40,517 ","  40,517 ","  40,517 ","  40,517 ",,,,"  360,795 "
-Active in Dec,"Khasra no 24/11/3,  12/2/1 Kundli Road, Janti Kalan, Sonipat, haryana, Nr Janta Nagar-131028",HHP,North,KUNDLI BRANCH - J26 (BO),11000000992,6655,Branch,11000000554,J26,J26,,c/f from Mar'24,"  147,000 ","  147,000 ","  147,000 ","  147,000 ","  154,350 ","  154,350 ","  154,350 ","  154,350 ","  154,350 ","  154,350 ",,,,"  1,367,100 "
-Active in Dec,"Shed No.392, Phase I Industial Estate, HSIIDC, Panchkula. Harayana -134113 ",HHP,North,PANCHKULA APEX,11000000991,20000,HUB/APEX+ RO,2182,J29,J13/J29/J30/J,IXC,c/f from Mar'24,"  735,000 ","  754,600 ","  771,750 ","  771,750 ","  771,750 ","  771,750 ","  771,750 ","  771,750 ","  771,750 ","  771,750 ",,,,"  6,928,600 "
-Active in Dec,"BADDI SCSThakur Complex , Ward No. 3, Near Texi Stand , Sai Road Baddi",HHP,North,BADDI BRANCH,11000000900,650,Branch,1060,J33,J33,BDI,c/f from Mar'24,"  18,617 ","  18,617 ","  18,617 ","  19,548 ","  19,548 ","  19,548 ","  19,548 ","  19,548 ","  19,548 ","  19,548 ",,,,"  174,070 "
-Active in Dec,"SIRSA BRANCHDr.Inderjit Singh Wali Gali,Mohalla Jail Ground.Dist & Tehsil Sirsa Harayana125055",HHP,North,SIRSA BRANCH - J36 (HO),11000000988,1425,Branch,2168,J36,J36,,c/f from Mar'24,"  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ",,,,"  347,292 "
-Active in Dec,"BAHADURGARH BRANCHZ-99, M.I.E. PART-A, MAMA CHOWK, DELHI ROAD, BAHADURGARH - 124507",HHP,North,BAHADURGARH BRANCH,11000000978,1719,Branch,1573,J37,J37,,c/f from Mar'24,"  41,620 ","  41,620 ","  41,620 ","  43,951 ","  44,534 ","  44,534 ","  44,534 ","  44,534 ","  44,534 ","  44,534 ",,,,"  394,395 "
-Active in Dec,"DC Enterprises Paid Parking,Sabhatu Road,Near Dohari Diwar, Saproon, Solan- HP-173211",HHP,North,SOLAN BRANCH - J39(BO),11000000620,1400,Branch,11000000620,J39,J39,,c/f from Mar'24,"  58,800 ","  58,800 ","  58,800 ","  58,800 ","  58,800 ","  58,800 ","  58,800 ","  58,800 ","  58,800 ","  58,800 ",,,,"  529,200 "
-Active in Dec,"MOGA BRANCHSco 3, Shaid udham Singh market near bus stand G.T. ROAD MOGA PIN 142001",HHP,North,MOGA BRANCH,11000000904,750,Branch,1310,J48,J48,,c/f from Mar'24,"  48,756 ","  48,756 ","  48,756 ","  48,756 ","  50,625 ","  51,194 ","  51,194 ","  51,194 ","  51,194 ","  51,194 ",,,,"  452,863 "
-Active in Dec,"Yamunanagar BranchPlot No- 469-R, Waka Model Town, Teh- Jagadhri, Distt.- Yamuna Nagar.",HHP,North,YAMUNA NAGAR BRANCH DOM,11000000908,825,Branch,1561,J50,J50,,c/f from Mar'24,"  63,320 ","  63,320 ","  63,320 ","  63,320 ","  63,320 ","  63,320 ","  63,320 ","  66,486 ","  66,486 ","  66,486 ",,,,"  579,378 "
-Active in Dec,"LUDHIANA BRANCHVillage Peeru Bnada, Hadbast No 167, Ground Floor, Jammu Colony , Link Road, Opposite Atam Park Ludhiana.",HHP,North,LUDHIANA ATAM PARK BRANCH - J53,11000000895,2103,Branch+ Retail Counter,1416,J53,J53,,c/f from Mar'24,"  133,122 ","  133,122 ","  133,122 ","  182,205 ","  84,039 ","  139,778 ","  139,778 ","  139,778 ","  139,778 ","  139,778 ",,,,"  1,231,378 "
-Active in Dec,"JAMSHEDPUR LTL BRANCHHP Petrol Pump Baliguma, Near Dimna Chowk, Tata Ghatshila Road - NH33",PAT,East,JAMSHEDPUR SCS,11000000926,1200,Branch,1086,JAM,JAM,,c/f from Mar'24,"  22,973 ","  24,122 ","  24,122 ","  21,824 ","  -45,946 ","  120,605 ","  24,121 ","  24,121 ","  24,121 ","  24,121 ",,,,"  241,211 "
-Active in Dec,"Ground floor, Khasra  no 133 and Khewat no 13, Village chak Rattnu, Near Gati Warehouse, Tehsil & District Jammu . Pin-180010",NDL,North,JAMMU BRANCH -LTL,11000001164,2400,Branch,1097,JMU,JMU,N37,New Apr24,  -   ,"  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ",,,,"  360,000 "
-Active in Dec,"C.I.T ROAD-MOULALI BRANCH, Premises NO.27/1A, Ground Floor, C.I.T. Scheme IV,Entally,Kolkatta - 700014",KOL,East,C.I.T ROAD-MOULALI BRANCH,11000001113,1390,Branch,1593,K01,K01,,c/f from Mar'24,"  309,586 ","  309,586 ","  309,586 ","  309,586 ","  309,586 ","  309,586 ","  309,586 ","  309,586 ","  880,828 ","  20,000 ",,,,"  3,067,930 "
-Active in Dec,"KRISHNANAGAR BRANCH-Baikuntha Sarak ,Kheyaghat Para,Krishnanagar WB-741102",KOL,East,RISHNANAGAR BRANCH,11000001117,1500,Branch,2091,K03,K03,,c/f from Mar'24,"  27,563 ",  -   ,"  55,126 ","  86,823 ","  75,109 ","  28,941 ","  28,941 ","  28,941 ","  28,941 ","  29,665 ",,,,"  362,487 "
-Active in Dec,"A5-6/New, Budge Budge Trunk Road,Gopalpur,Sarkarpool, Kolkata,WB-700143",KOL,East,TARATALA MASTER FRANCHISEE - K07 (MF),11000000583,9400,Branch,11000000583,K07,K07/K09,,c/f from Mar'24,"  227,010 ","  227,010 ","  227,010 ","  227,010 ","  227,010 ","  238,360 ","  238,360 ","  238,360 ","  238,360 ","  238,360 ",,,,"  2,099,840 "
-Active in Dec,"Jagannath Villa, 5/2 Khetra mitra lane, Dist. Howrah,P. o.-  salikia, P.S. Golabari, West Bengal - 711106",KOL,East,HOWRAH BRANCH - K08,11000001169,1408,Branch,11000001169,K08,K08,,New Jul-24,  -   ,  -   ,  -   ,  -   ,"  77,440 ","  77,440 ","  77,440 ","  77,440 ","  77,440 ","  77,440 ",,,,"  464,640 "
-Active in Dec,"ALIPURDUAR-NODAL POINT, Ward no 13, Hospital road, Ltkhola,Near Bhangapul,Alipurduar, Jalpaiguri 736121",KOL,East,ALIPURDUAR NODAL POINT,11000001093,300,Branch,1754,K104,K104,,c/f from Mar'24,"  4,025 ","  4,025 ","  4,025 ","  4,025 ","  4,025 ","  4,025 ","  4,025 ","  4,025 ","  4,025 ","  4,025 ",,,,"  36,225 "
-Active in Dec,"Khaitan No 1184&726,Plot No 165,168,169,J.N No.57,Goal Jote,Khaproil Road,P.O Nemoi,Matigara,Siliguri Dist, Darjeeling-734010",KOL,East,Khaprail,11000001122,5337,Branch,2196,K129,K129/K66/K96,,c/f from Mar'24,"  78,454 ","  78,454 ","  82,377 ","  82,377 ","  82,377 ","  82,377 ","  82,377 ","  82,377 ","  82,377 ","  82,377 ",,,,"  737,470 "
-Active in Dec,"Bakunthapur,Dakshin Gobindpur, South 24 Parganas. WB -700145",KOL,East,BARUIPUR BRANCH,11000001121,1080,Branch,2180,K130,K130,,c/f from Mar'24,"  25,000 ","  25,000 ","  25,000 ","  25,000 ","  25,000 ","  25,000 ","  25,000 ","  25,000 ","  25,000 ","  25,000 ",,,,"  225,000 "
-Active in Dec,"Durgapur Branch- Khitan No.834.J.L>No.85,area Plot No5.76,Touzi No.1,Gopalnathpur,Sllampur,Durgapur, Burdwan,",KOL,East,DURGAPUR BRANCH - K14 (BO),11000001119,5040,Branch,2142,K14,K14,,c/f from Mar'24,"  95,760 ","  95,760 ","  95,760 ","  95,760 ","  95,760 ","  95,760 ","  95,760 ","  95,760 ","  95,760 ","  95,760 ",,,,"  861,840 "
-Active in Dec,SILIGURI BranchHILLCART ROAD BEHIND MEGHDOOT CINEMA HALL SILIGURI,KOL,East,EAST-KOL-SILIGURI,11000001077,1407,Branch,1451/1928,K15,K15,,c/f from Mar'24,"  28,636 ","  28,636 ","  28,636 ","  28,636 ","  28,636 ","  28,636 ","  28,636 ","  28,636 ","  28,636 ","  28,636 ",,,,"  257,724 "
-Active in Dec,SILIGURI BranchHILLCART ROAD BEHIND MEGHDOOT CINEMA HALL SILIGURI,KOL,East,SILIGURI-BRANCH-ADDITONAL,11000001100,1100,Branch,1451/1928,K15,K15,,c/f from Mar'24,"  27,830 ","  27,830 ","  27,830 ","  27,830 ","  27,830 ","  27,830 ","  27,830 ","  27,830 ","  27,830 ","  27,830 ",,,,"  250,470 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA  APEX,11000001107,5644,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  181,737 ","  181,737 ","  181,737 ","  181,737 ","  181,737 ","  181,737 ","  181,737 ","  181,737 ","  181,737 ","  181,737 ",,,,"  1,635,633 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA  APEX,11000001074,1920,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  82,560 ","  82,560 ","  82,560 ","  82,560 ","  82,560 ","  82,560 ","  89,165 ","  94,944 ","  94,944 ","  94,944 ",,,,"  786,797 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA  APEX,11000001065,4822,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  155,268 ","  155,268 ","  155,268 ","  155,268 ","  155,268 ","  155,268 ","  155,268 ","  155,268 ","  155,268 ","  155,268 ",,,,"  1,397,412 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA  APEX,11000001066,5794,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  186,567 ","  186,567 ","  186,567 ","  186,567 ","  186,567 ","  186,567 ","  186,567 ","  186,567 ","  186,567 ","  186,567 ",,,,"  1,679,103 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA  APEX,11000001067,0,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  183,126 ","  183,126 ","  183,126 ","  183,126 ","  183,126 ","  183,126 ","  183,126 ","  183,126 ","  183,126 ","  183,126 ",,,,"  1,648,134 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA  APEX,11000001106,6266,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  201,765 ","  201,765 ","  201,765 ","  201,765 ","  201,765 ","  201,765 ","  201,765 ","  201,765 ","  201,765 ","  201,765 ",,,,"  1,815,885 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA  APEX,11000001108,0,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  205,448 ","  205,448 ","  205,448 ","  205,448 ","  205,448 ","  205,448 ","  205,448 ","  205,448 ","  205,448 ","  205,448 ",,,,"  1,849,032 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA APEX,11000001110,3222,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  103,748 ","  103,748 ","  103,748 ","  103,748 ","  103,748 ","  103,748 ","  103,748 ","  103,748 ","  103,748 ","  103,748 ",,,,"  933,732 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLKATA APEX,11000001111,0,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  56,155 ","  56,155 ","  56,155 ","  56,155 ","  56,155 ","  56,155 ","  56,155 ","  56,155 ","  56,155 ","  56,155 ",,,,"  505,395 "
-Active in Dec,"KOLKATA AIR APEX263/1 RAJARHAT ROAD ATHGHARA CHECKPOST, KOLKATA, West Bengal",KOL,East,KOLROEXDDZ,11000001087,1035,HUB/APEX+Branch,1318/1606/2021/2022/2023/2028/2030/2064/2068/2029,K16,K05/K16/K55/K65/K83,,c/f from Mar'24,"  44,505 ","  44,505 ","  44,505 ","  44,505 ","  44,505 ","  44,505 ","  44,505 ","  44,505 ","  44,505 ","  44,505 ",,,,"  400,545 "
-Active in Dec,"ASANSOL BRANCHKanyapur, Asansol, West Bengal",KOL,East,ASANSOL BRANCH,11000001097,2500,Branch,1811,K22,K22,,c/f from Mar'24,"  65,100 ","  65,100 ","  65,100 ","  66,728 ","  68,355 ","  68,355 ","  68,355 ","  68,355 ","  68,355 ","  68,355 ",,,,"  607,058 "
-Active in Dec,"MALDA BRANCHSahapur Setu More , Malda Pin-732142",KOL,East,MALDA BRANCH,11000001095,1300,Branch,1760,K23,K23,,c/f from Mar'24,"  33,000 ","  34,650 ","  36,300 ","  36,300 ","  36,300 ","  36,300 ","  36,300 ","  36,300 ","  36,300 ","  36,300 ",,,,"  325,050 "
-Active in Dec,"KOLKATA INTERNATIONAL8,Pagladanga Road,Old Cocakola Godown,
- Near Paridhan Garments,East Cannel Street(Dhapa,Bypass)
- Kolkata",KOL,East,EAST-KOL-CENTRAL-KOLKATTA-PARCEL BR,11000001090,11020,Branch,1298,K26,K26/K28,,c/f from Mar'24,"  353,021 ","  353,021 ","  353,021 ","  353,021 ","  353,021 ","  353,021 ","  353,021 ","  353,021 ","  353,021 ","  353,021 ",,,,"  3,177,189 "
-Active in Dec,"MECHEDA BRANCHStation Road, Kakdihi, Mecheda, West Bengal 721137",KOL,East,MECHEDA BRANCH,11000001101,500,Branch,1969/11000000640,K32,K32,,c/f from Mar'24,"  14,375 ","  14,375 ","  14,375 ","  14,375 ","  14,375 ","  14,375 ","  14,375 ","  14,375 ","  14,375 ","  14,375 ",,,,"  129,375 "
-Active in Dec,"Vill Kakadihi, PO Mecheda,  Pachim Medinipur,West Bengal-721137",KOL,East,MECHEDA BRANCH-Additional Space,11000000640,700,Branch,1969/11000000640,K32,K32,,c/f from Mar'24-Add Space,"  17,625 ","  17,625 ","  17,625 ","  17,625 ","  17,625 ","  17,625 ","  17,625 ","  17,625 ","  17,625 ","  17,625 ",,,,"  158,625 "
-Active in Dec,"BAHARAMPORE BRANCHPanchanantala Near Samrat Hotel, Baharampur Murshidabad, West Bengal 742101",KOL,East,BAHARAMPUR BRANCH,11000001094,1800,Branch,1759,K37,K37,,c/f from Mar'24,"  36,750 ","  36,750 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ","  38,588 ",,,,"  345,454 "
-Active in Dec,LAKE VIEW BRANCH1771 S.P. MUKHERJEE ROAD KOLKATA,KOL,East,EAST-KOL-LAKEVIEW,11000001062,2083,Branch,1323/1823,K39,K39,,c/f from Mar'24,"  225,400 ","  225,400 ","  225,400 ","  225,400 ","  225,400 ","  225,400 ","  225,400 ","  225,400 ","  225,400 ","  225,400 ",,,,"  2,028,600 "
-Active in Dec,LAKE VIEW BRANCH1771 S.P. MUKHERJEE ROAD KOLKATA,KOL,East,LAKEVIEW MUKHERJEE ROAD BRANCH,11000001063,0,Branch,1323/1823,K39,K39,,c/f from Mar'24,"  27,600 ","  27,600 ","  27,600 ","  27,600 ","  27,600 ","  27,600 ","  27,600 ","  27,600 ","  27,600 ","  27,600 ",,,,"  248,400 "
-Active in Dec,"KHARAGPUR BRANCH, Plot no 1403,J.L no 205, Mouza satkui, Matkatpur, Kharagpur Local, West medinipur - 721305",KOL,East,EAST-KOL-KHARAGPUR,11000001076,1600,Branch,1322,K40,K40,,c/f from Mar'24,"  53,280 ","  53,280 ","  53,280 ","  53,280 ","  53,280 ","  53,280 ","  53,280 ","  53,280 ","  53,280 ","  53,280 ",,,,"  479,520 "
-Active in Dec,"BURDWAN BranchSuri Road, Near Gurudwara, Burdwan, West Bengal",KOL,East,BURDWAN BRANCH,11000001104,2775,Branch,2010,K45,K45,,c/f from Mar'24,"  72,280 ","  72,280 ","  72,280 ","  72,280 ","  72,280 ","  72,280 ","  72,280 ","  75,894 ","  75,894 ","  75,894 ",,,,"  661,362 "
-Active in Dec,"Below MP Golal, Next to Mount Zion School, Metro Point, Tadong, Sikkim- 737102",KOL,East,GANGTOK BRANCH - K51 (BO),11000001123,2010,Branch,11000000605,K51,K51,,c/f from Mar'24,"  100,500 ","  100,500 ","  100,500 ","  100,500 ","  100,500 ","  100,500 ","  100,500 ","  110,550 ","  110,550 ","  110,550 ",,,,"  934,650 "
-Active in Dec,PORT BLAIR BRANCHNO. 16 BASERA DEAN STREET JUNGLIGHAT PORT BLAIR - ANDAMAN AND NIKORBAR NIL 263/1,KOL,East,EAST-KOL-PORTBLAIR,11000001071,900,Branch,1412,K56,K56,,c/f from Mar'24,"  21,962 ","  21,962 ","  21,962 ","  24,158 ","  24,158 ","  24,158 ","  24,158 ","  24,158 ","  24,158 ","  24,158 ",,,,"  213,030 "
-Active in Dec,"MATIGARA SFC APEXJ.N No.57,Khitan No 1184&726, Plot No 165,168,169,Goaljote, Khaprail Road,PO. Memai, Matigara, Dis DarjeelingWest BengalSilliguri,",KOL,East,MATIGARA SFC APEX - K66 (HO),11000001109,14500,HUB/APEX,2049,K66,K129/K66/K96,,c/f from Mar'24,"  206,223 ","  206,223 ","  206,223 ","  206,223 ","  216,534 ","  216,534 ","  216,534 ","  216,534 ","  216,534 ","  216,534 ",,,,"  1,917,873 "
-Active in Dec,"SALT LAKE BRANCHCG -238 SECTOR-2 SALT LAKE CITY NEAR RAMKRISHNA ISLAND, Kolkata",KOL,East,EAST-KOL-SALTLAKE,11000001083,2000,Branch,1450,K68,K68,,c/f from Mar'24,"  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ","  94,500 ",,,,"  850,500 "
-Active in Dec,"Tentukuly, Pakuriya, P.S. Domjur, Tentulkuly, Howrah, WB Pin 711114",KOL,East,KONA BRANCH - K72 (BO),11000001124,4500,BRANCH,11000000601,K72,K72,,c/f from Mar'24,"  109,148 ","  109,148 ","  109,148 ","  109,148 ","  109,148 ","  109,148 ","  112,059 ","  114,605 ","  114,605 ","  114,605 ",,,,"  1,001,614 "
-Active in Dec,GARIA BRANCH56GARIA STATION ROAD BALIA BARA BATTALA (WEST) GARIA,KOL,East,EAST-KOL-GARIA BRANCH,11000001086,1500,Branch,1419,K75,K75,,c/f from Mar'24,"  48,400 ","  48,400 ","  48,400 ","  48,400 ","  48,400 ","  48,400 ","  48,400 ","  48,400 ","  48,400 ","  48,400 ",,,,"  435,600 "
-Active in Dec,"COOCHBEHAR BRANCHMahamaya Colony, Cancer Center Road, Gorakthan, Coochbehar 736101",KOL,East,COOCHBEHAR BRANCH,11000001099,1700,Branch,1927,K79,K79,,c/f from Mar'24,"  25,200 ","  25,200 ","  25,200 ","  25,200 ","  25,200 ","  25,200 ","  26,460 ","  26,460 ","  26,460 ","  26,460 ",,,,"  231,840 "
-Active in Dec,"SERAMPORE BRANCHNear SH 6, Serampore, West Bengal",KOL,East,SREERAMPUR BRANCH,11000001105,3000,Branch,1968,K81,K81,,c/f from Mar'24,"  84,431 ","  63,657 ","  84,431 ","  84,431 ","  85,766 ","  63,657 ","  63,657 ","  63,657 ","  63,657 ","  63,657 ",,,,"  636,570 "
-Active in Dec,RANGPO SUB BRANCHMR D C KHATIIWARA IBM RANGPO OLD BUILDING RANGPO EAST SIKKIM,KOL,East,EAST-KOL-RANGPOO,11000001072,450,Branch,1072,K82,K82,,c/f from Mar'24,"  15,870 ","  15,870 ","  15,870 ","  15,870 ","  15,870 ","  15,870 ","  15,870 ","  15,870 ","  15,870 ","  15,870 ",,,,"  142,830 "
-Active in Dec,DARJEELING SBR. N .Sinha Road Darjeeling Darjeeling,KOL,East,EAST-KOL-SILIGURI CCC,11000001089,350,Branch,1030,K84,K84,,c/f from Mar'24,"  7,935 ","  7,935 ","  7,935 ","  7,935 ","  7,935 ","  7,935 ","  7,935 ","  7,935 ","  7,935 ","  7,935 ",,,,"  71,415 "
-Active in Dec,"Ground floor, Abhilasha II, 6 Royd  Street,  Kolkatta -700016",KOL,East,CAMAC STREET BRANCH - K88 (SB),11000001125,2550,Branch,11000000610,K88,K88,,c/f from Mar'24,"  234,500 ","  234,500 ","  234,500 ","  234,500 ","  234,500 ","  234,500 ","  234,500 ","  234,500 ","  234,500 ","  234,500 ",,,,"  2,110,500 "
-Active in Dec,HALDIA BRANCHPLOT NO.1979 P AND 1995 P MUNICIPALITY AREA P.S. BH DEBHOG PURBA MEDINAPUR HALDIA,KOL,East,EAST-KOL-HALDIA,11000001073,600,Branch,1357,K89,K89,,c/f from Mar'24,"  21,160 ","  21,160 ","  21,160 ","  21,160 ","  21,160 ","  24,334 ","  27,508 ","  24,338 ","  24,335 ","  24,335 ",,,,"  209,490 "
-Active in Dec,"KOLKATA SURFACE APEX-No. Vill/P,Tentulkuly, Howrah, West Bengal-711114",KOL,East,KOLKATA SURFACE APEX,11000001115,65000,HUB/APEX+Branch,2050,K95,K95/k128,CCUC/,c/f from Mar'24,"  1,655,404 ","  1,655,404 ","  1,655,404 ","  1,655,404 ","  1,655,404 ","  1,655,404 ","  1,655,404 ","  1,655,404 ","  1,696,790 ","  1,738,174 ",,,,"  15,022,792 "
-Active in Dec,"GURGAON MASTER FRANCHISEEB-124,VYAPAR KENDRA,SUSHANT LOK-1, GURGAON",GGN,North,DLF BRANCH,11000000886,406,Branch,1042/1077/1120/2026,L02,L02,,c/f from Mar'24,"  48,620 ","  48,620 ","  48,620 ","  48,620 ","  48,620 ","  48,620 ","  48,620 ","  48,620 ","  48,620 ","  48,620 ",,,,"  437,580 "
-Active in Dec,"GURGAON MASTER FRANCHISEE - B-124,VYAPAR KENDRA,SUSHANT LOK-1, GURGAON",GGN,North,GURGAON MASTER FRANCHISEE,11000000881,1000,Branch,1042/1077/1120/2026,L02,L02,,c/f from Mar'24,"  109,817 ","  109,817 ","  109,817 ","  109,817 ","  119,920 ","  116,406 ","  116,406 ","  116,406 ","  116,406 ","  116,406 ",,,,"  1,031,401 "
-Active in Dec,"GURGAON MASTER FRANCHISEE - B-124,VYAPAR KENDRA,SUSHANT LOK-1, GURGAON",GGN,North,GURGAON MASTER FRANCHISEE,11000000882,200,Branch,1042/1077/1120/2026,L02,L02,,c/f from Mar'24,"  19,126 ","  19,126 ","  19,126 ","  21,422 ","  20,274 ","  20,274 ","  20,274 ","  20,274 ","  20,274 ","  20,274 ",,,,"  181,318 "
-Active in Dec,"GURGAON MASTER FRANCHISEEB-124,VYAPAR KENDRA,SUSHANT LOK-1, GURGAON",GGN,North,GURGAON MASTER FRANCHISEE,11000000884,400,Branch,1042/1077/1120/2026,L02,L02,,c/f from Mar'24,"  17,590 ","  17,590 ","  18,470 ","  18,470 ","  18,470 ","  18,470 ","  18,470 ","  18,470 ","  18,470 ","  18,470 ",,,,"  165,350 "
-Active in Dec,GURGAON - HERO HONDA CHOWK37020 Shantinagar Beriwala BaghGurgaon-122001(Hr),GGN,North,GURGAON  HERO HONDA CHOWK,11000000883,1800,Branch,1306,L03,L03,,c/f from Mar'24,"  150,624 ","  150,624 ","  150,624 ","  150,624 ","  150,624 ","  150,624 ","  150,624 ","  158,156 ","  158,154 ","  158,155 ",,,,"  1,378,209 "
-Active in Dec,"GURGAON APEX  1st Floor Back sideBranch- Shop No. 51,52,53 Old Delhi Road Opp Maruthigate No.2 Gurgaon-1220 GURGAON",GGN,North,GURGAON APEX,11000000877,4800,HUB/APEX+Branch+RO,1249/1431/1447/11000000553/11000001215,L04,L04/L,,c/f from Mar'24,"  124,180 ","  124,180 ","  124,180 ","  124,180 ","  124,180 ","  124,180 ","  124,180 ","  124,180 ","  124,180 ","  124,180 ",,,,"  1,117,620 "
-Active in Dec,"GURGAON APEX Branch- G Floor Front SideShop No. 51,52,53 Old Delhi Road Opp Maruthigate No.2 Gurgaon-1220 GURGAON",GGN,North,GURGAON APEX-BASEMENT,11000000880,3600,HUB/APEX+Branch+RO,1249/1431/1447/11000000553/11000001215,L04,L04/L,,c/f from Mar'24,"  152,087 ","  152,087 ","  152,087 ","  152,087 ","  152,087 ","  152,087 ","  152,087 ","  152,087 ","  152,087 ","  152,087 ",,,,"  1,368,783 "
-Active in Dec,"GURGAON APEX Branch- 1st Floor  Shop No. 51,52,53 Old Delhi Road Opp Maruthigate No.2 Gurgaon-1220 GURGAON",GGN,North,GURGAON SCS BRANCH,11000000879,4500,HUB/APEX+Branch+RO,1249/1431/1447/11000000553/11000001215,L04,L04/L,,c/f from Mar'24,"  121,670 ","  121,670 ","  121,670 ","  121,670 ","  121,670 ","  121,670 ","  121,670 ","  121,670 ","  121,670 ","  121,670 ",,,,"  1,095,030 "
-Active in Dec,"Plot No 51A, 52B, 53C Block side, Opp Maruti Gate No 2, Old Delhi , Gurgaon Road, Gurgaon , Haryana -122001",GGN,NORTH,GURGOAN HUB - ADDT SPACE L04,11000001215,3500,HUB_Additional space,1249/1431/1447/11000000553/11000001215,L04,L04/L,,New Nov'24-Add Space,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  400,000 ","  200,000 ",,,,"  600,000 "
-Active in Dec,"GURGAON APEXPlot No.50,Old Delhi Road, Opp Maruthi Udyog Ltd,Gate No.2,Gurgaon, Haryana_122015",GGN,North,GURGAON APEX - L04 (HO),11000000889,2700,HUB/APEX+Branch+RO,1249/1431/1447/11000000553/11000001215,L04,L04/L,,c/f from Mar'24-Add Space,"  38,850 ","  38,850 ","  38,850 ","  40,793 ","  40,793 ","  40,793 ","  40,793 ","  40,793 ","  40,793 ","  40,793 ",,,,"  363,251 "
-Active in Dec,"FC-8 Bilaspur FC08- Khasra no 246,Nr Bilaspur chowk,Patudi, Bhora kalan road,Gurgoan",GGN,North, FC-8 BILASPUR,11000000887,112000,Branch+FC,2105,L05,L05/FC-8,,c/f from Mar'24,"  1,390,069 ","  1,390,069 ","  1,390,069 ","  1,390,069 ","  1,390,069 ","  1,390,069 ","  1,390,069 ","  1,390,069 ","  1,390,069 ","  1,390,069 ",,,,"  12,510,621 "
-Active in Dec,"GURGAON SCS Branch - Shop No. 51,52,53 Old Delhi Road Opp Maruthigate No.2 Gurgaon-1220 GURGAON",GGN,North,GURGAON SCS BRANCH,11000000878,2700,Branch,1250,L14,L14,,c/f from Mar'24,"  91,253 ","  91,253 ","  91,253 ","  91,253 ","  91,253 ","  91,253 ","  91,253 ","  91,253 ","  91,253 ","  91,253 ",,,,"  821,277 "
-Active in Dec,"Billaspur -Manesar Branch9/21,22/23/2,24/2, Village Jhund Sarai, Viran, Dist Gurgaon-Harayana-131001",GGN,North,BILASPUR APEX-L24,11000000888,88050,HUB/APEX+Branch,2179,L24,L23/L24,JML,c/f from Mar'24,"  1,543,500 ","  1,543,500 ","  1,543,500 ","  1,543,500 ","  1,543,500 ","  1,543,500 ","  1,543,500 ","  1,543,500 ","  1,543,500 ","  1,543,500 ",,,,"  13,891,500 "
-Active in Dec,"GURGAON - SOHNA ROADVILAGE - FAZILPUR, ADJACENT PARSVNATH CITY, GREEN VILLE, OPP OMAXE MALL, SEC.48, SOHNA ROAD, GURGAON",GGN,North,GURGAON  SOHNA ROAD,11000000885,1800,Branch,1135,L27,L27,,c/f from Mar'24,"  113,909 ","  113,909 ","  113,909 ","  113,909 ","  113,909 ","  113,909 ","  113,909 ","  113,909 ","  113,909 ","  113,909 ",,,,"  1,025,181 "
-Active in Dec,"NUH BRANCHPlot No 631, Khan Diesel Works Shop, Hidayat Colony, Old GT,NH 248A,Nuh,Haryana_122107",GGN,North,NUH BRANCH,11000000890,2500,Branch+Retail Counter,11000000532,L28,L28/LC034,,c/f from Mar'24,"  26,250 ","  26,250 ","  26,250 ","  26,950 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ",,,,"  244,828 "
-Active in Dec,"Lower Parel branchDTDC EXPRESS LTD 1 & 14,Plot - CS 445,Madhu Industrial Estate Pandurang Budhkar Marg NR Century Mill Delisle Road Mumbai -400013",MUM,West,WORLI BRANCH,11000001032,6103,Branch,2032,M01,M01,LPL,c/f from Mar'24,"  1,009,761 ","  1,009,760 ","  1,009,760 ","  1,009,760 ","  1,009,760 ","  1,009,760 ","  1,009,760 ","  1,009,760 ","  1,009,760 ","  1,009,760 ",,,,"  9,087,840 "
-Active in Dec,"Ground Floor,240/242,Ajaydeep,Perin Nariman Street, Fort, Mumbai-400001",MUM,West,FORT BRANCH - M02 (BO),11000001061,2700,Branch,11000000627,M02,M02,,c/f from Mar'24,"  630,000 ","  630,000 ","  630,000 ","  630,000 ","  630,000 ","  630,000 ","  630,000 ","  630,000 ","  630,000 ","  630,000 ",,,,"  5,670,000 "
-Active in Dec,"MIDC BRANCHM/S. DTDC EXPRESS LTD,Arun Mill Compound Gala No -2 Andheri Kurla Road Chakala Opp Holly Family Church Andheri East.Mumbai 93",MUM,West,INTL & MIDC PREMISES-MUMBAI,11000001031,1118,Branch,1546,M04,M04,,c/f from Mar'24,"  231,000 ","  231,000 ","  231,000 ","  231,000 ","  231,000 ","  242,000 ","  242,000 ","  242,000 ","  242,000 ","  242,000 ",,,,"  2,134,000 "
-Active in Dec,"Goregaon ROM/S. DTDC EXPRESS LTD.PLOT NO.14, VIJAYNAGAR, WESTERN EXPRESS HIGHWAY,NR. VIRVANI INDLESTATE,DINDOSHI, GOREGAON E, MUMBAI - 400063",MUM,West,MUMBAI RO,11000001021,10500,Branch+Corporate office,1391/1598,M05,M05/M/M74,,c/f from Mar'24,"  1,746,957 ","  1,746,957 ","  1,746,957 ","  1,746,957 ","  1,746,957 ","  1,746,957 ","  1,746,957 ","  1,790,632 ","  1,834,305 ","  1,834,305 ",,,,"  15,940,984 "
-Active in Dec,"Goregaon ROM/S. DTDC EXPRESS LTD.PLOT NO.14, VIJAYNAGAR, WESTERN EXPRESS HIGHWAY,NR. VIRVANI INDLESTATE,DINDOSHI, GOREGAON E, MUMBAI - 400063",MUM,West,MUMBAI RO,11000001022,5225,Branch+Corporate office,1391/1598,M05,M05/M/M74,,c/f from Mar'24,"  562,384 ","  562,384 ","  562,384 ","  562,384 ","  562,384 ","  590,503 ","  590,503 ","  590,503 ","  590,503 ","  590,503 ",,,,"  5,202,051 "
-Active in Dec,"Ghatkopar BranchM/S. DTDC EXPRESS LTD SHOP NO.9&10,SWASTIK DISA PARK LBS MARG GHATKOPAR (W) MUMBAI 400086",MUM,West,GHATKOPAR BRanch,11000001025,1351.29,Branch,1743,M06,M06,,c/f from Mar'24,"  275,000 ","  302,500 ","  302,500 ","  302,500 ","  302,500 ","  302,500 ","  302,500 ","  302,500 ","  302,500 ","  302,500 ",,,,"  2,722,500 "
-Active in Dec,"THANE BRANCHAnand Kavach Building -A, Eastern Express Highway Service Road,Near Flower Valley, Panchpakadi, Thane(W)400602",MUM,West,THANE BRANCH - M07 (BO),11000001054,3753,Branch,2172/11000000528,M07,M07,,c/f from Mar'24,"  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ",,,,"  3,969,000 "
-Active in Dec,"Thane Branch (Majiwada) Shop.G1/A, Ground Floor, Anand Kavach Building, Service Road, Opp. Majiwada Flyover, Near Flower Valley, Thane (West)_400602",MUM,West,THANE BRANCH - M07 (BO),11000001058,3370.04,Branch,2172/11000000528,M07,M07,,c/f from Mar'24-Add Space,"  341,250 ","  341,250 ","  341,250 ","  349,782 ","  358,313 ","  358,313 ","  358,313 ","  358,313 ","  358,313 ","  358,313 ",,,,"  3,182,160 "
-Active in Dec,"Vashi BranchDtdc Express Ltd Plot no. 70, Sec -1, Shirawane Service Road Near Juinagar Stations Nerul, Navi Mumbai - 400706",MUM,West,VASHI BRANCHNAVI MUMBAI,11000001034,8000,Branch,1365,M08,M08,VSH,c/f from Mar'24,"  733,863 ","  733,863 ","  733,863 ","  733,863 ","  770,555 ","  770,555 ","  770,555 ","  770,555 ","  770,555 ","  770,555 ",,,,"  6,824,919 "
-Active in Dec,"Mumbai ApexDTDC SAKINAKA HUB,NEAR TEJPAL INDUSTRIAL ESTATE,ANDHERI KURLA ROAD,SAKINAKA,ANDHERI EAST,MUMBAI-400072",MUM,West,SAKINAKA MUMBAI APEX,11000001037,38000,HUB/APEX+Branch,1991,M10,M10/M13/M54/M69,SKN/THN,c/f from Mar'24,"  5,565,001 ","  5,565,001 ","  5,565,001 ","  5,565,001 ","  5,565,001 ","  5,565,001 ","  5,565,001 ","  5,565,001 ","  5,565,001 ","  5,843,251 ",,,,"  50,363,259 "
-Active in Dec,"G.P.H No 382, Survey No 42/1, 42/2, Mumbai Nasik Highway, Next to  Macdonald  Hotel, Valshind Village, Bhiwandi - 421302",MUM,West,MUMBAI VADPE APEX - M33 (HO),11000001057,375038,HUB/APEX+FC,2199,M33,M33/M75/M73/M35/FC-06/M72,,c/f from Mar'24,"  6,300,000 ","  6,300,000 ","  6,300,000 ","  6,615,000 ","  6,615,000 ","  6,615,000 ","  6,615,000 ","  6,615,000 ","  6,615,000 ","  6,615,000 ",,,,"  58,905,000 "
-Active in Dec,"Panvel BranchM/S. DTDC EXPRESS LTD.Plot no. 22/23 Hariharitage Sector - 22,Kamothe, Navi Mumbai",MUM,West,PANVEL BRANCH,11000001030,928,Branch,1362,M39,M39,,c/f from Mar'24,"  75,000 ","  75,000 ","  75,000 ","  75,000 ","  75,000 ","  75,000 ","  75,000 ","  249,260 ","  162,130 ","  169,630 ",,,,"  1,031,020 "
-Active in Dec,"Shop No 6&7,Manjari Arcade, Plot No 7/B2,PL Lokhande Marg,Opp ASISI Nagar,Govandi(W)-Mumbai-40043",MUM,West,CHEMBUR BRANCH - M45 (BO),11000001055,1493,Branch,2181,M45,M45,,c/f from Mar'24,"  219,471 ","  228,982 ","  230,445 ","  230,445 ","  230,445 ","  230,445 ","  230,445 ","  230,445 ","  230,445 ","  230,445 ",,,,"  2,072,542 "
-Active in Dec,"VASAI BRANCH - Gala No.3&4, Sankalp Industuial Estate,Sativali Road,Village Gokhiware,Vasi Road(East),Thane-401208",MUM,West,VASAI BRANCH - M46 (BO),11000001040,2092,Branch,2070,M46,M46,TNA,c/f from Mar'24,"  150,000 ","  150,000 ","  150,000 ","  150,000 ","  150,000 ","  150,000 ","  150,000 ","  150,000 ","  150,000 ","  150,000 ",,,,"  1,350,000 "
-Active in Dec,"Kalyan BranchM/S. DTDC EXPRESS LTD, Gala No. 1/2/3, Saryodaya Gardan, Near Platform No. -1, Kalyan (West)-421301",MUM,West,KALYAN BR,11000001029,1865,Branch,1361,M47,M47,ABN,c/f from Mar'24,"  205,700 ","  226,270 ","  226,270 ","  226,270 ","  226,270 ","  226,270 ","  226,270 ","  226,270 ","  226,270 ","  226,270 ",,,,"  2,036,430 "
-Active in Dec,"Andheri BranchM/S. DTDC EXPRESS LTD.,GALA NO. 4 SONA UDHYUG PARSEE PANCHAYAT ROAD ANDHERI-EAST MUMBAI – 400069",MUM,West,ANDHERI BR,11000001027,1260,Branch,1326/11000000568,M48,M48/BC132,,c/f from Mar'24,"  203,172 ","  203,172 ","  203,172 ","  203,172 ","  203,172 ","  203,172 ","  203,172 ","  203,172 ","  210,000 ","  210,000 ",,,,"  1,842,204 "
-Active in Dec,"Andheri (Sona udyog)Gala No.3, Sona Udyog, Parsi panchayat Road, Andheri - East. Mumbai-400069",MUM,West,ANDHERI BRANCH - M48 (BO),11000001060,1260,Branch,1326/11000000568,M48,M48/BC132,,c/f from Mar'24-Add Space,"  189,390 ","  189,390 ","  189,390 ","  202,647 ","  202,647 ","  202,647 ","  202,647 ","  202,647 ","  202,647 ","  202,647 ",,,,"  1,797,309 "
-Active in Dec,"Unit No4&5, Bhaichand Indutril Estate, Near SBI Bank, LBS Road ,Bhandup(W) , 400078 MAH",MUM,West,BHANDUP BRANCH - M59 (BO),11000001140,8137,Branch,11000001140,M50,M50/M59,,c/f from Mar'24,"  500,000 ","  512,500 ","  525,000 ","  525,000 ","  525,000 ","  525,000 ","  525,000 ","  525,000 ","  525,000 ","  525,000 ",,,,"  4,712,500 "
-Active in Dec,"WADKAL BRANCH-Shop No.20,Red Wood City Plaza, Mauje Pen, Tal Pen, Dist Raigarh-402107",MUM,West,WADKAL BRANCH OFFICE,11000001051,225,Branch,2087,M63,M63,,c/f from Mar'24,"  15,000 ","  15,000 ","  15,000 ","  15,000 ","  15,000 ","  15,000 ","  15,000 ","  15,000 ","  15,000 ","  16,500 ",,,,"  136,500 "
-Active in Dec,"BANDRA SORTING OFFICE-Shop No.17A,Ground Floor,Block ""A"",Building Gopal Mansion,Guru Nanak Road, Bandra(W), Mumbai-400050",MUM,West,BANDRA SORTING OFFICE - M68 (SO),11000001052,500,Branch,2096,M68,M68,,c/f from Mar'24,"  140,000 ","  140,000 ","  140,000 ","  140,000 ","  140,000 ","  140,000 ","  140,000 ","  140,000 ","  140,000 ","  140,000 ",,,,"  1,260,000 "
-Active in Dec,"HOOSAINI PLAZA,Shop no.24, S.V.Road, Near Andheri station, Amboli, Andheri (W), Mumbai - 400058",MUM,West,Andheri (W) Branch ,11000001056,2500,Branch,2190,M78,M78,,c/f from Mar'24,"  420,000 ","  420,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ","  441,000 ",,,,"  3,948,000 "
-Active in Dec,"GHAZIPUR BRANCH - Khasara No.137,Area of Village Ghazipur, Village Shahdara, New Delhi",NDL,North,GHAZIPUR BRANCH,11000000965,9300,Branch,1982,N02,N02,DTN/DTY,c/f from Mar'24,"  488,750 ","  488,750 ","  488,750 ","  488,750 ","  488,750 ","  488,750 ","  488,750 ","  488,750 ","  488,750 ","  488,750 ",,,,"  4,398,750 "
-Active in Dec,"Naraina BranchWZ 127A, Naraina Village, Near Naraina Flyover Pillar No - 18A, New Delhi-110028",NDL,North,NARIANA BRANCH,11000000962,8500,Branch,1882,N03,N03/N12,,c/f from Mar'24,"  619,910 ","  619,910 ","  619,910 ","  619,910 ","  619,910 ","  635,409 ","  650,904 ","  650,904 ","  650,904 ","  650,904 ",,,,"  5,718,665 "
-Active in Dec,"SamalkhaKhasra No. 16/6, Telephone Exchange Road, Samalka, Delhi 37",NDL,North,SAMALKHA,11000000952,79500,HUB/APEX+RO,2034/11000000581/11000000619,N05,L01/N04/N05/N06/N20/N24/S25/N41 / N/N39,,c/f from Mar'24,"  3,005,035 ","  3,005,035 ","  3,005,035 ","  3,005,035 ","  3,005,035 ","  3,005,035 ","  3,005,035 ","  3,005,035 ","  3,005,035 ","  3,005,035 ",,,,"  27,045,315 "
-Active in Dec,"Mustatil no:16,Killa no-4/2(0-3),Revenue estate of Vill Samalkaha,Tehsil - Vasant Vihar,NEW DELHI-110037",NDL,North,DELHI GATEWAY - DEL (GW),11000000976,42000,HUB/APEX+RO,2034/11000000581/11000000619,N05,L01/N04/N05/N06/N20/N24/S25/N41 / N/N39,,c/f from Mar'24-Add Space,"  1,470,000 ","  1,470,000 ","  1,470,000 ","  1,470,000 ","  1,470,000 ","  1,470,000 ","  1,470,000 ","  1,470,000 ","  1,470,000 ","  1,470,000 ",,,,"  13,230,000 "
-Active in Dec,"SamalkhaKhasra No. 16/6, Telephone Exchange Road, Samalka, Delhi 37",NDL,North,SAMALKHA PARKING,11000000958,22790,HUB/APEX+RO,2034/11000000581/11000000619,,N05-PARKING,,c/f from Mar'24,"  296,270 ","  296,270 ","  296,270 ","  296,270 ","  296,270 ","  296,270 ","  296,270 ","  296,270 ","  296,271 ","  296,271 ",,,,"  2,666,432 "
-Active in Dec,"WazirpurC-91/3, Wazirpur Industrial area , New Delhi",NDL,North,WAZIRPURDELHI,11000000957,3500,Branch,1368,N09,N09,,c/f from Mar'24,"  415,000 ","  415,000 ","  415,000 ","  415,000 ","  415,000 ","  415,000 ","  435,750 ","  435,750 ","  435,750 ","  435,750 ",,,,"  3,818,000 "
-Active in Dec,"Jhandewalan2E/23, Jhandewalan Extn. New Delhi",NDL,North,JHANDEWALAN PARCEL BRANCH,11000000961,4300,Branch,1762,N10,N10,,c/f from Mar'24,"  437,000 ","  437,000 ","  437,000 ","  437,000 ","  437,000 ","  437,000 ","  437,000 ","  437,000 ","  437,000 ","  437,000 ",,,,"  3,933,000 "
-Active in Dec,Meerabagh - RZ-1 Sayeed Nagloi Village Paschim Vihar New Delhi,NDL,North,MEERA BAGH BRANCH,11000000945,1700,Branch,1076/1333/11000000579,N11,N11,,c/f from Mar'24,"  108,445 ","  108,445 ","  108,445 ","  108,445 ","  108,445 ","  108,445 ","  108,445 ","  124,712 ","  124,712 ","  124,712 ",,,,"  1,024,806 "
-Active in Dec,Meerabagh - RZ-1 Sayeed Nagloi Village Paschim Vihar New Delhi,NDL,North,MEERA BAGH BRANCH,11000000949,1800,Branch,1076/1333/11000000579,N11,N11,,c/f from Mar'24,"  107,208 ","  107,208 ","  107,208 ","  107,208 ","  112,568 ","  112,568 ","  112,568 ","  112,568 ","  112,568 ","  112,568 ",,,,"  997,032 "
-Active in Dec,"RZ-1, Yadav Mohalla, Sayed Nanglol Village, New Delhi -110087",NDL,North,MEERBAGH BRANCH - N11 (BO),11000000975,2000,Branch,1076/1333/11000000579,N11,N11,,c/f from Mar'24-Add Space,"  113,867 ","  113,867 ","  113,867 ","  113,867 ","  113,867 ","  119,560 ","  119,560 ","  119,560 ","  119,560 ","  119,560 ",,,,"  1,053,268 "
-Active in Dec,"No.B-16/6,Jhilmil Industial Area,G T Road,Shahadra, New Delhi- 110095",NDL,North,DURGAPURI BRANCH,11000001157,3300,Branch,11000001157,N15,N15,,c/f from Mar'24,"  200,000 ","  200,000 ","  200,000 ","  200,000 ","  200,000 ","  200,000 ","  200,000 ","  200,000 ","  200,000 ","  207,667 ",,,,"  1,807,667 "
-Active in Dec,"Plot No.7,Basement, Ground floor, First floor, Second floor and third floor at Block B, Badali Industial Estate Phase I,Badali,New Delhi Pin code- 110042",NDL,North,ROHINI BRANCH,11000001162,4700,Branch,11000001162,N17,N17,,c/f from Mar'24,"  400,000 ","  400,000 ","  400,000 ","  400,000 ","  400,000 ","  400,000 ","  400,000 ","  400,000 ","  400,000 ","  400,000 ",,,,"  3,600,000 "
-Active in Dec,"Noida BranchA-7, Sector-7, Noida -201301",NDL,North,NOIDA BRANCH,11000000944,5400,Branch,1334/11000000566/11000000503,N30,N30,NDA,c/f from Mar'24,"  239,207 ","  239,207 ","  239,207 ","  239,207 ","  239,207 ","  239,207 ","  251,167 ","  251,167 ","  251,167 ","  251,167 ",,,,"  2,200,703 "
-Active in Dec,"A7, Sector 7, Noida-201301",NDL,North,NOIDA BRANCH ADDL,11000000971,3726,Branch,1334/11000000566/11000000503,N30,N30,,c/f from Mar'24-Add Space,"  164,317 ","  164,317 ","  164,317 ","  164,317 ","  164,317 ","  164,317 ","  164,317 ","  164,317 ","  164,317 ","  164,317 ",,,,"  1,478,853 "
-Active in Dec,"Greater NoidaPlot No. A-5 D, Sector -80, Noida Phase II, (UP)",NDL,North,GREATER NOIDA BRANCH,11000000950,2500,Branch,1366,N31,N31,,c/f from Mar'24,"  68,905 ","  68,905 ","  68,905 ","  68,905 ","  68,905 ","  68,905 ","  68,905 ","  68,905 ","  68,905 ","  68,905 ",,,,"  620,145 "
-Active in Dec,"Noida Phase 3A-14, Sector-58 Noida",NDL,North,Noida-Khoda,11000000960,8000,Branch,1553,N32,N32,,c/f from Mar'24,"  236,111 ","  236,111 ","  236,111 ","  236,111 ","  236,111 ","  236,111 ","  236,111 ","  236,111 ","  236,111 ","  236,111 ",,,,"  2,124,999 "
-Active in Dec,"Pari Chowk NoidaPlot No. G-1, Ground Floor UPSIDC Industrial Area, Site-4, (Near The Grand Venice Mall/ Big Bazar), Greater Noida - 201 301",NDL,North,UPSIDC INDUSTRIAL AREANOIDA,11000000953,3500,Branch,1175,N35,N35,,c/f from Mar'24,"  89,688 ","  91,875 ","  91,875 ","  91,875 ","  91,875 ","  91,875 ","  91,875 ","  91,875 ","  91,875 ","  91,875 ",,,,"  826,875 "
-Active in Dec,"Jammu Branch19-C/A, Extn. Gandhi Nagr, Jammu",NDL,North,JAMMU BRANCH,11000000955,3000,Branch,1367,N37,N37,,c/f from Mar'24,"  94,259 ","  94,259 ","  94,259 ","  94,259 ","  94,259 ","  94,259 ","  94,259 ","  94,259 ","  94,259 ","  101,800 ",,,,"  855,872 "
-Active in Dec,"SrinagarCOMFORT STAY, NOWPORA KHAYAM CHOWK, OPP. HOTEL ROYAL BATOO SRI NAGAR J&K.,",NDL,North,SRINAGAR BR.,11000000954,2200,Branch,1455/2121,N38,N38,,c/f from Mar'24,"  187,786 ","  187,786 ","  187,786 ","  187,786 ","  187,787 ","  206,565 ","  216,578 ","  206,564 ","  206,564 ","  206,564 ",,,,"  1,793,980 "
-Active in Dec,"Srinagar Addl Space -COMFORT STAY, NOWPORA KHAYAM CHOWK, OPP. HOTEL ROYAL BATOO SRI NAGAR J&K.,",NDL,North,SRINAGAR BRANCH ADDL PREMISES,11000000968,1100,Branch,1455/2121,N38,N38,,c/f from Mar'24,"  47,086 ","  47,086 ","  47,086 ","  51,794 ","  51,794 ","  51,794 ","  51,794 ","  51,794 ","  51,794 ","  51,794 ",,,,"  456,730 "
-Active in Dec,"ALLEPPEY BRANCH-No.51/340,Malikayil Building,Arattuvazy Ward-401208",COK,South,ALLEPPEY BRANCH,11000000801,2900,Branch,2086/11000000607,O01,O01,,c/f from Mar'24,"  34,728 ","  34,728 ","  34,728 ","  34,728 ","  34,728 ","  34,728 ","  34,728 ","  34,728 ","  36,464 ","  36,464 ",,,,"  316,024 "
-Active in Dec,"No.51/340,Malikayal Building, Arattuvazhy,Alleppey,Kerala-688007",COK,South,ALLEPPEY BRANCH - O01 (BO),11000000607,900,Branch,2086/11000000607,O01,O01,,c/f from Mar'24-Add Space,"  10,500 ","  10,500 ","  10,500 ","  10,500 ","  10,500 ","  10,500 ","  10,500 ","  11,550 ","  11,025 ","  11,025 ",,,,"  96,600 "
-Active in Dec,"CALICUT BRANCHKaikkottu Parambu , pachakkil , Chevarambalam PO , Calicut - 673017",COK,South,CALICUT BRANCH,11000000796,5650,Branch,1461,O02,O02,,c/f from Mar'24,"  159,720 ","  159,720 ","  159,720 ","  159,720 ","  159,720 ","  159,720 ","  159,720 ","  159,720 ","  159,720 ","  165,044 ",,,,"  1,442,804 "
-Active in Dec,"PALGHAT BRANCHNo.12/514,Near Kannadi HSS,Chellikad,Kannadi (PO),KeralaPalakkad",COK,South, PALAKKAD BRANCH,11000001128,2500,Branch,2039,O03,O03,,c/f from Mar'24,"  58,564 ","  58,564 ","  58,564 ","  58,564 ","  58,564 ","  58,564 ","  58,564 ","  58,564 ","  58,564 ","  64,420 ",,,,"  532,932 "
-Active in Dec,"Kerala Tiles & Clay works, Padavaradu,Kuttanllur,Thrissur, Kerala-680306",COK,South,TRICHUR BRANCH - O04 (BO),11000000562,5800,Branch,11000000562,O04,O04,,c/f from Mar'24,"  159,863 ","  159,863 ","  159,863 ","  159,863 ","  159,863 ","  159,863 ","  159,863 ","  159,863 ","  159,863 ","  159,863 ",,,,"  1,438,767 "
-Active in Dec,"TRIVANDRUM BRANCH, TC No: 43/2053(1),Killippalam,Trivandrum,Kerala",COK,South,TRIVENDRUM BRANCH,11000000798,3900,Branch,2014,O05,O05,,c/f from Mar'24,"  142,214 ","  142,214 ","  142,214 ","  142,214 ","  142,214 ","  142,214 ","  142,214 ","  142,214 ","  142,214 ","  142,214 ",,,,"  1,279,926 "
-Active in Dec,"No.2/617-A, Survey No.194/1, Cherannoor Taulk, Cheranallur, kanayannoor, Ernakulam, Cochin- 683544",COK,South,COCHIN APEX,11000000800,26500,HUB/APEX+Branch+RO,2060,O06,O06/O13/O,,c/f from Mar'24,"  686,941 ","  686,941 ","  686,941 ","  686,941 ","  686,941 ","  686,941 ","  1,057,651 ","  1,425,154 ","  1,425,155 ","  1,425,154 ",,,,"  8,767,819 "
-Active in Dec,"Kottayam Branch-No.29-815A,Crystal Arcade,Kodimatha Industial Estate, Kottayam, Kerala",COK,South,KOTTAYAM BRANCH - O07 (BO),11000000124,2300,Branch,2161,O07,O07,,c/f from Mar'24,"  52,920 ","  52,920 ","  52,920 ","  52,920 ","  52,920 ","  52,920 ","  52,920 ","  52,920 ","  52,920 ","  58,280 ",,,,"  481,640 "
-Active in Dec,"QUILON BRANCHINLAND WATER DEPT COMPOUNDNR ESK HOSPITAL, ASTAMUDI SEAPLANE BASE ASRAMAM KOLLAM",COK,South,Kollam Branch,11000000799,2900,Branch,2033,O08,O08,,c/f from Mar'24,"  65,230 ","  65,230 ","  65,230 ","  65,230 ","  65,230 ","  65,230 ","  65,230 ","  65,230 ","  65,230 ","  65,230 ",,,,"  587,070 "
-Active in Dec,"CANNANORE BRANCH- 49/624.T.K Junction,P.O Thana, Kannur-671212",COK,South,CANNANORE BRANCH ,11000000803,4500,Branch,2092,O09,O09,,c/f from Mar'24,"  89,690 ","  89,690 ","  89,690 ","  89,690 ","  89,690 ","  89,690 ","  89,690 ","  89,690 ","  89,690 ","  94,176 ",,,,"  811,696 "
-Active in Dec,"THIRUVALLA BRANCH-No.1/46, Italia,Muthoor(PO),Thiuvalla,Pathanathitta, Kerala",COK,South,THIRUVALLA BRANCH - O11 (SB),11000000123,3672,Branch,2159,O11,O11,,c/f from Mar'24,"  64,497 ","  64,497 ","  64,497 ","  64,497 ","  64,497 ","  64,497 ","  64,497 ","  64,497 ","  64,497 ","  67,722 ",,,,"  583,698 "
-Active in Dec,"KOTTAKKAL BRANCH85/B Ward 17, Machinchery , Cherulal , Ananthavoor PO , Malappuram - 676301",COK,South,KOTTAKAL BRANCH,11000000797,1500,Branch,1998,O12,O12,,c/f from Mar'24,"  31,944 ","  31,944 ","  31,944 ","  31,944 ","  31,944 ","  31,944 ","  31,944 ","  38,012 ","  35,138 ","  35,138 ",,,,"  299,952 "
-Active in Dec,"CHERTHALA BRANCHRoom No: 2/286, 2/287, 29/276, 29/277, Chittezhath Buildings , Opp. Aided Priamry Teachers Co-operative Society, West of Manoram Junction, Chethala 688524",COK,South,CHERTHALA,11000000795,220,Branch,1096,O14,O14,,c/f from Mar'24,"  11,819 ","  11,819 ","  11,819 ","  11,819 ","  11,819 ","  11,819 ","  11,819 ","  11,819 ","  11,819 ","  11,819 ",,,,"  106,371 "
-Active in Dec,"CHANGANACHERRY BRANCHRajeswari Complex, Perunna PO, Changanassery-686102",COK,South,CHANGANASSERY,11000001151,100,Branch,1054/1556,O17,O17,,c/f from Mar'24,"  5,787 ","  5,787 ","  5,787 ","  6,366 ","  6,366 ","  6,366 ","  6,366 ","  6,366 ","  6,366 ","  6,366 ",,,,"  56,136 "
-Active in Dec,"CHANGANACHERRY BRANCHRajeswari Complex, Perunna PO, Changanassery-686102",COK,South,CHANGANASSERY-NODALPOINT,11000000112,250,Branch,1054/1556,O17,O17,,c/f from Mar'24,"  11,272 ","  1,127 ","  21,417 ","  20,956 ","  16,127 ","  15,000 ","  15,000 ","  15,000 ","  15,000 ","  15,000 ",,,,"  134,627 "
-Active in Dec,"Adimali Branch -No.11/154,Mekkattil Building, Post Office Road, Near Iqra Medical Center, Market Junction,AdimaliPO, Idukki",COK,South,ADIMALY BRANCH - O21 (SO),11000000468,712,Branch,2117,O21,O21,,c/f from Mar'24,"  14,641 ","  14,641 ","  14,641 ","  14,641 ","  14,641 ","  14,641 ","  14,641 ","  14,641 ","  14,641 ","  14,641 ",,,,"  131,769 "
-Active in Dec,"COCHIN NORTHDoor No: 43/1608 and 43/1608 B, Located at APM Towers, Near North Railway Station Road, Cochin-18",COK,South,COCHIN  BRANCH,11000000793,1500,Branch,1085/1415,O23,O23,,c/f from Mar'24,"  17,260 ","  17,260 ","  17,260 ","  17,260 ","  17,260 ","  17,260 ","  17,260 ","  17,260 ","  17,260 ","  17,260 ",,,,"  155,340 "
-Active in Dec,"COCHIN NORTHDoor No: 43/1608 and 43/1608 B, Located at APM Towers, Near North Railway Station Road, Cochin-18",COK,South,COCHIN  BRANCH,11000000794,5010,Branch,1085/1415,O23,O23,,c/f from Mar'24,"  193,670 ","  193,670 ","  193,670 ","  193,670 ","  193,670 ","  193,670 ","  193,670 ","  193,670 ","  193,670 ","  193,670 ",,,,"  1,743,030 "
-Active in Dec,"KALPETTA BRANCH-Ujala Complex,Kalpetta- Munderi Road,Ambilery,Kalpetta,Kerala",COK,South,KALPETTA BRANCH - O25 (BO),11000000122,750,Branch,2156,O25,O25,,c/f from Mar'24,"  26,016 ","  26,016 ","  26,016 ","  26,016 ","  26,016 ","  26,016 ","  26,016 ","  26,016 ","  28,618 ","  28,618 ",,,,"  239,348 "
-Active in Dec,"PVS Complex, Moolakandam, Mavungal, Anandasram PO, Kasargod - 671531",COK,South,KANHANGAD BRANCH ,11000001141,1080,Branch,11000001141,O60,O60,,c/f from Mar'24,"  25,000 ",  -   ,"  50,000 ","  53,750 ","  1,250 ","  26,250 ","  26,250 ","  26,250 ","  26,250 ","  26,250 ",,,,"  236,250 "
-Active in Dec,"Muvattupuzha Branch-MSP Tower, No.264/A1/A2/A3/AM,Old MC Road, Muvattupuzha, Kerala-673017",COK,South,Muvattupuzha Branch-O88,11000000467,712,Branch,2116,O88,O88,,c/f from Mar'24,"  21,728 ","  21,728 ","  21,728 ","  21,728 ","  21,728 ","  21,728 ","  21,728 ","  21,728 ","  21,728 ","  21,728 ",,,,"  195,552 "
-Active in Dec,"Nithyajyothi Building,Ponniyam West, Engenerring College Road,NAYANAR ROAD,Thalassery, Kerla-670641",COK,South,Thalassery branch,11000000593,900,Branch,11000000593,O89,O89,,c/f from Mar'24,"  24,150 ","  24,150 ","  24,150 ","  24,150 ","  24,150 ","  24,593 ","  25,357 ","  25,357 ","  25,357 ","  25,357 ",,,,"  222,621 "
-Active in Dec,"No.456-A, Sree Gopalam, Pallicha veddumuri, PO- Pallipuram , Thamarakulam, Trivandrum, Kerala - 695316",COK,South,ATTINGAL BRANCH - CTBS CODE - O90,11000001170,1800,Branch,11000001170,O90,O90,,New Jul-24,  -   ,  -   ,  -   ,  -   ,"  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ",,,,"  240,000 "
-Active in Dec,"Pune SCS BranchS.No - 79/1, Dynamic Logistics Ltd, Dighi ( Pune ) - Alandi Road,Talerag Nagar,Pune",PNQ,West,"DIGHI, PUNE",11000000861,42400,HUB/APEX+Branch+RO,1392,P01,P01/P44/P,,c/f from Mar'24,"  1,288,561 ","  1,288,561 ","  1,288,561 ","  1,288,561 ","  1,352,989 ","  1,352,989 ","  3,981,789 ","  2,010,189 ","  2,010,189 ","  2,010,189 ",,,,"  16,584,017 "
-Active in Dec,"PUNE PIMPRI BRANCHMaharashtra State Warehousing Corporation, Warehouse No - II, Telco Road Rd, Near Double Tree Hotel, Mohan Nagar, Chichwad,Pune - 411019",PNQ,West,CHINCHWAD PARCEL BRANCH,11000000863,10000,Branch,1295,P04,P04,,c/f from Mar'24,"  265,900 ","  265,900 ","  265,900 ","  265,900 ","  265,900 ","  265,900 ","  265,900 ","  265,900 ","  292,500 ","  292,500 ",,,,"  2,446,300 "
-Active in Dec,"Solapur New Branch- CTS.No16/A,No.3/5,Bhavani Peth, Muncipal House,Kumbhar Ves, Solapur-413002",PNQ,West,Solapur New Branch,11000000869,1800,Branch,2083,P06,P06,SPR,c/f from Mar'24,"  40,446 ","  40,446 ","  40,446 ","  40,446 ","  40,446 ","  40,446 ","  40,446 ","  40,446 ","  43,277 ","  43,277 ",,,,"  369,676 "
-Active in Dec,"Module House, Opp. MES Bunglow, Nr. Baba Petrol Pump, Aurangaband -431001",PNQ,West,AURANGABAD SUPER FRANCHISEE - P09 (SF),11000000873,2100,Branch,11000000587,P09,P09 / PC137,,c/f from Mar'24,"  105,000 ","  105,000 ","  105,000 ","  105,000 ","  105,000 ","  107,625 ","  110,250 ","  110,250 ","  110,250 ","  110,250 ",,,,"  968,625 "
-Active in Dec,"Gat No.1/1/4,Plot No-10,Ujalaiwadi,Karvir,Kolhapur-416004",PNQ,West,KOLHAPUR,11000000874,4000,Branch,11000000612,P11,P11,,c/f from Mar'24,"  63,000 ","  63,000 ","  63,000 ","  63,000 ","  63,000 ","  63,000 ","  63,000 ","  64,575 ","  66,150 ","  66,150 ",,,,"  574,875 "
-Active in Dec,"Plot No.45,Wakdewadi, Bhamburda,T.P(Final Plot No-36),Shivajinagar, Pune-411005",PNQ,West,SHIVAJINAGAR PUNE BRANCH,11000000872,4400,Branch,2155,P12,P12/P64,,c/f from Mar'24,"  305,614 ","  305,614 ","  305,614 ","  305,614 ","  305,614 ","  305,614 ","  305,614 ","  305,614 ","  305,614 ","  398,503 ",,,,"  2,843,415 "
-Active in Dec,"MARKET YARD PARCEL BRANCHMaharashtra State Warehousing Corporation,Ware House No - III,S.no :- 583/B,Gultekdi,Opp.Post Office,Marketyard,Pune - 411037",PNQ,West,GULTEKDI PARCEL BRANCH,11000000864,5000,Branch,1296,P15,P15,PHR,c/f from Mar'24,"  201,300 ","  201,300 ","  201,300 ","  201,300 ","  201,300 ","  201,300 ","  201,300 ","  201,300 ","  212,036 ","  250,000 ",,,,"  1,871,136 "
-Active in Dec,"LATUR BRANCHC/O - Sunil Shriam Zanwar,R-8/223/1014/32-B,Shop No - 2, Shreeniwas nagar, Opp.Shani Mandir, Near Ganesh Tyre, Nanded Ring Road,Latur - 413512",PNQ,West,LATUR BRANCH,11000000867,650,Branch,1889,P16,P16,,c/f from Mar'24,"  43,923 ","  46,265 ","  48,315 ","  48,315 ","  48,315 ","  48,315 ","  48,315 ","  48,315 ","  48,315 ","  48,315 ",,,,"  432,785 "
-Active in Dec,"Plot No P-1 & P-1Part, MIDC,AMBAD, Nasik,Nasik Muncipal Corporation-422010",PNQ,West,NASIK BRANCH - P19 (BO),11000000630,10000,Branch,11000000630,P19,P19,,c/f from Mar'24,"  267,750 ","  267,750 ","  267,750 ","  267,750 ","  267,750 ","  267,750 ","  267,750 ","  267,750 ","  267,750 ","  267,750 ",,,,"  2,409,750 "
-Active in Dec,"Milkat no 2/0665, & GAT NUMBER :1361/B/1/3/A Old Gat No
-2347/B/01,Road: Pune Nagar Road, Location: Wagholi, Pune 412207, of Village:Wagholi
-(avhalwadi) ",PNQ,West,VIMAN NAGAR MASTER FRANCHISE,11000001148,2300,Branch,11000001148,P24,P24,PNQE,c/f from Mar'24,"  50,600 ","  50,600 ","  50,600 ","  51,022 ","  53,130 ","  53,130 ","  53,130 ","  53,130 ","  53,130 ","  53,130 ",,,,"  471,002 "
-Active in Dec,"DHULE BRANCHPlot No -8, Near Toll Plaza, MIDC, Dhule - 424006",PNQ,West,DHULE BRANCH,11000000865,2550,Branch,1840,P38,P38,,c/f from Mar'24,"  40,263 ","  40,263 ","  40,263 ","  44,289 ","  44,289 ","  44,289 ","  44,289 ","  44,289 ","  44,289 ","  44,289 ",,,,"  390,549 "
-Active in Dec,"CHAKAN BRANCH-KIRAD  PremisesVishwa Industrail Premises Co-op Socitey Ltd, Gat No249,262,263,264 & 265, Building No 4, Gala No 37,38,39,43,44 & 45,Maujje-Nanekarwadi,Pune-Nashik Road,Chakan,Taluka- Khed, Dist Pune",PNQ,West,CHAKAN BRANCH - P50 (BO),11000000871,5000,Branch,2167,P50,P50,,c/f from Mar'24,"  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ",,,,"  893,025 "
-Active in Dec,"WALUJ BRANCHWaluj MIDC, Aurangabad",PNQ,West,WALUJ AUGANGABAD,11000000236,1250,Branch,1170,P56,P56,,c/f from Mar'24,"  37,680 ","  39,564 ","  39,564 ","  39,564 ","  39,564 ","  39,564 ","  39,564 ","  39,564 ","  39,564 ","  39,564 ",,,,"  356,076 "
-Active in Dec,"SHIRWAL BRANCHSahyadri Udyog,A/P - Shindewad, Taluka - Khandala,District Satara",PNQ,West,SHIRWAL,11000000511,700,Branch,1168,P57,P57,,c/f from Mar'24,"  10,724 ","  10,722 ","  10,722 ","  10,716 ","  10,721 ","  10,721 ","  10,721 ","  10,721 ","  10,721 ","  11,257 ",,,,"  97,022 "
-Active in Dec,"RANJANGAON BRANCH, Grampanchayat Milkat No.896,Kondhapur,Taluka-Shirpur,Pune-412209",PNQ,West,RANJANGAON BRANCH,11000000866,378,Branch,1888,P65,P65,,c/f from Mar'24,"  28,551 ","  28,551 ","  28,551 ","  30,074 ","  31,406 ","  31,406 ","  31,406 ","  31,406 ","  31,406 ","  31,406 ",,,,"  275,612 "
-Active in Dec,"TALEGAON BRANCHShop No - 1 & 2,Talegaon Chakan Phata, Mumbai - Pune Highway,Near Shital Hotel, Vadgaon Maval,Pune - 412106.",PNQ,West,TALEGAON BRANCH,11000000868,1200,Branch,1956,P73,P73,,c/f from Mar'24,"  34,035 ","  34,035 ","  34,035 ","  34,035 ","  34,035 ","  34,035 ","  34,035 ","  34,035 ","  34,943 ","  35,737 ",,,,"  308,925 "
-Active in Dec,"Parwanoo SCSSANJAY ALUMINUM PVT. LIMITED, Plot No : 41 , Sector -2 , Parwanoo 173220",HHP,North,PARWANOO BRANCH,11000000905,250,Branch,1277,PWR,PWR,J29,c/f from Mar'24,"  8,865 ","  8,865 ","  8,865 ","  8,865 ","  9,308 ","  9,308 ","  9,308 ","  9,308 ","  9,308 ","  9,308 ",,,,"  82,443 "
-Active in Dec,"JAIPUR LALKOTHI BRANCH -Sharma Colony ExtensionSwej Farm - Jaipur , Rajasthan- 302006",RAJ,North,JAIPUR LALKOTHI BRANCH - Q01 (BO),11000000857,3000,Branch,2141,Q01,Q01,,c/f from Mar'24,"  104,738 ","  104,738 ","  104,738 ","  104,738 ","  104,738 ","  104,738 ","  104,738 ","  104,738 ","  104,738 ","  108,598 ",,,,"  946,502 "
-Active in Dec,"Ramesh Udyog, E-284, Bhagati Ki Kothi, MIA BASNI, 2nd Phase, Jodhpur, Rajasthan 342005",RAJ,North,JODHPUR BRANCH - Q02 (BO),11000000641,4392,Branch,11000000641,Q02,Q02,JDP,c/f from Mar'24,"  126,000 ","  126,000 ","  126,000 ","  126,000 ","  126,000 ","  126,000 ","  126,000 ","  126,000 ","  128,100 ","  132,300 ",,,,"  1,142,400 "
-Active in Dec,"UDAIPUR BRANCH24, Bhupalpura Main Road, Near Hanuman Temple, Udaipur",RAJ,North,UDAIPUR BRANCH,11000000850,1200,Branch,1892,Q04,Q04,UDR,c/f from Mar'24,"  51,360 ","  51,360 ","  51,360 ","  51,360 ","  54,955 ","  54,955 ","  54,955 ","  54,955 ","  54,955 ","  54,955 ",,,,"  483,810 "
-Active in Dec,"JAIPUR APEX- Plot No 189 to 201, Sector A, Arjun Marg,Dr Rajendera Prasad Nagar, Gopalpura, 200ft by pass Ajmer Road, Jaipur-302024",RAJ,North,JAIPUR APEX - Q05 (HO),11000000856,27000,HUB/APEX+RO,2112,Q05,Q05/Q06/Q08/Q,,c/f from Mar'24,"  507,150 ","  507,150 ","  507,150 ","  532,508 ","  532,508 ","  532,508 ","  532,508 ","  532,508 ","  532,508 ","  532,508 ",,,,"  4,741,856 "
-Active in Dec,ALWAR BRANCHAddress-584 scheme no 10 allahabad bank alwar,RAJ,North,ALWAR BRANCH,11000000849,500,Branch,1813,Q07,Q07,,c/f from Mar'24,"  20,664 ","  20,664 ","  20,664 ","  20,664 ","  20,664 ","  21,697 ","  21,697 ","  21,697 ","  21,697 ","  21,697 ",,,,"  191,141 "
-Active in Dec,"BHIWADI BRANCHShop No. 5, Sector 8, Commercial Complex, UIT Bhiwadi Rajasthan",RAJ,North,BRANCHBHIWADI,11000000841,1000,Branch,1335,Q11,Q11,,c/f from Mar'24,"  18,500 ","  18,500 ","  18,500 ","  19,425 ","  19,425 ","  19,425 ","  19,425 ","  19,425 ","  19,425 ","  19,425 ",,,,"  172,975 "
-Active in Dec,SRIGANGANAGAR BRANCHUIT Road Balaji dairy Opp. OD Motor Shriganga Nagar,RAJ,North, SHRI GANGA NAGAR BRANCH,11000000852,900,Branch,2027,Q13,Q13,,c/f from Mar'24,"  19,448 ","  19,448 ","  19,448 ","  19,448 ","  19,448 ","  19,448 ","  19,448 ","  19,448 ","  19,448 ","  19,448 ",,,,"  175,032 "
-Active in Dec,"Bikaner branch-Prithvi Niwas Complex,OPP 38 Number Kothi,Near by Vintage Café Civil lande Bikhaner",RAJ,North,Bikaner branch,11000000264,1980,Branch,2071,Q14,Q14,,c/f from Mar'24,"  14,000 ","  14,000 ","  14,000 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ",,,,"  130,900 "
-Active in Dec,"SIKAR BRANCH OFFICEHall No. 3 Royal Residency, Silver Jublee Road, Sikar",RAJ,North,BRANCHSIKAR,11000000842,383,Branch,1370,Q16,Q16,,c/f from Mar'24,"  32,155 ","  32,155 ","  32,155 ","  33,870 ","  35,370 ","  35,370 ","  35,370 ","  35,370 ","  35,370 ","  35,370 ",,,,"  310,400 "
-Active in Dec,"Jaipur Apex City Branch - Q17, H-28, RIIICO Indl area, Mansarover, Jaipur-303030",RAJ,North,Jaipur Apex City Branch - Q17 (BO),11000000855,3100,Branch,2069,Q17,Q17,,c/f from Mar'24,"  71,000 ","  71,000 ","  71,000 ","  71,000 ","  71,000 ","  71,000 ","  73,650 ","  75,970 ","  75,970 ","  75,970 ",,,,"  656,560 "
-Active in Dec,"JAIPUR VKI BRANCHK-8 BHAWANI NAGAR,MURLIPURA ,JAIPUR",RAJ,North,VKI BRANCH,11000000847,1200,Branch,1703,Q35,Q35,,c/f from Mar'24,"  35,700 ","  35,700 ","  35,700 ","  38,378 ","  37,485 ","  37,485 ","  37,485 ","  37,485 ","  37,485 ","  37,485 ",,,,"  334,688 "
-Active in Dec,"No 14 &15, Behind New Mandi, New Mandi Chauraha, Bhartpur, Rajsthan-321001",RAJ,North,BHARATHPUR BRANCH,11000000858,900,Branch,11000000556,Q40,Q40,,c/f from Mar'24,"  16,800 ","  16,800 ","  16,800 ","  16,800 ","  17,640 ","  17,640 ","  17,640 ","  17,640 ","  17,640 ","  17,640 ",,,,"  156,240 "
-Active in Dec,"SHAHPURA, Khasra No.369,National Highway Rajpura,Vidara Rural,shahpura,Jaipur-303103",RAJ,North,SAHPURA NODAL POINT,11000000853,198,Branch,2057,Q43,Q43,,c/f from Mar'24,"  2,894 ","  2,894 ","  2,894 ","  2,894 ","  3,039 ","  3,039 ","  3,039 ","  3,039 ","  3,039 ","  3,039 ",,,,"  26,916 "
-Active in Dec,NEEMRANA BRANCHhero chok opp rath property car care sarvies center,RAJ,North,NEEMRANA NODAL POINT,11000000848,400,Branch,1785,Q44,Q44,,c/f from Mar'24,"  13,420 ","  13,420 ","  13,420 ","  14,762 ","  14,762 ","  14,762 ","  14,762 ","  14,762 ","  14,762 ","  14,762 ",,,,"  130,174 "
-Active in Dec,"Wadi BranchPlot no-C-18/1,Hingna MIDC Industrial Area,Infront of Rukmini Metals, Nagpur-440028",NGP,West,"BR, NAGPUR SCS",11000000912,10000,Branch +RO,1280,R11,R11/R,,c/f from Mar'24,"  134,008 ","  134,008 ","  134,008 ","  134,008 ","  134,008 ","  140,708 ","  140,708 ","  140,708 ","  140,708 ","  140,708 ",,,,"  1,239,572 "
-Active in Dec,"AKOLA BRANCH-No.8, Opp to Radhashyami Satsang Campus, NH.6,Akola Balapur Mumbai Road, AKOLA -444004",NGP,West,AKOLA BRANCH,11000000919,1000,Branch,1974,R04,R04,,c/f from Mar'24,"  23,703 ","  23,703 ","  23,703 ","  23,703 ","  23,703 ","  23,703 ","  23,703 ","  23,703 ","  23,703 ","  24,888 ",,,,"  214,512 "
-Active in Dec,"BILASPUR SUB BRANCHOpp Sai Dham,Near JJ Hospital,Arpa Bridge Raod,Torwa,Bilaspir, Chattishgargh",NGP,West,BILASPUR BRANCH,11000000918,1200,Branch,1953,R07,R07,,c/f from Mar'24,"  27,416 ","  27,416 ","  27,416 ","  27,416 ","  28,238 ","  28,238 ","  28,238 ","  28,238 ","  28,238 ","  28,238 ",,,,"  251,676 "
-Active in Dec,"BHILLAI BRANCHNo.2/05,Nehru Parisar,Bhilai,Dist-Raipur, Chhatisgargh",NGP,West,BHILAI BRANCH,11000000915,1986,Branch,1918,R08,R08,,c/f from Mar'24,"  77,211 ","  77,211 ","  77,211 ","  77,211 ","  77,211 ","  81,072 ","  81,072 ","  81,072 ","  81,072 ","  81,072 ",,,,"  714,204 "
-Active in Dec,"KORBA BRANCHShop no. A3, Ashoka complex, Ground floor,Transport Nagar,Korba-495677",NGP,West,KORBA BRANCH,11000000910,230,Branch,1025,R10,R10,,c/f from Mar'24,"  29,571 ","  29,571 ","  29,571 ","  29,571 ","  29,571 ","  29,571 ","  29,571 ","  29,571 ","  29,571 ","  29,571 ",,,,"  266,139 "
-Active in Dec,"AMRAVATI BRANCH, No.2, Block no E,Buzy Land Complex,Near Nandgaon Peth,Amaravathi,Maharashtra-444601",NGP,West,AMRAVATI BRANCH,11000000917,1104,Branch,2013,R12,R12,,c/f from Mar'24,"  22,811 ","  22,811 ","  22,811 ","  22,811 ","  22,811 ","  22,811 ","  22,811 ","  22,811 ","  22,811 ","  23,952 ",,,,"  206,440 "
-Active in Dec,"NAGPUR TRANSIT HUB -Property  Ward No.3, Khadgaon Road, Near Diam Nagpur(Rural), Nagpur Lava-440023",NGP,West,NAGPUR TRANSIT HUB,11000000922,21000,HUB/APEX+Branch,2138,R16,R16,NGP / HNGP,c/f from Mar'24,"  254,678 ","  254,678 ","  254,678 ","  254,678 ","  254,678 ","  254,678 ","  254,678 ","  254,678 ","  267,412 ","  267,412 ",,,,"  2,317,570 "
-Active in Dec,"RAIGARH BRANCH, Chawla Agencies,Sava Kunj Road,Near Samsung Care, Raigarh -496001",NGP,West,"BR,RAIGARH CG",11000000913,400,Branch,1133,R19,R19,,c/f from Mar'24,"  26,042 ","  26,042 ","  26,042 ","  26,042 ","  26,042 ","  26,736 ","  27,344 ","  27,344 ","  27,344 ","  27,344 ",,,,"  240,280 "
-Active in Dec,"AMBIKAPUR NODAL POINT, Property No.2504/12,Ambikapur,Ambikapur,Chattisgarh",NGP,West,AMBIKAPUR NODAL POINT,11000000914,240,Branch,1847,R29,R29,,c/f from Mar'24,"  5,469 ","  5,469 ","  5,469 ","  5,742 ","  5,742 ","  5,742 ","  5,742 ","  5,742 ","  5,742 ","  5,742 ",,,,"  51,132 "
-Active in Dec,"Khirki Extension - JC- 40,Khirki ExtentionMalviya NagarNew Delhi -17",SDL,North,KHIRKI EXTENSION BRANCH,11000000824,1000,Branch,1457/1535/1597,S01,S01,,c/f from Mar'24,"  163,998 ","  163,998 ","  163,998 ","  163,998 ","  163,998 ","  163,998 ","  163,998 ","  163,998 ","  172,198 ","  172,198 ",,,,"  1,492,382 "
-Active in Dec,"Khirki Extension - JC- 40,Khirki ExtentionMalviya NagarNew Delhi -17",SDL,North,KHIRKI EXTENSION BRANCH,11000000826,350,Branch,1457/1535/1597,S01,S01,,c/f from Mar'24,"  50,233 ","  50,233 ","  50,233 ","  50,233 ","  50,233 ","  50,233 ","  50,233 ","  50,233 ","  50,233 ","  50,233 ",,,,"  452,097 "
-Active in Dec,"Khirki Extension - JC- 40,Khirki ExtentionMalviya NagarNew Delhi -17",SDL,North,KHIRKI EXTENSION BRANCH,11000000825,900,Branch,1457/1535/1597,S01,S01,,c/f from Mar'24,"  126,638 ","  126,638 ","  126,638 ","  126,638 ","  126,638 ","  126,638 ","  132,970 ","  132,970 ","  132,970 ","  132,970 ",,,,"  1,165,070 "
-Active in Dec,"FARIDABAD BRANCH- Industial Plot No.6B,Sector-15A,Faridabad.Tehsil- Badhkal, Disst- Faridabad, Harayana-121007",SDL,North,FARIDABAD BRANCH - S02 (BO),11000000839,5712,Branch,2122,S02,S02,,c/f from Mar'24,"  250,000 ","  250,000 ","  250,000 ","  250,000 ","  250,000 ","  250,000 ","  250,000 ","  250,000 ","  250,000 ","  260,000 ",,,,"  2,260,000 "
-Active in Dec,MahipalpurPlot No. 619 A-Block Rangpuir Extn.Mahipalpur New Delhi,SDL,North,MAHIPALPUR BRANCH,11000000830,3100,Branch,1426/1893,S03,S03,,c/f from Mar'24,"  105,530 ","  105,530 ","  105,530 ","  105,530 ","  105,530 ","  105,530 ","  105,530 ","  105,530 ","  105,530 ","  105,530 ",,,,"  949,770 "
-Active in Dec,"Mahipalpur - Kh no.333/1,Rangpuri,Near U S Polo showroom,New delhi-37",SDL,North,MAHIPALPUR CCC M,11000000836,60,Branch,1426/1893,S03,S03,,c/f from Mar'24,"  9,381 ","  9,381 ","  9,381 ","  9,381 ","  9,381 ","  9,381 ","  9,381 ","  9,381 ","  9,381 ","  9,381 ",,,,"  84,429 "
-Active in Dec,"DwarkaPlot No. 191, Extension Lal Dora of VillageMatiala, Dwarka Sector -3Behind Delhi Public School)New Delhi 59",SDL,North,DWARKA BRANCH,11000000829,1980,Branch,1425,S09,S09,,c/f from Mar'24,"  91,461 ","  91,461 ","  91,461 ","  91,461 ","  91,461 ","  91,461 ","  91,461 ","  118,034 ","  118,034 ","  122,607 ",,,,"  907,441 "
-Active in Dec,"Okhla SCSD-19/A, Okhla Industrial area phase I",SDL,North,OKHLA SCS BRANCH,11000000832,3500,Branch,1267,S12,S12/SDH,SDH,c/f from Mar'24,"  176,180 ","  184,990 ","  184,990 ","  184,990 ","  184,990 ","  184,990 ","  184,990 ","  184,990 ","  184,990 ","  184,990 ",,,,"  1,664,910 "
-Active in Dec,Okhla Branch- A-58/1 Okhla Indusl. Area Phase II New Delhi -20(C),SDL,North,OKHLA BRANCH,11000000827,5000,Branch,1268/1269/1270/1400,S13,S04/S13,,c/f from Mar'24,"  294,730 ","  294,730 ","  294,730 ","  294,730 ","  294,730 ","  294,730 ","  294,730 ","  294,730 ","  302,590 ","  309,466 ",,,,"  2,675,166 "
-Active in Dec,Okhla Branch Retail 280 Sq Ft- A-58/1 Okhla Indusl. Area Phase II New Delhi -20(C),SDL,North,OKHLA BRANCH,11000000831,280,Branch,1268/1269/1270/1400,S13,S04/S13,,c/f from Mar'24,"  9,116 ","  9,116 ","  9,572 ","  9,572 ","  9,572 ","  9,572 ","  9,572 ","  9,572 ","  9,572 ","  9,572 ",,,,"  85,692 "
-Active in Dec,Okhla Branch Basement- A-58/1 Okhla Indusl. Area Phase II New Delhi -20(C),SDL,North,OKHLA BRANCH,11000000828,2800,Branch,1268/1269/1270/1400,S13,S04/S13,,c/f from Mar'24,"  73,873 ","  73,873 ","  77,567 ","  77,567 ","  77,567 ","  77,567 ","  77,567 ","  77,567 ","  77,567 ","  77,567 ",,,,"  694,409 "
-Active in Dec,Okhla Branch Basement 1700 Sq Ft- A-58/1 Okhla Indusl. Area Phase II New Delhi -20(C),SDL,North,OKHLA BRANCH BASEMENT,11000000834,2000,Branch,1268/1269/1270/1400,S13,S04/S13,,c/f from Mar'24,"  57,433 ","  57,433 ","  57,433 ","  57,433 ","  57,433 ","  57,433 ","  57,433 ","  57,432 ","  57,432 ","  57,432 ",,,,"  516,894 "
-Active in Dec,"68/1, Village kllokari, Ashram New delhi - 110025",SDL,North,NEW ASHRAM BRANCH - S17,11000001172,3825,Branch,11000001172,S17,S17,,New Jul-24,  -   ,  -   ,  -   ,  -   ,"  400,000 ","  154,839 ","  400,000 ","  400,000 ","  400,000 ","  400,000 ",,,,"  2,154,839 "
-Active in Dec,"Ballabhgarh21/6, Anand Complex Chawla Colony, Main Mathura Road, Near LIC Ballabhgarh",SDL,North,BALLABHGARH BRANCH,11000000835,4200,Branch,1763,S27,S27,,c/f from Mar'24,"  143,750 ","  143,750 ","  143,750 ","  143,750 ","  143,750 ","  143,750 ","  143,750 ","  143,750 ","  143,750 ","  143,750 ",,,,"  1,293,750 "
-Active in Dec,"SCS - SOLAPUR WARE HOUSEGate No.278/18,Plot No.20,AP - Kondi,Tal - North Solapur, Dist.Solapur - 413255",PNQ,West,SCS SOLAPUR WARE HOUSE,11000000509,500,Branch,1066,SPR,SPR,,c/f from Mar'24,"  9,266 ",  -   ,"  18,532 ","  9,266 ","  -27,798 ","  46,330 ","  9,729 ","  9,729 ","  10,085 ","  10,215 ",,,,"  86,088 "
-Active in Dec,"PATNA SURFACE APEX - T01 (HO)-Nagla,Malsalami,Patna City, Patna-800009",PAT,East,PATNA SURFACE APEX,11000000936,37590,HUB/APEX+RO,2072,T01,T01/T10/T17/T,,c/f from Mar'24,"  986,653 ","  1,035,986 ","  1,035,986 ","  1,035,986 ","  1,035,986 ","  1,035,986 ","  1,035,986 ","  1,035,986 ","  1,035,986 ","  1,035,986 ",,,,"  9,323,874 "
-Active in Dec,"RANCHI HUBTetri Toli, Namkum, OPP Namkum Railway Station, Ranchi,Jharkhand834001",PAT,East,RANCHI APEX - T02 (HO),11000000938,17850,HUB/APEX,2175/11000000637,T02,T02/T35,,c/f from Mar'24,"  375,921 ","  375,921 ","  375,921 ","  375,921 ","  375,921 ","  375,921 ","  375,921 ","  375,921 ","  375,921 ","  375,921 ",,,,"  3,383,289 "
-Active in Dec,"JAMSHEDPUR BRANCHSURINDER SINGH COMPLEX , HEM SINGH BAGAN NEW KALIMATI ROAD, SAKCHI ,JAMSHEDPUR SURINDER SINGH COMPLEX",PAT,East,JAMSHEDPUR,11000000924,4900,Branch,1562,T03,T03,JAM,c/f from Mar'24,"  129,830 ","  136,322 ","  136,322 ","  123,338 ","  285,624 ","  136,321 ",  -1 ,"  136,321 ","  136,321 ","  136,321 ",,,,"  1,226,889 "
-Active in Dec,"1208,1195, NH-2, BARAJAMUA, BARWADDA -826004",PAT,East,DHANBAD BRANCH - T04 (BO),11000000941,5600,BRANCH,11000000563,T04,T04,,c/f from Mar'24,"  115,752 ","  115,752 ","  115,752 ","  115,752 ","  115,752 ","  115,752 ","  115,752 ","  122,697 ","  122,697 ","  122,697 ",,,,"  1,062,603 "
-Active in Dec,"Muzaffur W/H -Indraprastha Colony, Majhauliya,NH-28,Ward No 12, PO Dumari,PS Sadar, Majhaulya Khetal,Muzaffarpur",PAT,East,MUZAFFARPUR BRANCH -T05(BO),11000000935,1850,Branch,2051,T05,T05,,c/f from Mar'24,"  50,388 ","  50,388 ","  50,388 ","  50,388 ","  54,419 ","  54,419 ","  54,419 ","  54,419 ","  54,419 ","  54,419 ",,,,"  477,678 "
-Active in Dec,"BHAGALPUR BRANCHNear zero mile, Jail Gate Bhagalpur 812001",PAT,East,BHAGALPUR BRANCH,11000000929,2750,Branch,1717,T06,T06,,c/f from Mar'24,"  49,083 ","  50,009 ","  50,009 ",  -926 ,"  116,226 ","  59,871 ","  47,231 ","  60,635 ","  53,482 ","  51,537 ",,,,"  488,074 "
-Active in Dec,"GAYA BRANCH, 1st Floor, Power Ganj, Bairagi More, Gaya-823002, bihar",PAT,East,GAYA PATNA,11000000223,525,Branch,1189,T07,T07,,c/f from Mar'24,"  20,000 ","  20,000 ","  20,000 ","  20,000 ","  23,000 ","  21,000 ","  21,000 ","  21,000 ","  21,000 ","  21,000 ",,,,"  188,000 "
-Active in Dec,"BOKARO SUB BRANCH, 249,Guru Govind Singh Colony, Jodhadhih More,Opp . Gurudwara,bokaro,Jharkhand-827013",PAT,East,BOKARO BRANCH,11000000930,1400,Branch,1933,T09,T09,,c/f from Mar'24,"  36,464 ","  36,464 ","  36,464 ","  36,464 ","  36,464 ","  36,464 ","  37,376 ","  38,287 ","  38,287 ","  38,287 ",,,,"  334,557 "
-Active in Dec,"PURNIA BRANCHWARD NO 35,NEAR NH-57,PURNIA MUZAFFARPUR ROAD ZERO MILE,GULABBAGH,PURNIA C/O SUDHIR KUMAR SARKAR",PAT,East,PURNEA BRANCH,11000000506,2100,Branch,1716,T13,T13,,c/f from Mar'24,"  30,630 ","  30,630 ","  30,630 ","  30,630 ","  35,223 ","  32,161 ","  32,161 ","  32,161 ","  32,161 ","  32,161 ",,,,"  287,918 "
-Active in Dec,"RANCHI RETAIL-  Ground floor,City center,Club road,Opp. gosnor college,Ranchi",PAT,East,RANCHI CITY BRANCH,11000000933,220,Branch,1972,T14,T14,,c/f from Mar'24,"  17,392 ","  13,107 ","  13,107 ","  13,107 ","  13,107 ","  13,107 ","  13,107 ","  13,107 ","  13,107 ","  13,107 ",,,,"  117,963 "
-Active in Dec,"DARBHANGA BRANCH Laxmipur, Nawtoliya, Bira, Basudevpur,Darbhanga , Bihar- 846005",PAT,East,DARBHANGA BRANCH,11000000226,980,Branch,1960,T26,T26,,c/f from Mar'24,"  29,282 ","  29,282 ","  29,282 ","  29,282 ","  38,066 ","  32,210 ","  32,210 ","  32,210 ","  32,210 ","  32,210 ",,,,"  286,962 "
-Active in Dec,PATNA - AIR APEXGR. FLOOR SURYA PRABHA MANSION EXHIBHITION ROAD PATNA,PAT,East,PATNA HUB,11000000925,2600,Branch,1402,T32,T32,,c/f from Mar'24,"  172,196 ","  172,196 ","  172,196 ","  172,196 ","  172,196 ","  172,196 ","  172,196 ","  172,196 ","  172,196 ","  172,196 ",,,,"  1,549,764 "
-Active in Dec,"khata no 160, Plot no -786, Mission School Road, Hazaribagh, Jharkhand -825311",PAT,East,HAZARIBAGH SUB BRANCH - T34 (SB),11000000600,1500,BRANCH,11000000600,T34,T34,,c/f from Mar'24,"  31,500 ","  31,500 ","  31,500 ","  31,500 ","  31,500 ","  31,500 ","  31,500 ","  33,075 ","  33,075 ","  33,075 ",,,,"  288,225 "
-Active in Dec,"MOTIHARI BRANCHNEAR-MASJID,NH-28 EAST CHAMPARAN BARA BARIYARPUR",PAT,East,Motihari Branch,11000000928,650,Branch,1636,T36,T36,,c/f from Mar'24,"  15,729 ","  16,280 ","  16,280 ","  15,178 ","  27,447 ","  16,830 ","  8,415 ","  16,830 ","  16,830 ","  16,830 ",,,,"  150,920 "
-Active in Dec,"DUMKA BRANCH-Rashik Pur, Kewat Para,P.O- & P.S Dumka814101",PAT,East,DUMKA BRANCH,11000000939,800,Branch,2184,T86,T86,,c/f from Mar'24,"  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ",,,,"  84,339 "
-Active in Dec,"GODDA BRANCH- Opposite Fire Brigade Office, Gayatri Nagar,Bhatdiha, Gooda, Jharkhand814133",PAT,East,GODDA BRANCH,11000000940,800,Branch,2185,T87,T87,,c/f from Mar'24,"  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ",,,,"  84,339 "
-Active in Dec,"Ward no 16,  Opp kamala Vihar Hotel, Mohania bhabua Road, Mohania -821109",PAT,East,Mohania,11000000611,1200,BRANCH,11000000611,T88,T88,,c/f from Mar'24,"  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  16,562 ",,,,"  134,162 "
-Active in Dec,"TIRUPUR - SCS OFFICENo.3/19/2, Kummathur Road, OPP to MLR Mahal, Perumanallur, Tirupur-641 666.",CJB,South,TIRUPUR  SCS OFFICE,11000000773,2000,Branch,1047,TPR,TPR,E02,c/f from Mar'24,"  25,107 ","  25,107 ","  25,107 ","  25,107 ","  25,107 ","  25,107 ","  25,107 ","  27,618 ","  27,618 ","  27,618 ",,,,"  233,496 "
-Active in Dec,"SaprumargGround Floor,Flat No.5,Rohit Bhawan, 4 Sapru Marg, Lucknow-226001.",UPT,North,LCUKNOW SAPRU MARG BO,11000000678,1600,Branch+ RO,1587/11000000594,U01,U01,,c/f from Mar'24,"  147,908 ","  147,908 ","  147,908 ","  147,908 ","  147,908 ","  147,908 ","  162,699 ","  162,699 ","  162,699 ","  162,699 ",,,,"  1,390,336 "
-Active in Dec,"No-5, Ground floor, Rohit Bhawan, Block -4, Sapru Marg, Lucknow -226001",UPT,North,LUCKNOW BRANCH - U01 (BO)- SAPRU MARG,11000000725,200,Branch+ RO,1587/11000000594,U01,U01,,c/f from Mar'24-Add Space,"  17,600 ","  17,600 ","  17,600 ","  17,600 ","  17,600 ","  17,600 ","  19,360 ","  19,360 ","  19,360 ","  19,360 ",,,,"  165,440 "
-Active in Dec,"Allahabad Branch2E/5A,Taskand (Lohia) Marg,Civil Line, Allahabad (UP) Pin code -211001.",UPT,North,ALLAHABAD BRANCH,11000000685,1800,Branch,1374,U02,U02,ALD,c/f from Mar'24,"  78,751 ","  82,688 ","  82,688 ","  82,688 ","  82,688 ","  82,688 ","  82,688 ","  82,688 ","  82,688 ","  82,688 ",,,,"  744,192 "
-Active in Dec,"Kanpur BranchHouse no 1207,Basant Block 2,Vasant vihar Naubasta,Kanpur 208021",UPT,North,KANPUR BRANCH,11000000686,4900,Branch,1397,U03,U03,,c/f from Mar'24,"  99,550 ","  99,550 ","  99,550 ","  99,550 ","  99,550 ","  99,550 ","  99,550 ","  104,528 ","  104,528 ","  104,528 ",,,,"  910,884 "
-Active in Dec,"VARANASI HUB OFFICEVill-Aurhe, Post-Bachchhaon Pargana Dehat Amanat, Tehsil Sadar Varanasi-221011",UPT,North,VARANASI BRANCH,11000000691,5400,Branch,1849/2041,U04,U04,,c/f from Mar'24,"  91,163 ","  91,163 ","  91,163 ","  91,163 ","  95,721 ","  95,721 ","  95,721 ","  95,721 ","  95,721 ","  95,721 ",,,,"  847,815 "
-Active in Dec,"Buddha Vihar, Taramandal, Gorakhpur, UP-273001",UPT,North,GORAKHPUR BO,11000001138,4000,Branch,11000001138,U06,U06,,c/f from Mar'24,"  240,000 ","  240,000 ","  240,000 ","  252,000 ","  252,000 ","  252,000 ","  252,000 ","  252,000 ","  252,000 ","  252,000 ",,,,"  2,244,000 "
-Active in Dec,"C 12, Rama plaza, near Bank of India, City Center, Kailash Vihar Gwalior, Madhya pradesh - 474002",UPT,North,NEW GWALIOR BRANCH - U07,11000001174,2050,Branch,11000001174,U07,U07,GWR,New Jul-24,  -   ,  -   ,  -   ,  -   ,"  160,000 ","  80,000 ","  80,000 ","  80,000 ","  80,000 ","  80,000 ",,,,"  560,000 "
-Active in Dec,"Agra BranchPlot No. 03, Ground Floor, Ajanta Nagar Forming Part Of Khasra No. 622 (P) & 624 (P) , Mauja Kakretha , Bye Pass Road Sikandra, Agra - 282007",UPT,North,AGRA BO,11000000679,4500,Branch,1373,U09,U09,,c/f from Mar'24,"  238,050 ","  238,050 ","  238,050 ","  238,050 ","  238,050 ","  238,050 ","  238,050 ","  238,050 ","  238,050 ","  238,050 ",,,,"  2,142,450 "
-Active in Dec,"DEHRADUN BRANCHShree ram Tower,Ground floor,Sevlakala,GMS Road,Near Galaxi Marble Store,Near Shimla bypass raod,Dehradun,Uttarakand 248001",UPT,North,DEHRADUN BRANCH,11000000687,2100,Branch,1458,U10,U10,,c/f from Mar'24,"  120,609 ","  120,609 ","  120,609 ","  120,609 ","  120,609 ","  126,639 ","  126,639 ","  126,639 ","  126,639 ","  126,639 ",,,,"  1,115,631 "
-Active in Dec,"ORAI NODAL POINT - U110 (SO)H.No.1833,Near Geeta Ashram,Anjari Road,Naya Ramnagar,Dist Jalaun-Orai-UP_285001",UPT,North,ORAI NODAL POINT - U110 (SO),11000000720,850,Branch,11000000545,U110,U110,,c/f from Mar'24,"  7,700 ","  8,470 ","  8,470 ","  8,470 ","  8,470 ","  8,470 ","  8,470 ","  8,470 ","  8,470 ","  8,470 ",,,,"  76,230 "
-Active in Dec,"HALDWANI BRANCH-Khet No.203, Swami Vihar, Haldwani, Nanital, Uttarakhand-263139",UPT,North,Haldwani Branch,11000000713,1250,Branch,2128,U12,U12,,c/f from Mar'24,"  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  29,216 ","  28,941 ","  28,941 ",,,,"  252,476 "
-Active in Dec,"Khasra No.494,Mohkampur Industial Estate, Phase II , Meerut- UP-250002",UPT,North,MEERUT BRANCH,11000000719,5085,Branch,11000000564,U13,U13,,c/f from Mar'24,"  213,570 ","  213,570 ","  213,570 ","  224,249 ","  224,249 ","  224,249 ","  224,249 ","  224,249 ","  224,249 ","  224,249 ",,,,"  1,996,883 "
-Active in Dec,"VARANASI  MINI BRANCH-B-38/210/B6-1,Tuslipur,Mahmoorganj,Varanasi-221010.",UPT,North,Varanasi Mini Branch,11000000710,700,Branch,2102,U130,U130,,c/f from Mar'24,"  15,750 ","  15,750 ","  15,750 ","  15,750 ","  15,750 ","  15,750 ","  15,750 ","  15,750 ","  15,750 ","  15,750 ",,,,"  141,750 "
-Active in Dec,Azamgarh BranchA610 Balrampur in-fornt ITI Collage-Azamgarh-276001,UPT,North,AZAMGARH BRANCH,11000000693,1000,Branch,1866,U133,U133,,c/f from Mar'24,"  55,835 ","  55,835 ","  55,835 ","  55,835 ","  55,835 ","  55,835 ","  55,835 ","  55,835 ","  55,835 ","  55,835 ",,,,"  502,515 "
-Active in Dec,"BARABANKI SORTING OFFICENandal Complex Near Bandel police Chowki, Lakhperabag Barabanki-225001.",UPT,North,BARABANKI MINI BRANCH,11000000699,350,Branch,1999,U135,U135,,c/f from Mar'24,"  8,752 ","  8,752 ","  8,752 ","  8,752 ","  8,752 ","  8,752 ","  8,752 ","  8,752 ","  9,190 ","  9,190 ",,,,"  79,644 "
-Active in Dec,"MORADABAD Branch-Dev Niwas, OPP Nagar Nigam Building,Gulabadi Chungi, Moradabad-UP-244001.",UPT,North,MORADABAD BRANCH - U14 (BO),11000000714,2700,Branch,2147,U14,U14,,c/f from Mar'24,"  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  95,011 ",,,,"  827,747 "
-Active in Dec,"NEAR SALEMPUR KONE, LAKHIMPUR KHEERI - 262701, LAKHIMPUR - 262701, UTTAR PRADESH",UPT,North,Lakhimpur Mini Branch,11000000717,800,Branch,2191,U140,U140,,c/f from Mar'24,"  10,500 ","  10,868 ","  11,025 ","  11,025 ","  11,025 ","  11,025 ","  11,025 ","  11,025 ","  11,025 ","  11,025 ",,,,"  99,068 "
-Active in Dec,"GATA . NO- 538, MOHALLA SARAI GHAG, AKBARPUR,NEAR BALAJI GUEST HOUSE,POST MAKRAND NAGAR- KANNAUJ- 209726",UPT,North,KANNAUJ BRANCH,11000000718,300,Branch,2194,U141,U141,,c/f from Mar'24,"  14,700 ","  14,970 ","  15,435 ","  15,435 ","  15,435 ","  15,435 ","  15,435 ","  15,435 ","  15,435 ","  15,435 ",,,,"  138,450 "
-Active in Dec,"Patelwa, Mod Ghat Chauraha, Gorakhpur Road, Katra, Basti-272001",UPT,North,BASTI BRANCH,11000000721,1200,Branch,11000000569,U142,U142,,c/f from Mar'24,"  26,250 ","  26,250 ","  26,250 ","  26,250 ","  26,950 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ","  27,563 ",,,,"  243,515 "
-Active in Dec,"1/24, Viraj khand, Gomati Nagar, Lucknow, UP-226010",UPT,North,"Gomati nagar, Branch",11000000723,2200,Branch,11000000573,U143,U143,,c/f from Mar'24,"  63,000 ","  63,000 ","  63,000 ","  63,000 ","  64,680 ","  66,150 ","  66,150 ","  66,150 ","  66,150 ","  66,150 ",,,,"  584,430 "
-Active in Dec,"ALIGARH BRANCH-House No.1/1390A,New Eath Chungi,GT Road, Aligarh, U.P-202001",UPT,North,ALIGARH BRANCH,11000000712,1800,Branch,2126,U16,U16,,c/f from Mar'24,"  41,895 ","  41,895 ","  41,895 ","  41,895 ","  41,895 ","  43,362 ","  43,990 ","  43,990 ","  43,990 ","  43,990 ",,,,"  386,902 "
-Active in Dec,"Rishikesh BranchHouse no 317,Adarsh Khasra number 68,Rishikesh,Dehradun,Utarakand 249201",UPT,North,RISHIKESH BRANCH,11000000696,1000,Branch,1906,U17,U17,,c/f from Mar'24,"  49,500 ","  49,500 ","  49,500 ","  49,500 ","  49,500 ","  53,790 ","  54,450 ","  54,450 ","  54,450 ","  54,450 ",,,,"  469,590 "
-Active in Dec,"Haridawar BranchKhasra number 1687,1688,1690,1692,Gram Salempur ,Mehood-2,Raja Factory to Bhadarabad 45 meter Broad Highway ,Haridawar ,Uttarakand 249402",UPT,North,HARIDWAR BRANCH,11000000695,3500,Branch,1905,U18,U18,,c/f from Mar'24,"  93,595 ","  93,595 ","  93,595 ","  93,595 ","  93,595 ","  93,595 ","  127,810 ","  105,000 ","  105,000 ","  105,000 ",,,,"  910,785 "
-Active in Dec,"SAHARANPUR BRANCH - U20 (BO)-5/1960,Nand Vihar,(Keshav Puram),Saharanpur-247001",UPT,North,SAHARANPUR BRANCH - U20 (BO),11000000707,2000,Branch,2084,U20,U20,,c/f from Mar'24,"  83,000 ","  83,000 ","  83,000 ","  83,000 ","  83,000 ","  83,000 ","  83,000 ","  83,000 ","  85,213 ","  87,150 ",,,,"  753,363 "
-Active in Dec,"RUDRAPUR SUPER FRANCHISEEPlot No.423/1,Vill- Bigwara, Tahseel Rudrapur, Udham Singh Nagar, Uttarkhand, Rudrapur",UPT,North,RUDRAPUR BRANCH,11000000702,4455,Branch+ Retail Counter,2044,U23,U23/UC113,,c/f from Mar'24,"  56,729 ","  56,729 ","  56,729 ","  58,148 ","  59,565 ","  59,565 ","  59,565 ","  59,565 ","  59,565 ","  59,565 ",,,,"  528,996 "
-Active in Dec,"Nayagaon, Gwalior Road, Jhasi-284003",UPT,North,JHANSI SUPER FRANCHISEE - U24 (SF),11000000722,2200,Branch,11000000572,U24,U24,,c/f from Mar'24,"  69,300 ","  69,300 ","  69,300 ","  69,300 ","  71,148 ","  72,765 ","  72,765 ","  72,765 ","  72,765 ","  72,765 ",,,,"  642,873 "
-Active in Dec,"Mathura BranchGround Floor 14, Radhika Bihar-1 Mathura-281004",UPT,North,MATHURA BO,11000000684,1000,Branch,1376,U25,U25,,c/f from Mar'24,"  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ",,,,"  360,000 "
-Active in Dec,"FAIZABAD BRACH
--2/3/7,Sri Ram Puram, Ayodhya-Utter Pradesh-224153",UPT,North,FAIZABAD BRANCH - U26 (BO),11000000716,2000,Branch,2166,U26,U26,,c/f from Mar'24,"  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ","  91,592 ",,,,"  824,328 "
-Active in Dec,"Khasra 307,Mouza Central Hope Town,Pargana-Pachwadoon, Vikas Nagar, Dehradun, Uttrakhand-248011",UPT,North,SELAQUI SUPER FRANCHISEE,11000000635,1405,Branch,11000000635,U28,U28/U36,DDN,c/f from Mar'24,"  60,900 ","  60,900 ","  60,900 ","  60,900 ","  60,900 ","  60,900 ","  60,900 ","  60,900 ","  60,900 ","  60,900 ",,,,"  548,100 "
-Active in Dec,"VAISHALI BRANCHMg-D1 site 4,Shahibabad ,Gaziabad ,Uttar pardesh 201010",UPT,North,SAHIBABAD BRANCH,11000000692,4000,Branch,1859,U30,U30,,c/f from Mar'24,"  116,689 ","  116,689 ","  116,689 ","  122,523 ","  122,523 ","  122,523 ","  122,523 ","  122,523 ","  122,523 ","  122,523 ",,,,"  1,091,039 "
-Active in Dec,"BIJNOR BRANCHVidur Kuti Road,Near Kohinoor Bonquet Hall,Bijnor246701",UPT,North,BIJNORE SUPER FRANCHISEE - U31 (HO),11000000715,1500,Branch,2170,U31,U31,,c/f from Mar'24,"  55,125 ","  55,125 ","  55,125 ","  55,125 ","  55,125 ","  55,125 ","  55,125 ","  55,125 ","  55,125 ","  55,125 ",,,,"  496,125 "
-Active in Dec,"LUCKNOW BRANCH- U39 (HO)-E-31,Phase 2,Transport Nagar Youja,Kanpur Road, Lucknow, UP-226012",UPT,North,LUCKNOW SCS HUB,11000000708,5000,Branch,2085,U139,U139,,c/f from Mar'24,"  95,000 ","  95,000 ","  95,000 ","  95,000 ","  95,000 ","  95,000 ","  95,000 ","  95,000 ","  95,000 ","  99,750 ",,,,"  859,750 "
-Active in Dec,"Kanpur LTLPlot No. 101 New Azad Nagar, Near Chaudhari Dhaba Kidwai Nagar, Kanpur Nagar- U.P.- 208011",UPT,North,KANPUR LTL BRANCH,11000000698,1700,Branch,1993,U40,U40,KNP,c/f from Mar'24,"  42,543 ","  42,543 ","  42,543 ","  42,543 ","  42,543 ","  42,543 ","  42,543 ","  42,543 ","  43,677 ","  44,670 ",,,,"  386,148 "
-Active in Dec,"Khasra No.428 SA,431 SA,Abhishek Nagar,Kissan Path,Village & post Mati,Lucknow, UP -226002",UPT,North,LUCKNOW APEX - U43 (HO),11000000599,35700,HUB/APEX+RO+Guest House,11000000599,U43,U43/U39/U144,,c/f from Mar'24,"  712,215 ","  712,215 ","  712,215 ","  712,215 ","  712,215 ","  712,215 ","  712,215 ","  712,215 ","  712,215 ","  722,899 ",,,,"  6,420,619 "
-Active in Dec,GONDA BRANCH - U45 (BO)MARUTI CHAURAHAGONDA271003,UPT,North,GONDA BRANCH - U45 (BO),11000000704,550,Branch,2059,U45,U45,,c/f from Mar'24,"  20,837 ","  20,837 ","  20,837 ","  20,837 ","  20,837 ","  21,566 ","  21,879 ","  21,879 ","  21,879 ","  21,879 ",,,,"  192,430 "
-Active in Dec,"Lucknow MahanagarFlat No.- 105,970/71, Sec-B Mahanagar, faizabad Road- Lucknow-226006",UPT,North,LUCKNOW MAHANAGAR BO,11000000683,1700,Branch,1566,U48,U48,,c/f from Mar'24,"  141,750 ","  141,750 ","  141,750 ","  141,750 ","  141,750 ","  148,838 ","  148,838 ","  148,838 ","  148,838 ","  148,838 ",,,,"  1,311,190 "
-Active in Dec,"Sultanpur BranchShop No. 42, United Associates Pyagipur, Allahabad Road Sultanpur-228001",UPT,North,JAGDISFEXD,11000000690,1100,Branch,1731,U78,U78,,c/f from Mar'24,"  38,775 ","  19,388 ","  19,387 ","  27,450 ","  100,163 ","  42,000 ","  42,000 ","  42,000 ","  42,000 ","  42,000 ",,,,"  376,388 "
-Active in Dec,"AURAIYA NODAL POINT - U83 (SO)-H.No.8/40,Vidichandra Mauhla, Auriya, up-206122",UPT,North,AURAIYA NODAL POINT,11000000709,800,Branch,2090,U83,U83,,c/f from Mar'24,"  5,788 ","  5,788 ","  5,788 ","  5,788 ","  5,788 ","  5,788 ","  5,788 ","  5,788 ","  5,788 ","  6,077 ",,,,"  52,381 "
-Active in Dec,"HARDOI NODAL POINTBehta Chand,Near ganga nagar colony,Lucknow Chungi Hardoi 241001",UPT,North,HARDOI NODAL POINT,11000000689,300,Branch,1690,U95,U95,,c/f from Mar'24,"  12,155 ","  12,155 ","  12,155 ","  13,979 ","  24,918 ","  12,763 ",  608 ,"  24,918 ","  12,763 ","  12,763 ",,,,"  127,022 "
-Active in Dec,"PLOT NUMBER / KHET NUMBER-106, NEAR KALYAN SINGH MEDICAL COLLEGE, FRONT OF PANI KI TANKI, BULANDSHAHR, PIN-203001.",UPT,North,BULANDSHAHR ,11000000726,1310,Branch,11000000604,U145,U145,,c/f from Mar'24,"  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  33,600 ","  34,216 ","  35,280 ","  35,280 ",,,,"  306,376 "
-Active in Dec,"Plot No 23,24, Yerramareddy Palem, Renigunta , APIIC ,   Industrial Estate, Tirupathi - 517520 , AP",VIJ,South,TIRUPATHI BRANCH,11000001156,5150,Branch,11000001156,V01,V01,,c/f from Mar'24,"  64,000 ","  64,000 ","  64,000 ","  64,000 ","  64,000 ","  66,773 ","  67,200 ","  67,200 ","  67,200 ","  67,200 ",,,,"  591,573 "
-Active in Dec,"Visakapatnam Area OfficePlot No.B-16/B, Industrial Estate, Kancharapalem, Vizag - 530007",VIJ,South,VIZAG AO,11000000806,5100,Hub+Branch+RO,1378,V02,V02/V2,,c/f from Mar'24,"  251,372 ","  251,372 ","  251,372 ","  251,372 ","  251,372 ","  251,372 ","  251,372 ","  251,372 ","  251,372 ","  251,372 ",,,,"  2,262,348 "
-Active in Dec,"KARNOOL Branch- No.80/132-2-A,Railwaygate Road,Venkatadrynagar,Kurnool-AP 518002",VIJ,South,KURNOOL BRANCH - V04 (BO),11000000819,2100,Branch,2160,V04,V04,,c/f from Mar'24,"  41,895 ","  41,895 ","  41,895 ","  41,895 ","  41,895 ","  41,895 ","  41,895 ","  41,895 ","  41,895 ","  41,895 ",,,,"  377,055 "
-Active in Dec,"RAJAHMUNDARY BRANCH-Plot No.58,Water Tank Road,Auto Nagar,Rajahmundry,East Godavari, Andhra Pradesh-533296",VIJ,South,RAJAHMUNDRY SUPER FRANCHISEE - V05 (SF),11000000818,3000,Branch,2144,V05,V05,,c/f from Mar'24,"  66,150 ","  66,150 ","  66,150 ","  66,150 ","  66,150 ","  66,150 ","  66,150 ","  66,150 ","  66,150 ","  66,150 ",,,,"  595,350 "
-Active in Dec,"SUSWADEEP Agro Service PVT LTD, RS No '62/3B, Mustabad, Gannavaram mandal, Krishna DST, Vijaywada, Andhra Pradesh- 521107",VIJ,South,VIJAYAWADA APEX - V06 (HO),11000000820,40750,HUB/APEX+RO,2193,V06,V06 / v58 / V,,c/f from Mar'24,"  976,500 ","  976,500 ","  976,500 ","  1,002,540 ","  1,025,325 ","  1,025,325 ","  1,025,325 ","  1,025,325 ","  1,025,325 ","  1,025,325 ",,,,"  9,107,490 "
-Active in Dec,"GUNTUR BRANCH-D.No.24-37-9,Ethukuru Road, R.Agraharam, Gutntur, AP-522004",VIJ,South,GUNTUR BRANCH - V08 (BO),11000000817,5148,Branch,2143,V08,V08,,c/f from Mar'24,"  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ","  99,225 ",,,,"  893,025 "
-Active in Dec,"NELLORE SUPER FRANCHISEED.No:- 26/11/226/2, Master Colony, Padarupalli, Nellore - 524004",VIJ,South,NELLORE Branch,11000000810,1915,Branch,1644,V09,V09,,c/f from Mar'24,"  55,152 ","  55,152 ","  55,152 ","  55,152 ","  55,152 ","  55,152 ","  55,152 ","  55,152 ","  55,152 ","  55,152 ",,,,"  496,368 "
-Active in Dec,"ONGOLE BranchPlot No.46 North Bypass Road ,wood Complex beside Hero Showroom Ongole-523002",VIJ,South,ONGOLE- Branch,11000000809,2850,Branch,1655,V10,V10,,c/f from Mar'24,"  51,840 ","  51,840 ","  51,840 ","  51,840 ","  51,840 ","  51,840 ","  51,840 ","  51,840 ","  51,840 ","  51,840 ",,,,"  466,560 "
-Active in Dec,"VIZIANAGARAM BRANCHLASYA PRIYA ENCLAVE, BALAJI NAGARA, THOTAPALEM, VIZIANAGARAM -535002",VIJ,South,VIZIYANAGARAM BRANCH OFFICE,11000000807,800,Branch,1100,V11,V11,,c/f from Mar'24,"  17,702 ","  17,702 ","  17,702 ","  38,944 ","  1,770 ","  19,472 ","  19,472 ","  19,472 ","  19,472 ","  19,472 ",,,,"  173,478 "
-Active in Dec,"D no 396, Peddapadu Road, Oppisite Take Showroom, Shrikakulam,AP, 532001",VIJ,South,SRIKAKULAM BRANCH - V12 (BO),11000000822,2400,Branch,11000000602,V12,V12,,c/f from Mar'24,"  47,250 ","  47,250 ","  47,250 ","  47,250 ","  47,250 ","  47,250 ","  47,250 ","  49,613 ","  49,613 ","  49,613 ",,,,"  432,339 "
-Active in Dec,"CUDDAPAH BRANCH-74/136,Lohiya Nagar, Revenue Ward 74. Cuddapah-516001",VIJ,South,CUDDAPAH SUPER FRANCHISEE - V13 (SF),11000000816,1000,Branch,2100,V13,V13,,c/f from Mar'24,"  56,490 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ",,,,"  315,000 "
-Active in Dec,"KAKINADA SUB BRANCHD.No.65-8-4a,Meharnagar,Near Venkateshwara Temple,Kakinada -533003",VIJ,South,KAKINADA BRANCH,11000000812,1500,Branch,1984,V15,V15,,c/f from Mar'24,"  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ","  29,282 ",,,,"  263,538 "
-Active in Dec,"GAJUWAKA SUPER FRANCHISEEDoor No. 8-12-1/1 Sravani Plaza , beside Varun bajaj Showroom, Old Gajuwaka, Visakhapatnam",VIJ,South,GAJUWAKA BRANCH OFFICE,11000000805,900,Branch,1023,V16,V16,,c/f from Mar'24,"  29,824 ","  29,824 ","  29,824 ","  29,824 ","  29,824 ","  29,824 ","  29,526 ","  29,526 ","  29,526 ","  29,526 ",,,,"  267,224 "
-Active in Dec,"NANDYAL BRANCH 28/5J,K.C Road,Noonepalli,Nandyal-518501",VIJ,South,NANDYAL BRANCH,11000000814,220,Branch,2065,V22,V22,,c/f from Mar'24,"  9,600 ","  9,600 ","  9,600 ","  9,600 ","  9,600 ","  9,600 ","  9,600 ","  9,600 ","  9,600 ","  9,600 ",,,,"  86,400 "
-Active in Dec,"HINDUPUR BRANCH-D.No.24-2-190-1/2,Mothukapalli,Hindupur-",VIJ,South,HINDUPUR BRANCH,11000000815,750,Branch,2095,V24,V24,,c/f from Mar'24,"  13,230 ",  -   ,"  26,460 ","  13,230 ","  -39,690 ","  66,150 ","  13,230 ","  13,230 ","  13,230 ","  13,230 ",,,,"  119,070 "
-Active in Dec,"CHITTOOR NODAL POINT2-85/1,Gurunagar colony, Kongareddy palli, Near Udipi hotel,Chittoor",VIJ,South,CHITTOOR-NODAL,11000000811,100,Branch,1922,V32,V32,,c/f from Mar'24,"  3,025 ","  3,025 ","  3,025 ","  3,187 ","  3,328 ","  3,328 ","  3,328 ","  3,328 ","  3,328 ","  3,328 ",,,,"  29,205 "
-Active in Dec,"Plot No, C/12,Industial Estate,Orissa,Rourkela-769004",BHU,East,ROURKELA BRANCH - W03 (BO),11000000589,3600,Branch,11000000589,W03,W03,,c/f from Mar'24,"  46,800 ","  46,800 ","  46,800 ","  46,800 ","  46,800 ","  46,800 ","  46,800 ","  46,800 ","  46,800 ","  46,800 ",,,,"  421,200 "
-Active in Dec,"Bajarang Complex, Plot No 88& 92, Khata No 145/13, Near Khajuria Junction, Beharampura -760008",BHU,East,BERHAMPUR BRANCH - W04 (BO),11000000673,3120,BRANCH,11000000584,W04,W04,,c/f from Mar'24,"  87,360 ","  87,360 ","  87,360 ","  87,360 ","  87,360 ","  87,360 ","  87,360 ","  87,360 ","  87,360 ","  87,360 ",,,,"  786,240 "
-Active in Dec,"JAJPUR ROAD BRANCHAt-Sonalika Building, NH side, Near Dhaneswar Chowk, P.S/Po-Korei, Jajpur Road",BHU,East,JAJPUR BRANCH,11000000665,1350,Branch,1832,W05,W05,,c/f from Mar'24,"  16,500 ","  16,500 ","  16,500 ","  16,500 ","  16,500 ","  16,500 ","  16,500 ","  16,500 ","  16,500 ","  16,500 ",,,,"  148,500 "
-Active in Dec,"BALASORE SUPER FRANCHISEE - Near Jagnnath Temple, PO Januganj,Ganeswarpur, Remuna-756019",BHU,East,BALASORE SUPER FRANCHISEE,11000000668,1100,Branch,2089,W06,W06,,c/f from Mar'24,"  31,740 ","  31,740 ","  31,740 ","  31,740 ","  31,740 ","  31,740 ","  31,740 ","  31,740 ","  31,740 ","  31,740 ",,,,"  285,660 "
-Active in Dec,"SAMBALPUR BRANCHBack side of Hotel Kaveri, Ainthapali, Sambalpur-768004",BHU,East,SAMBALPUR 2,11000000660,2200,Branch,1018,W07,W07,,c/f from Mar'24,"  42,078 ","  42,078 ","  42,078 ","  42,078 ","  42,078 ","  42,078 ","  70,000 ","  70,000 ","  70,000 ","  70,000 ",,,,"  490,390 "
-Active in Dec,"Sai Priya Nagar, 2nd Lane, Rayagada , Nr Laxmi Ganesh Hardware PO/PS-Rayagada,  Pincode-765001",BHU,East,RAYAGADA SUB BRANCH - W08 (SB),11000000638,1230,Branch,11000000638,W08,W08,,c/f from Mar'24,"  12,600 ","  12,600 ","  12,600 ","  12,600 ","  12,600 ","  12,600 ","  12,600 ","  12,600 ","  12,600 ","  12,600 ",,,,"  113,400 "
-Active in Dec,"Khata No 79/62,  Plot No 325, Mishrapada, Angul Pin -759122",BHU,East,ANGUL BRANCH - W09 (SB),11000000618,2500,Branch,11000000618,W09,W09,,c/f from Mar'24,"  49,500 ","  49,500 ","  49,500 ","  49,500 ","  49,500 ","  49,500 ","  49,500 ","  49,500 ","  49,500 ","  49,500 ",,,,"  445,500 "
-Active in Dec,"Plot No- 755,756,720-722, at Pratapnagari, P O - Bhanpur, Cuttack - 753011, Odisha",BHU,East,BHUBANESHWAR Apex,11000000560,47000,HUB/APEX+ RO,11000000560,W10,W10/W11/W,,c/f from Mar'24,"  1,218,000 ","  1,218,000 ","  1,250,480 ","  1,278,900 ","  1,278,900 ","  1,278,900 ","  1,278,900 ","  1,278,900 ","  1,278,900 ","  1,278,900 ",,,,"  11,420,780 "
-Active in Dec,"No. S-3/36, SEC-A, Zone-B, Mancheswar Industrial Estate, Bhubaneswar , Khordha, Odisha-751010",BHU,East,MANCHESWAR BRANCH,11000001145,4500,Branch,11000001145,W52,W52/W53,,c/f from Mar'24,"  126,000 ","  126,000 ","  126,000 ","  134,820 ","  134,820 ","  134,820 ","  134,820 ","  134,820 ","  134,820 ","  134,820 ",,,,"  1,195,740 "
-Active in Dec,"JHARSUGUDA-Mangal Bazar Road,Jharsuguda, Odhisha.768201",BHU,East,JHARSUGUDA BRANCH - W12 (SB),11000000671,880,Branch,2132,W12,W12,,c/f from Mar'24,"  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  20,837 ","  20,837 ","  21,878 ",,,,"  182,622 "
-Active in Dec,"BHADRAK BRANCH-Plot No Kuansh, Saban Bazr, Near Town P.S, Kaunsh, Bhadrak, Odisha.756100",BHU,East,BHADRAK SORTING OFFICE - W14 (SO),11000000670,860,Branch,2131,W14,W14,,c/f from Mar'24,"  20,948 ","  20,948 ","  20,948 ","  20,948 ","  20,948 ","  20,948 ","  20,948 ","  25,000 ","  25,000 ","  25,000 ",,,,"  200,688 "
-Active in Dec,"Plot No 15/22654, Trinath Bazar,Baramunda Housing Board Colony,Bhubaneshar, Dist : Khodra, Odhisha-751003",BHU,East,RUCHIKA MARKET BRANCH - W21 (BO),11000000636,1850,Branch,11000000636,W21,W21,,c/f from Mar'24,"  73,150 ","  73,150 ","  73,150 ","  73,150 ","  73,150 ","  73,150 ","  73,150 ","  73,150 ","  73,150 ","  73,150 ",,,,"  658,350 "
-Active in Dec,"Market City, NH-26, Barniput, Jeypore, Dist - Koraput,Odhisha-764001",BHU,East,JEYPORE SORTING OFFICE - W22 (SO),11000000613,1216,Branch,11000000613,W22,W22,,c/f from Mar'24,"  26,250 ","  26,250 ","  26,250 ","  26,250 ","  26,250 ","  26,250 ","  26,250 ","  27,563 ","  27,563 ","  27,563 ",,,,"  240,189 "
-Active in Dec,"BOLANGIR SORTING OFFICE - Old Palace, Balangir, Odisha- 767001",BHU,East,BOLANGIR SORTING OFFICE - W23 (SO),11000000669,800,Branch,2129,W23,W23,,c/f from Mar'24,"  13,230 ","  13,230 ","  13,230 ","  13,230 ","  13,230 ","  13,230 ","  13,892 ","  15,281 ","  15,281 ","  19,546 ",,,,"  130,150 "
-Active in Dec,"KHURDA NODAL POINTAt-Arashvelli House, SBI Squre, Khurda, Odisha",BHU,East,KHURDA NODAL POINT,11000000666,700,Branch,1870,W40,W40,,c/f from Mar'24,"  9,250 ","  9,250 ","  9,250 ","  9,250 ","  9,250 ","  9,250 ","  9,250 ","  9,250 ","  9,250 ","  9,250 ",,,,"  83,250 "
-Active in Dec,"Senapati Industries, Singhadapalli , PO-khallikote, Ganjam, Odisha - 761029",BHU,East,KHALIKOT BRANCH,11000001149,700,Branch,11000001149,W54,W54,,c/f from Mar'24,"  14,000 ","  14,000 ","  14,000 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ","  14,700 ",,,,"  130,900 "
-Active in Dec,"R.S. NO. 125/27, Plot No 72-76 ,Senthil Nagar ,Muthirapalayam , Puducheery - 605009",CHE,SOUTH,PONDICHERRY BRANCH_C02,11000001176,5000,Branch,11000001176,C02,C02,,New Aug-24,  -   ,  -   ,  -   ,  -   ,  -   ,"  342,000 ","  85,500 ","  85,500 ","  85,500 ","  85,500 ",,,,"  684,000 "
-Active in Dec,"Survey No  17/5/1 , 17/1/2 , 2/1/3 , Pipliya kumhar , MR-11 ,Dewas Naka , Indore, Madhya Pradesh - 452010",IDR,West,DEWAS NAKA WAREHOUSE- Indore Apex,11000001183,10500,HUB + RO,11000001183,i46,i46/i/I04,,New Aug-24,  -   ,  -   ,  -   ,  -   ,  -   ,"  185,500 ","  185,500 ","  185,500 ","  185,500 ","  185,500 ",,,,"  927,500 "
-Active in Dec,"GMC Square , B-13, Industrial Estate, Behind Dic pur Road, Bhilwara Rajasthan - 311001",RAJ,North,BHILWARA BRANCH,11000001177,1200,Branch,11000001177,Q12,Q12,,New Aug-24,  -   ,  -   ,  -   ,  -   ,  -   ,"  50,000 ","  25,000 ","  25,000 ","  25,000 ","  25,000 ",,,,"  150,000 "
-Active in Dec,"No.1 , B/1/H/1, Nanda Kishore Street, Kolkata - 700004",KOL,EAST,BAGHBAZAAR BRANCH,11000001181,2208,Branch,11000001181,K04,K04,,New Aug-24,  -   ,  -   ,  -   ,  -   ,  -   ,"  81,820 ","  176,765 ","  173,740 ","  135,770 ","  163,640 ",,,,"  731,735 "
-Active in Dec,"SCO 64 B, CITY HEART,CHANDIGARH ROAD, KHARAR , SAS NAGAR, KHARAR , Punjab- 140301,",HHP,NORTH,KHAHAR BRANCH,11000001184,1056,Branch,11000001184,J54,J54,,New Aug-24,  -   ,  -   ,  -   ,  -   ,  -   ,"  21,333 ","  40,000 ","  40,000 ","  40,000 ","  40,000 ",,,,"  181,333 "
-Active in Dec,"Ground floor, Khasara No 543, Village Roza Jallapur, Near police Chowki, Tehshil Dadari, Zilla Gautambudh Nagar, UP- 201305",NDL,North,ECO TECH 12 NOIDA BRANCH - N42,11000001189,1800,Branch + Retail Counter,11000001189,N42,N42 / NC057,,New Sep-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  60,000 ","  150,000 ","  150,000 ","  150,000 ",,,,"  510,000 "
-Active in Dec,"BHOPAL CITY BRANCH-Premium Center, Ground floor Shop, Plot no 146,  MP nagar  Zone-1, Ward No - 43, Bhopal, Madhay Pradesh 462 023",IDR,West,BHOPALCity BRANCH ,11000001191,2000,Branch,11000001191,I43,I43/ IC030,,New Sep-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  175,000 ","  150,000 ","  150,000 ","  150,000 ",,,,"  625,000 "
-Active in Dec,"No Dhaag No. 4413,4418 Village - Biprannapara ,  P. S.  Domjur, Mouza Biprannapara, JL 27, Pin - 711411",KOL,East,KOLKATTA FULFILLMENT CENTER - NEW FC11 (K133),11000001190,48018,FC,11000001190,K133,K133 / FC-11,,New Sep-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  816,306 ","  816,306 ","  816,306 ","  816,306 ",,,,"  3,265,224 "
-Active in Dec,"khasra no - 402,  Rampur Mustehkum, pragana & Tehsil Roorkee, Distt - Haridwar , Uttarakhand -247667",UPT,North,ROORKEE BRANCH -U22,11000001195,2000,Branch,11000001195,U22,U22,,New Sep-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  50,000 ","  50,000 ","  50,000 ","  50,000 ",,,,"  200,000 "
-Active in Dec,"B1/33,34, 35, Backside, Gian Sagar, Bharat Colony - B22-A2, Rajpura, Punjab -140401",HHP,North,RAJPURA BRANCH - J16(BO),11000001197,800,Branch,11000001197,J16,J16,,New Sep-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  56,000 ","  28,000 ","  28,000 ","  28,000 ",,,,"  140,000 "
-Active in Dec,"Plot No- 40, Kedia business park, Opp. TATA Motors, Transport nagar, Tatibandh, Raipur, Chhattisgarh -492001",NGP,WEST,Raipur Apex -R06,11000001188,12000,HUB/APEX+Branch,11000001188,R06,R06/R17,,New Sep-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  583,443 ","  194,481 ","  194,481 ","  194,481 ",,,,"  1,166,886 "
-Active in Dec,"Plot No 13, Lohia Vihar Awasiya Yozna, Bareilly -243502, Uttar Pradesh.",UPT,North,BAREILY BRANCH - U15(BO),11000001196,2000,Branch,11000001196,U15,U15,,New Sep-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  30,400 ","  48,000 ","  48,000 ","  48,000 ",,,,"  174,400 "
-Active in Dec,"A1/1, Khasra no 818 MIN, Village Chattarpur, Tehsil - Saket, Chattarpur Extension, New Delhi 110074",SDL,North,CHATTARPUR BRANCH - S26,11000001182,3100,Branch,11000001182,S26,S26,,New Sep-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  435,000 ","  290,000 ","  290,000 ","  290,000 ",,,,"  1,305,000 "
-Active in Dec,"Plot No. 34 , 37 & 38, Madhuban, Bapurdham Industrial Scheme, GDA, Meerut Road,  Ghaziabad - 201002",UPT,North,GHAZIABAD HUB - VANDANA MOTORS - U11,11000001186,24700,Hub,11000001186,U11,U11/U137/U146/SHB/GZB,SHB/GZB,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  1,417,500 ","  525,000 ","  525,000 ",,,,"  2,467,500 "
-Active in Dec,"Municipal No 4879, Plot no / Kothi No 113, Block U, Khasra No 238/139, Ward XI, Daryaganj,  New Delhi-110002",NDL,North,DARYAGANJ BRANCH - N33(B0),11000001198,4460,Branch,11000001198,N33,N33,,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  150,000 ","  300,000 ","  300,000 ",,,,"  750,000 "
-Active in Dec,"AMC NO 412/ A-24, (Ground floor) Opp Reliance Fresh, Nr Railway Bridge, Saat Pipali, Bhihariganj,  Nasirabad Road, Ajmer , Rajasthan- 305001",RAJ,North,AJMER BRANCH - Q09,11000001202,1225,Branch,11000001202,Q09,Q09,,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  54,167 ","  65,000 ","  65,000 ",,,,"  184,167 "
-Active in Dec,"Property No 22/2,  Prayag Industrial Park, Anandpur - Navagam, Rajkot, Gujarat -360006",AMD,West,RAJKOT NAVAGAM BRANCH A03,11000001203,2000,Branch,11000001203,A03_DEODAP,A03_DEODAP,,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  70,000 ","  20,000 ","  20,000 ",,,,"  110,000 "
-Active in Dec,"Shop no 1 & 2, Ground floor, G-Wing, Madhuban CIIS LTd, Ketki Pada, Opp: MTNL Dahishar East, Mumbai-40068",Mum,West,DAHISAR BRANCH - M61,11000001205,5478,Branch,11000001205,M61,M61,,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  233,333 ","  350,000 ","  350,000 ",,,,"  933,333 "
-Active in Dec,"Building No-2, Shop Number 1/2/3, A-1 Complex, Chinchoti, Bhiwandi Raod, Opp. Z. P School, Kaman Vasai  West, Maharashtra - 401208",Mum,West,KAMAN BHIWANDI HUB - M81,11000001206,3711,Hub,11000001206,M81,M81,,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  123,700 ","  185,550 ","  185,550 ",,,,"  494,800 "
-Active in Dec,"No-2, Survey no-111, Dattagalli, Vishwavmanav Double Road, Mysore- 570022",BLR,South, MYSORE BRANCH B02-  NEW,11000001207,2800,Branch,11000001207,B02,"B02,BC154",,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  41,667 ","  125,000 ","  125,000 ",,,,"  291,667 "
-Active in Dec,"Fulia, Prafulla nagar, Near Indian Oil petrol pump, WB-741402",KOL,EAST,FULIA BRANCH - NEW,11000001208,2400,Branch,11000001208,K54,K54,,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  90,000 ","  60,000 ","  60,000 ",,,,"  210,000 "
-Active in Dec,"Plot No-46, Narayanapuram, V.G.P.Rajesh Nagar, 1st Main Road, Pallikarnal, Chennai- 600100",CHE,South,PALLIKARANAI MF BRANCH - C47,11000001210,2200,Branch,11000001210,C47,C47,,New Oct-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  86,000 ","  86,000 ","  86,000 ",,,,"  258,000 "
-Active in Dec,"Shop no-1 ,Survey Number :134 & HOUSE NUMBER :9/1, Mumbai Bengaluru Highway road, Near Lodha Hospital, Warje Pune 411058,",PNQ,WEST,KOTHRUD BRANCH - P22 (BO),11000001211,1250,Branch,11000001211,P22,P22,,New- Nov-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  390,000 ","  195,000 ",,,,"  585,000 "
-Active in Dec,"Plot No. PAP-R-199/200, TTC Industrial Area, Rabale MIDC, Navi Mumbai - 400701",MUM,WEST,MAHAPE BRANCH - M66,11000001212,2152,Branch,11000001212,M66,M66,,New- Nov-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  291,000 ","  291,000 ",,,,"  582,000 "
-Active in Dec,"Unit no 8 & 9, Property No - 114/115/116, S. M Bose Road, Kolkatta - 700019",KOL,EAST,AGARPARA SUPER FRANCHISEE BRANCH - K06 (SF),11000001213,4600,Branch,11000001213,K06,K06,,New- Nov-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  52,500 ","  105,000 ",,,,"  157,500 "
-Active in Dec,"Ground floor, Jagannath Lane, Duttotota, Near Boarding Chakk, Puri, Odisha - 752001",BHU,EAST,PURI SORTING OFFICE - W15 (SO) NEW,11000001216,750,Branch,11000001216,W15,W15,,New- Nov-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  20,000 ","  20,000 ",,,,"  40,000 "
-Active in Dec,"INDORE City BRANCH:- 26, Scheme No. 54-PU-3, Commercial Bhamori, AB Road, Indore-42010.",IDR,West,AB ROAD  INDORE-INDORE CITY BRANCH	,11000001018,5985,Branch,1479,I42,I42/i01,,New Nov-24,"  282,058 ","  282,058 ","  282,058 ","  282,058 ","  282,058 ","  282,058 ","  282,058 ","  282,058 ","  282,058 ","  282,058 ",,,,"  2,538,522 "
-Active in Dec,"Plot no 3, Chikhali, Sahakari gruha Nirman Sansthan, Chichbuva , Nagpur -440025",NGP,West,Nagpur Air Apex,11000001221,2500,HUB,11000001221,R01,R01/R05,,New-Dec24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  100,000 ",,,,"  100,000 "
-Active in Dec,"H No 694/7, CHANDAK LAYOUT,NAGPUR -440012 , 500075",NGP,West,NAGPUR KHAMLA BRANCH - R32 (BO),11000001217,3600,Branch,11000001217,R32,R32,,New dec-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  130,000 ",,,,"  130,000 "
-Active in Dec,"2-5-529/4/ MSR Commercial complex,Ranganayakula Temple road, KHAMMAM, TELANGANA - 507003 ",TEL,South,KHAMMAM BRNACH,11000001219,294,Branch,11000001219,H91,H91,,New dec-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  64,000 ",,,,"  64,000 "
-Active in Dec,"Door No  2A, Palm Creek, Thuvariam, Madurai, 625019",CJB,South,MADURAI APEX - E08 (HO),11000001225,11189,Branch,11000001225,E08,E08,,New dec-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  95,107 ",,,,"  95,107 "
-Active in Dec,"Killa  No 27, Hospital Road, Near Govt Hospital, Rewari , Haryana, Bawal -123501",HHP,North,BAWAL BRANCH Q34,11000001226,1750,Branch,11000001226,Q34,Q34,,New dec-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  12,500 ",,,,"  12,500 "
-Active in Dec,"Khashra no-43, Gaon Dhakia, Gulabo, Teshil- Kashipur, Udhamsingh nagar, Uttrakhand -244713",UPT,North,KASHIPUR BRANCH NEW- U27,11000001228,2100,Branch,11000001228,U27,U35/U27,KSP,New dec-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  46,000 ",,,,"  46,000 "
-Active in Dec,"Shop no 1, Satyam Plaza, Dhaka cooler Wall Gali, New Bus stand Pali,Rajasthan -306401",RAJ,North,PALI BRANCH - Q10 (BO),11000001229,450,Branch,11000001229,Q10,Q10,,New dec-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  4,533 ",,,,"  4,533 "
-Active in Dec,"JL no 99, House no 165/108, Bolapur Plot no -5561 & 5566,  Ward 11(2),Mistri para, Bolapur Pin code-731204",KOL,East,NEW BOLEPUR BRANCH,11000001230,1400,Branch,11000001230,K85,K85,,New dec-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  75,133 ",,,,"  75,133 "
-Closed,"Khasra No.154,Plot No 924,Firni Road, Puth Khurd,New Delhi -110039",NDL,North,BAWANA BRANCH,11000000972,4000,Branch,11000000559,-N40,-N40,,Closed on Jun-24,"  14,700 ","  14,700 ","  111,300 ",  -   ,"  14,700 ",  -   ,"  -14,700 ",  -   ,  -   ,  -   ,,,,"  126,000 "
-Closed,"PONDICHERRY BRANCHNO:188/1 VAZHUVAVUR ROAD,MUTHIRAPALAYAM, PUDUCHERRY 605009",CHE,South,PONDYCHERI OFFICE,11000000081,6000,Branch,1463,C02-,C02-,,Closed on Jul-24,"  104,055 ","  105,906 ","  105,906 ","  104,055 ","  -209,961 ",  -   ,  -   ,  -   ,  -   ,  -   ,,,,"  105,906 "
-Closed,HOWRAH BRANCH108/6 G.T.ROAD SALKIA HOWRAH,KOL,East,EAST-KOL-HOWRAH,11000001068,1075,Branch,1358,K08-,K08-,,Closed on Jul-24,"  56,112 ","  56,112 ","  56,112 ","  9,352 ","  -56,112 ","  130,929 ",  -   ,  -   ,  -   ,  -   ,,,,"  196,393 "
-Closed,"ASHRAM ROAD- No.1 G Floor, Taimoor Nagar, New Delhi-110025",SDL,North,ASHRAM MASTER FRANCHISEE - S17 (MF),11000000837,1500,Branch,2114,S17,S17,,Closed on Jul-24,"  120,000 ","  128,400 ","  138,000 ","  138,000 ","  138,000 ",  -   ,  -   ,  -   ,  -   ,  -   ,,,,"  542,400 "
-Closed,"Gwalior BranchShop No. N -17 Ground Floor, Gandhi Nagar Gwalior - 474002",UPT,North,GWALIOR BO,11000000676,1500,Branch,1343,U07,U07,,Closed on Jul-24,"  57,980 ","  57,980 ","  57,980 ","  57,980 ","  57,980 ","  57,980 ","  -57,980 ",  -   ,  -   ,  -   ,,,,"  231,920 "
-Closed,"RAIPUR APEX-Kedia Business Park, Opp to TATA Motors, Tatibandh,Raipur,Chattisgad",NGP,West,RAIPUR APEX - R06 (HO),11000000920,12000,HUB/APEX+Branch,2123,R06-,R06/R17-,,Closed on Aug-24,"  185,220 ","  185,220 ","  185,220 ","  185,220 ","  185,220 ",  -   ,  -   ,  -   ,  -   ,  -   ,,,,"  740,880 "
-Closed,"Plot no4, Soliaire Industrial Park, Dehmikalan, Ajmer, jaipur - 303007",RAJ,North,BAGRU NODAL POINT - Q41 (SO),11000000859,12000,Branch,11000000585,Q41-,Q41-,,Closed on Aug-24,"  189,000 ","  189,000 ","  189,000 ","  189,000 ","  189,000 ",  -   ,  -   ,  -   ,  -   ,  -   ,,,,"  756,000 "
-Closed,"CUTTACK BRANCHAt-Khaira, Po-jagatpur, Cuttack, odisha",BHU,East,CUTTAK INTEGRATED BRANCH,11000000664,4800,Branch,1812,W02-,W02-,,Closed on Aug-24,"  90,624 ","  90,624 ","  90,624 ","  90,624 ","  90,624 ",  -   ,  -   ,  -   ,  -   ,  -   ,,,,"  362,496 "
-Closed,"Boiser Branch-Plot No.218, Vidyanagar, Boisar-Palghar Road, MIDC Tarapur, Boisar (W), Maharashtra - 401501",MUM,West,BOISAR BRANCH,11000001053,650,Branch,2151,M57-,M57-,,Closed on Aug-24,"  18,191 ","  18,191 ","  18,191 ","  18,191 ","  18,191 ",  -   ,"  -36,382 ",  -   ,  -   ,  -   ,,,,"  36,382 "
-Closed,"RAJPURA BRANCH# 67, Navyug Colony, Ward No- 5, Rajpura, Pin Code- 140401",HHP,North,RAJPURA BRANCH,11000000903,600,Branch,1311,J16-,J16-,,Closed on Aug-24,"  17,199 ","  17,199 ","  17,199 ","  17,199 ","  17,199 ",  -   ,  -   ,  -   ,  -   ,  -   ,,,,"  68,796 "
-Closed,"Kolkata Fulfillment Center-Mouza Bipprannapar, J.L No Khatian, 27, Police Station Domjur, Distict- Howrah, Begri  Gram Panchayat711411",KOL,East,Kolkata Fulfillment Center,11000001118,19886,FC,2127,k133-,K133 / FC-11-,,Closed on Sep-24,"  389,156 ","  389,156 ","  389,156 ","  389,156 ","  389,156 ","  389,156 ","  389,156 ","  447,530 ","  408,614 ","  408,614 ",,,,"  3,599,694 "
-Closed,"ROORKEE SUPER FRANCHISEE, Khasra no 08,Matlabpur village,Tehsil-Roorke,Haridwar,Uttarakhand",UPT,North,ROORKI BRANCH,11000000697,2000,Branch,1916,U22-,U22-,,Closed on Sep-24,"  53,500 ","  53,500 ","  53,500 ","  53,500 ","  53,500 ","  53,500 ","  57,245 ",  -   ,  -   ,"  -69,245 ",,,,"  255,500 "
-Closed,"Bareilly BranchShop No 37,Swaley nagar,Oposite Tata motors rampur raod ,bareilly ,Utter pardesh 243001",UPT,North,BAREILLY BRANCH,11000000688,1970,Branch,1228,U15-,U15-,,Closed on Sep-24,"  52,920 ","  52,920 ","  52,920 ","  52,920 ","  52,920 ","  52,920 ",  -   ,  -   ,"  19,404 ",  -   ,,,,"  284,004 "
-Closed,"Chhattarpur, Khasra no.600, 607 & 608,Village Chattarpur,New delhi-110074",SDL,North,CHATTARPUR BRANCH,11000000833,6000,Branch,1976,S26-,S26-,,Closed on Sep-24,"  268,020 ","  268,020 ","  268,020 ","  268,020 ","  268,020 ","  268,020 ",  -   ,  -   ,  -   ,  -   ,,,,"  1,340,100 "
-Closed,"PALLIKKARANAI MASTER FRANCHISEENO:21 CITTY BABU NAGAR MAIN ROAD,PALLIKARANAI-CHENNAI 600 100",CHE,South,PALLIKARAN,11000000078,3000,Branch,1158,C47-,C47-,,Closed on Oct-24,"  72,470 ","  72,470 ","  72,470 ","  72,470 ","  83,338 ","  79,715 ","  79,715 ",  -   ,  -   ,  -   ,,,,"  460,178 "
-Closed,"Gahaziabad Apex Regional office (Admin Block)First Floor, Plot No. - A-10/18 Site - 3 Industrial Area Meerut Road, Opp DPS Ghaziabad - 201002",UPT,North,GHAZIABAD RO,11000000681,9500,HUB/APEX+Branch+RO+Retail Counter,1262/1375/2076/1283,U11-,-U11-U137-U146-,,Closed on Oct-24,"  126,638 ","  126,638 ","  132,970 ","  132,970 ","  132,970 ","  132,970 ","  132,970 ","  -66,485 ",  -   ,  -   ,,,,"  725,003 "
-Closed,"Ghaziabad-First Floor, Plot No. - A-10/18 Site - 3 Industrial Area Meerut Road, Opp DPS Ghaziabad - 201002",UPT,North,GHAZIABAD,11000000705,4200,HUB/APEX+Branch+RO+Retail Counter,1262/1375/2076/1283,U11-,-U11-U137-U146-,,Closed on Oct-24,"  115,000 ","  115,000 ","  115,000 ","  115,000 ","  115,000 ","  115,000 ","  115,000 ","  -57,500 ",  -   ,  -   ,,,,"  632,500 "
-Closed,"GHAZIABAD APEX Branch at GROUND Floor, A-10/17 SITE-3 MEERUT ROAD INDUSTRIAL AREA OPP DPS GHAZIABAD -201002",UPT,North,GHAZIABAD  DOTZOT HUB,11000000675,3600,HUB/APEX+Branch+RO+Retail Counter,1262/1375/2076/1283,U11-,-U11-U137-U146-,,Closed on Oct-24,"  79,350 ","  79,350 ","  79,350 ","  79,350 ","  79,350 ","  79,350 ","  79,350 ","  -39,675 ",  -   ,  -   ,,,,"  436,425 "
-Closed,"GHAZIABAD APEXGROUND Floor, A-10/17 SITE-3 MEERUT ROAD INDUSTRIAL AREA OPP DPS GHAZIABAD -201002",UPT,North,GHAZIABAD APEX,11000000674,7500,HUB/APEX+Branch+RO+Retail Counter,1262/1375/2076/1283,U11-,-U11-U137-U146-,,Closed on Oct-24,"  211,755 ","  211,755 ","  211,755 ","  211,755 ","  211,755 ","  222,343 ","  222,343 ","  -111,172 ",  -   ,  -   ,,,,"  1,180,534 "
-Closed,"AJMER BRANCHMahaveer tent house, kesarganj, Ajmer Rajasthan",RAJ,North,AJMER BRANCH,11000000851,518,Branch,1983,Q09-,Q09-,,Closed on Oct-24,"  31,556 ","  31,556 ","  31,556 ","  31,556 ","  31,556 ","  31,556 ","  31,556 ","  31,556 ","  -2,104 ",  -   ,,,,"  218,788 "
-Closed,"Dary Ganj Branch-XI(N) 4674,21 Ansari Raod, Daryaganj New Delhi-110002",NDL,North,DaryGanj Branch - N33 (BO),11000000967,1600,Branch,2101,N33-,N33-,,Closed on Oct-24,"  158,400 ","  158,400 ","  158,400 ","  158,400 ","  158,400 ","  158,400 ","  158,400 ","  158,400 ","  -158,400 ",  -   ,,,,"  950,400 "
-Closed,"LTL Branch, No 10/14, Site 3, Industrial Area, Meerut Road, Opp. DPS School, Ghaziabad, Uttarpradesh -201003",UPT,North,GHAZIABAD LTL,11000001159,4000,Branch,11000001159,-SHB/-GZB,-SHB/-GZB,,Closed on Oct-24,"  130,000 ","  130,000 ","  130,000 ","  130,000 ","  130,000 ","  130,000 ","  130,000 ","  -65,000 ",  -   ,  -   ,,,,"  715,000 "
-Closed,DAHISAR SORTING OFFICE-G floor Unit no.2 Tanishka TanviDahisar400068,MUM,West,DAHISAR SORTING OFFICE,11000001041,550,Branch,2063,-M61,-M61,,Closed on Oct-24,"  72,000 ","  72,000 ","  72,000 ","  72,000 ","  75,600 ","  75,600 ","  75,600 ","  75,600 ","  75,600 ","  75,600 ",,,,"  669,600 "
-Closed,"Mysore BranchNo1, Ground Floor, Sree Srinivasa Plaza, 5th Stage, Adichunchangiri Main Road, Kuvempunagar, Mysore",BLR,South,Mysore Branch,11000000731,2450,Branch,1523,-B02,"-B02,-BC154",,Closed on Oct-24,"  119,602 ","  119,602 ","  119,602 ","  119,602 ","  124,785 ","  125,582 ","  125,582 ","  125,582 ",  -   ,  -   ,,,,"  860,337 "
-Closed,"FULIA SUB BRANCHFulia Para, NH 34, West Bengal 741402",KOL,East,FULIA BRANCH(DOTZOT),11000001098,1550,Branch,1901,-K54,-K54,,Closed on Oct-24,"  23,000 ","  23,000 ","  23,000 ","  23,000 ","  23,000 ","  23,000 ","  23,000 ","  -11,500 ",  -   ,  -   ,,,,"  126,500 "
-Closed,"PARADEEP NODAL POINTAt-Bijayachandrapur, Tarini Gada, Paradeep, Odisha",BHU,East,PARADEEP NODAL POINT,11000000663,400,Branch,1783,-W44,-W44,,Closed on Nov-24,"  8,925 ","  8,925 ","  8,925 ","  9,371 ","  9,371 ","  9,371 ","  9,371 ",  -   ,  -   ,  -   ,,,,"  55,334 "
-Closed,"Mahape BranchM/S. DTDC EXPRESS LTD .GALA NO.44/45,GROUND Floor M/S Hasti industriak Premises co.Op. Society MIDC MHAPE Navi Mumbai - 400701",MUM,West,MAHAPE BR,11000001039,1675,Branch,1328,-M66,-M66,,Closed on Nov-24,"  60,000 ","  60,000 ","  60,000 ","  60,000 ","  64,200 ","  64,200 ","  51,600 ","  60,000 ","  60,000 ","  60,000 ",,,,"  540,000 "
-Closed,"K.J Towers, D- Wing, S.No-113,Hissa No-1, Plot No-2, Ground Floor, Shop No.4,Warje, Pune -411058",PNQ,West,KOTHRUD MASTER FRANCHISE - P22 (MF),11000000624,2300,Branch,11000000624,-P22,-P22 / -PC136,,Closed on Nov-24,"  158,550 ","  158,550 ","  158,550 ","  158,550 ","  158,550 ","  158,550 ","  158,550 ","  158,550 ","  -158,550 ",  -   ,,,,"  951,300 "
-Closed,"SANGLI Branch-Plot No.4, S.No.311/D/312/D, Balajingar,Kupwad,Sangli,Maharashtra-416425.",PNQ,West,SANGLI SUPER FRANCHISEE - P10 (SF),11000000870,1800,Branch,2153,-P10,-P10,,Closed on Nov-24,"  33,737 ","  33,737 ","  33,737 ","  33,737 ","  33,737 ","  33,737 ","  33,737 ","  33,738 ","  -67,475 ",  -   ,,,,"  168,685 "
-Closed,"AGARPARA PARCEL BRANCH No 16, 88F,B.T Road,Kamarhati,Kolkatta -700058",KOL,East,EAST-KOL-AGARPARA BRANCH,11000001091,2950,Branch,1304,-K06,-K06,,Closed on Nov-24,"  78,027 ","  78,027 ","  78,027 ","  78,027 ","  78,027 ","  78,027 ","  78,027 ","  78,027 ","  78,027 ","  78,027 ",,,,"  702,243 "
-Closed,"Nr Old Sardar Thana, Near Trishakti Medical Store, Backside of SCS College, Puri Odisha, Pincode -752001",BHU,East,PURI SORTING OFFICE - W15 (SO),11000000616,1850,Branch,11000000616,-W15,-W15,,Closed on Nov-24,"  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ","  35,000 ",  -   ,,,,"  280,000 "
-Closed,"KHAMLA BRANCH-Mouza Bhamti,City Survey No 33,58,59,Agney layout, Near Anand Purti Super Bazar, Nagpur-440025",NGP,West,KHAMLA BRANCH,11000000921,3000,Branch,2133/2162,-R32,-R32,,Closed on DEC-24,"  154,350 ","  154,350 ","  154,350 ","  154,350 ","  157,951 ","  162,067 ","  162,067 ","  162,067 ","  162,067 ","  162,067 ",,,,"  1,431,336 "
-Closed,"KHAMLA RETIL-58,59, Agne Layout, Near Anand Purti Super Bazar,Jaitala Road, Khamla, Nagpur",NGP,West,KHAMLA RETAIL COUNTER,11000000923,150,Branch,2133/2162,-R32,-R32,,Closed on DEC-24,"  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  19,845 ","  21,168 ","  20,837 ",,,,"  180,920 "
-Closed,"KHAMMAM BRANCH-Plt No.45/1,MSR Commercial Complex,Ranganayakula Temple Road,Khamman, Telangana",TEL,South,KHAMMAM BRANCH,11000001009,1300,Branch,2119,H91-,H91-,,Closed on DEC-24,"  30,250 ","  30,250 ","  33,275 ","  33,275 ","  33,275 ","  33,275 ","  33,275 ","  33,275 ","  33,275 ","  33,275 ",,,,"  296,450 "
-Closed,"Madurai BranchDoor No 12/1, 70 feet road, New Ellis Nagar, Madurai-625010.",CJB,South,ELLIS NAGAR  MADURAI,11000000778,5620,Branch,1464,E08-,E08-,,Closed on DEC-24,"  218,414 ","  218,414 ","  218,414 ","  218,414 ","  238,802 ","  229,336 ","  229,336 ","  229,336 ","  229,336 ","  229,336 ",,,,"  2,040,724 "
-Closed,"BAWAL BRANCHGround Floor, Near Bikarner Sweets, Banipur Chowk, Bawal",RAJ,North,BAWALRAJASTAN BRANCH,11000000845,500,Branch,1187,Q34-,Q34-,,Closed on DEC-24,"  13,650 ","  13,650 ","  13,650 ","  13,650 ","  14,333 ","  14,333 ","  14,333 ","  14,333 ","  14,333 ","  7,167 ",,,,"  119,782 "
-Closed,"Kashipur Branch-No.86,Khasra No.86/232MIN,Gaon Dhakia Gulabo,Kashipur,Udhamsigh Nagar, Uttrakhand",UPT,North,KASHIPUR BRANCH,11000000706,2400,Branch,2077,U27-,U35-/ U27-,,Closed on DEC-24,"  30,000 ","  30,000 ","  30,000 ","  30,000 ","  30,000 ","  30,000 ","  30,000 ","  18,500 ","  11,500 ","  -30,000 ",,,,"  180,000 "
-Closed,"PALI NODAL POINT-Shop No.3,Raghu Market, opp College,306401",RAJ,North,PALI NODAL POINT,11000000854,150,Branch,2067,Q10-,Q10-,,Closed on DEC-24,"  5,775 ","  5,775 ","  5,775 ","  5,775 ","  5,775 ","  5,775 ","  6,064 ","  6,064 ","  6,064 ","  6,064 ",,,,"  53,131 "
-Closed,BOLPUR BRANCHNATUN PUKUR MORE BURDWAN - BHEDIA BY-PASS ROAD BOLPUR BIRBHUM,KOL,East,EAST-KOL-BOLEPUR,11000001084,650,Branch,1149,K85-,K85-,,Closed on DEC-24,"  17,365 ","  18,233 ","  18,233 ","  18,233 ","  36,466 ","  18,233 ","  18,233 ","  18,233 ","  18,233 ","  18,233 ",,,,"  182,330 "
-Closed,"10/18/02 , Village Samalkha, Neaer Karan Dharamkanta, New Delhi 110037",NDL,North,SAMALKHA HUB -  TEMPORARY SPACE,11000001201,10000,HUB/APEX+RO,11000001201,,N05- Temp Space,,Closed on DEC-24,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,  -   ,"  133,333 ","  200,000 ",  -   ,,,,"  333,333 "
-,,,,Provision Impact,,,,,,,,,,631867,-1477486,-180470,-9400,-2065672,-15333,,338333,-338333,,,,
-,,,,Total Rental Cost,,,,,,,,,"  92,811,485 ","  93,025,877 ","  92,657,397 ","  94,792,458 ","  94,583,583 ","  94,224,379 ","  99,706,253 ","  101,772,837 ","  102,091,730 ","  102,294,289 ",,,,
+code,type,sqft,rent,rent_per_sqft
+A01,Hub,47592,"665,637.00",13.99
+A01,Hub,62641,"1,103,550.00",17.62
+A02,Branch,3272,"75,200.00",22.98
+A03,Branch,4300,"136,500.00",31.74
+A04,Hub,30376,"713,836.00",23.50
+A05,Branch,4225,"84,893.00",20.09
+A07,Branch,2000,"27,563.00",13.78
+A11,Branch,2000,"87,516.00",43.76
+A17,Branch,6000,"252,810.00",42.14
+A18,Branch,2200,"28,122.00",12.78
+A24,Branch,2847,"154,350.00",54.21
+A36,Branch,1200,"66,854.00",55.71
+A38,Branch,2100,"78,750.00",37.50
+A44,Branch,680,"26,460.00",38.91
+A46,Branch,4190,"201,120.00",48.00
+A50,Branch,7000,"87,360.00",12.48
+B03,Branch,3370,"112,138.00",33.28
+B05,Branch,3000,"34,650.00",11.55
+B06,Branch,11300,"242,130.00",21.43
+B08,Branch,3600,"148,000.00",41.11
+B09,Branch,2500,"95,721.00",38.29
+B10,Hub,62960,"983,484.00",15.62
+B11,Branch,5000,"220,500.00",44.10
+B113,Hub,27165,"520,893.00",19.18
+B13,Branch,670,"19,845.00",29.62
+B16,Branch,420,"23,218.00",55.28
+B18,Branch,1300,"26,460.00",20.35
+B26,Branch,12500,"401,023.00",32.08
+B27,Branch,3600,"64,885.00",18.02
+B32,Branch,2142.77165,"78,750.00",36.75
+B35,Branch,8020,"201,014.00",25.06
+B35,Branch,5300,"200,340.00",37.80
+B36,Hub,56125,"1,144,860.00",20.40
+B36,Hub,11363,"223,889.00",19.70
+B36,Hub,10000,"583,200.00",58.32
+B38,Branch,1450,"33,600.00",23.17
+B39,Branch,300,"16,105.00",53.68
+B41,Branch,528,"14,641.00",27.73
+B43,Branch,2600,"72,293.00",27.81
+B47,Branch,400,"14,587.00",36.47
+B50,Branch,4800,"52,500.00",10.94
+B51,Branch,844,"33,075.00",39.19
+B58,Branch,2800,"268,019.00",95.72
+B58,Branch,4000,"282,709.00",70.68
+B59,Branch,2700,"168,948.00",62.57
+B64,Branch,1200,"19,144.00",15.95
+B65,Branch,3300,"67,005.00",20.30
+B68,Branch,1700,"44,671.00",26.28
+C08,Branch,800,"62,260.00",77.83
+C20,Hub,175015,"3,633,054.00",20.76
+C13,Branch,5500,"467,500.00",85.00
+C14,Branch,3850,"381,150.00",99.00
+C15,Branch,1250,"84,366.00",67.49
+C22,Branch,2500,"73,205.00",29.28
+C30,Branch,1520,"87,980.00",57.88
+C36,Branch,2700,"179,685.00",66.55
+C37,Branch,1750,"176,834.00",101.05
+C38,Branch,3400,"128,841.00",37.89
+C48,Branch,4245,"136,599.00",32.18
+C50,Branch,700,"52,094.00",74.42
+C53,Branch,1750,"67,528.00",38.59
+C57,Branch,1000,"57,880.00",57.88
+C59,Branch,700,"15,803.00",22.58
+C60,Branch,500,"29,282.00",58.56
+C72,Branch,200,"5,315.00",26.58
+C73,Branch,1115,"35,000.00",31.39
+E01,Hub,11200,"295,000.00",26.34
+E02,Branch,2050,"75,618.00",36.89
+E03,Branch,3200,"38,400.00",12.00
+E04,Hub,8750,"160,286.00",18.32
+E05,Branch,1220,"38,720.00",31.74
+E06,Branch,9000,"163,721.00",18.19
+E07,Branch,1400,"19,184.00",13.70
+E09,Branch,1160,"48,620.00",41.91
+E10,Branch,900,"29,282.00",32.54
+E11,Branch,768,"19,800.00",25.78
+E13,Hub,7500,"105,000.00",14.00
+E16,Branch,520,"16,800.00",32.31
+E20,Branch,476,"20,160.00",42.35
+E21,Branch,3200,"49,692.00",15.53
+E23,Branch,1300,"33,600.00",25.85
+E24,Branch,990,"14,700.00",14.85
+H07,Branch,2493,"143,203.00",57.44
+H08,Branch,4074,"314,411.00",77.18
+H09,Branch,2300,"82,061.00",35.68
+H11,Branch,5000,"105,000.00",21.00
+H13,Hub,43205,"621,264.00",14.38
+H48,Branch,2600,"124,449.00",47.87
+H53,Branch,2040,"53,550.00",26.25
+H66,Hub,25000,"437,500.00",17.50
+H66,Hub,5000,"216,000.00",43.20
+H70,Branch,2300,"88,578.00",38.51
+H70,Branch,1650,"224,833.00",136.26
+H71,Branch,1975,"104,450.00",52.89
+H74,Branch,2200,"98,399.00",44.73
+H79,Branch,6000,"114,604.00",19.10
+H80,Branch,3000,"101,023.00",33.67
+H92,Branch,1350,"25,269.00",18.72
+I02,Branch,6346,"132,933.00",20.95
+I03,Branch,1750,"57,434.00",32.82
+I08,Branch,5000,"94,500.00",18.90
+I19,Branch,1000,"24,000.00",24.00
+I20,Branch,300,"8,102.00",27.01
+I24,Hub,32060,"583,212.00",18.19
+I30,Branch,185,"6,300.00",34.05
+I34,Branch,820,"17,868.00",21.79
+I39,Branch,300,"8,934.00",29.78
+J01,Branch,7000,"551,250.00",78.75
+J02,Branch,5580,"146,475.00",26.25
+J03,Branch,20000,"449,440.00",22.47
+J04,Branch,5000,"154,734.00",30.95
+J05,Branch,5000,"220,500.00",44.10
+J07,Branch,1475,"60,775.00",41.20
+J08,Branch,1360,"40,203.00",29.56
+J10,Hub,14800,"222,000.00",15.00
+J11,Branch,540,"14,104.00",26.12
+J11,Branch,650,"26,647.00",41.00
+J14,Branch,700,"64,782.00",92.55
+J15,Branch,2240,"131,079.00",58.52
+J17,Branch,650,"26,877.00",41.35
+J18,Branch,945,"40,205.00",42.54
+J19,Branch,1319,"57,762.00",43.79
+J21,Branch,3400,"127,628.00",37.54
+J25,Branch,1620,"40,517.00",25.01
+J26,Branch,6655,"154,350.00",23.19
+J29,Hub,20000,"771,750.00",38.59
+J33,Branch,650,"19,548.00",30.07
+J36,Branch,1425,"38,588.00",27.08
+J37,Branch,1719,"44,534.00",25.91
+J39,Branch,1400,"58,800.00",42.00
+J48,Branch,750,"51,194.00",68.26
+J50,Branch,825,"63,320.00",76.75
+J53,Branch,2103,"139,778.00",66.47
+K01,Branch,1390,"309,586.00",222.72
+K03,Branch,1500,"28,941.00",19.29
+K07,Branch,9400,"227,010.00",24.15
+K08,Branch,1408,"77,440.00",55.00
+K104,Branch,300,"4,025.00",13.42
+K129,Branch,5337,"82,377.00",15.44
+K130,Branch,1080,"25,000.00",23.15
+K14,Branch,5040,"95,760.00",19.00
+K15,Branch,1407,"28,636.00",20.35
+K15,Branch,1100,"27,830.00",25.30
+K16,Hub,5644,"181,737.00",32.20
+K16,Hub,1920,"82,560.00",43.00
+K16,Hub,4822,"155,268.00",32.20
+K16,Hub,5794,"186,567.00",32.20
+K16,Hub,6266,"201,765.00",32.20
+K16,Hub,3222,"103,748.00",32.20
+K16,Hub,1035,"44,505.00",43.00
+K22,Branch,2500,"68,355.00",27.34
+K23,Branch,1300,"36,300.00",27.92
+K26,Branch,11020,"353,021.00",32.03
+K32,Branch,500,"14,375.00",28.75
+K32,Branch,700,"17,625.00",25.18
+K37,Branch,1800,"38,588.00",21.44
+K39,Branch,2083,"225,400.00",108.21
+K40,Branch,1600,"53,280.00",33.30
+K45,Branch,2775,"72,280.00",26.05
+K51,Branch,2010,"100,500.00",50.00
+K56,Branch,900,"24,158.00",26.84
+K66,Hub,14500,"216,534.00",14.93
+K68,Branch,2000,"94,500.00",47.25
+K72,Branch,4500,"109,148.00",24.26
+K75,Branch,1500,"48,400.00",32.27
+K79,Branch,1700,"25,200.00",14.82
+K81,Branch,3000,"63,657.00",21.22
+K82,Branch,450,"15,870.00",35.27
+K84,Branch,350,"7,935.00",22.67
+K88,Branch,2550,"234,500.00",91.96
+K89,Branch,600,"21,160.00",35.27
+K95,Hub,65000,"1,655,404.00",25.47
+L02,Branch,406,"48,620.00",119.75
+L02,Branch,1000,"116,406.00",116.41
+L02,Branch,200,"20,274.00",101.37
+L02,Branch,400,"18,470.00",46.18
+L03,Branch,1800,"150,624.00",83.68
+L04,Hub,4800,"124,180.00",25.87
+L04,Hub,3600,"152,087.00",42.25
+L04,Hub,4500,"121,670.00",27.04
+L04,Hub,3500,"400,000.00",114.29
+L04,Hub,2700,"40,793.00",15.11
+L05,Branch,112000,"1,390,069.00",12.41
+L14,Branch,2700,"91,253.00",33.80
+L24,Hub,88050,"1,543,500.00",17.53
+L27,Branch,1800,"113,909.00",63.28
+L28,Branch,2500,"27,563.00",11.03
+M01,Branch,6103,"1,009,760.00",165.45
+M02,Branch,2700,"630,000.00",233.33
+M04,Branch,1118,"231,000.00",206.62
+M06,Branch,1351.29,"302,500.00",223.86
+M07,Branch,3753,"441,000.00",117.51
+M07,Branch,3370.04,"358,313.00",106.32
+M08,Branch,8000,"770,555.00",96.32
+M10,Hub,38000,"5,565,001.00",146.45
+M33,Hub,375038,"6,615,000.00",17.64
+M39,Branch,928,"75,000.00",80.82
+M45,Branch,1493,"230,445.00",154.35
+M46,Branch,2092,"150,000.00",71.70
+M47,Branch,1865,"226,270.00",121.32
+M48,Branch,1260,"203,172.00",161.25
+M48,Branch,1260,"202,647.00",160.83
+M50,Branch,8137,"525,000.00",64.52
+M63,Branch,225,"15,000.00",66.67
+M68,Branch,500,"140,000.00",280.00
+M78,Branch,2500,"441,000.00",176.40
+N02,Branch,9300,"488,750.00",52.55
+N03,Branch,8500,"619,910.00",72.93
+N05,Hub,79500,"3,005,035.00",37.80
+N05,Hub,42000,"1,470,000.00",35.00
+N09,Branch,3500,"415,000.00",118.57
+N10,Branch,4300,"437,000.00",101.63
+N11,Branch,1700,"108,445.00",63.79
+N11,Branch,1800,"112,568.00",62.54
+N11,Branch,2000,"113,867.00",56.93
+N15,Branch,3300,"200,000.00",60.61
+N17,Branch,4700,"400,000.00",85.11
+N30,Branch,5400,"239,207.00",44.30
+N30,Branch,3726,"164,317.00",44.10
+N31,Branch,2500,"68,905.00",27.56
+N32,Branch,8000,"236,111.00",29.51
+N35,Branch,3500,"91,875.00",26.25
+N37,Branch,3000,"94,259.00",31.42
+N38,Branch,2200,"187,786.00",85.36
+N38,Branch,1100,"51,794.00",47.09
+O01,Branch,2900,"34,728.00",11.98
+O01,Branch,900,"10,500.00",11.67
+O02,Branch,5650,"159,720.00",28.27
+O03,Branch,2500,"58,564.00",23.43
+O04,Branch,5800,"159,863.00",27.56
+O05,Branch,3900,"142,214.00",36.47
+O06,Hub,26500,"686,941.00",25.92
+O07,Branch,2300,"52,920.00",23.01
+O08,Branch,2900,"65,230.00",22.49
+O09,Branch,4500,"89,690.00",19.93
+O11,Branch,3672,"64,497.00",17.56
+O12,Branch,1500,"31,944.00",21.30
+O14,Branch,220,"11,819.00",53.72
+O17,Branch,100,"6,366.00",63.66
+O17,Branch,250,"15,000.00",60.00
+O21,Branch,712,"14,641.00",20.56
+O23,Branch,1500,"17,260.00",11.51
+O23,Branch,5010,"193,670.00",38.66
+O25,Branch,750,"26,016.00",34.69
+O60,Branch,1080,"26,250.00",24.31
+O88,Branch,712,"21,728.00",30.52
+O89,Branch,900,"24,150.00",26.83
+O90,Branch,1800,"40,000.00",22.22
+P01,Hub,42400,"1,288,561.00",30.39
+P04,Branch,10000,"265,900.00",26.59
+P06,Branch,1800,"40,446.00",22.47
+P09,Branch,2100,"105,000.00",50.00
+P11,Branch,4000,"63,000.00",15.75
+P12,Branch,4400,"305,614.00",69.46
+P15,Branch,5000,"201,300.00",40.26
+P16,Branch,650,"48,315.00",74.33
+P19,Branch,10000,"267,750.00",26.78
+P24,Branch,2300,"53,130.00",23.10
+P38,Branch,2550,"44,289.00",17.37
+P50,Branch,5000,"99,225.00",19.85
+P56,Branch,1250,"39,564.00",31.65
+P57,Branch,700,"10,721.00",15.32
+P65,Branch,378,"31,406.00",83.08
+P73,Branch,1200,"34,035.00",28.36
+Q01,Branch,3000,"104,738.00",34.91
+Q02,Branch,4392,"126,000.00",28.69
+Q04,Branch,1200,"54,955.00",45.80
+Q05,Hub,27000,"532,508.00",19.72
+Q07,Branch,500,"20,664.00",41.33
+Q11,Branch,1000,"19,425.00",19.43
+Q13,Branch,900,"19,448.00",21.61
+Q14,Branch,1980,"14,700.00",7.42
+Q16,Branch,383,"35,370.00",92.35
+Q17,Branch,3100,"71,000.00",22.90
+Q35,Branch,1200,"37,485.00",31.24
+Q40,Branch,900,"17,640.00",19.60
+Q43,Branch,198,"3,039.00",15.35
+Q44,Branch,400,"14,762.00",36.91
+R04,Branch,1000,"23,703.00",23.70
+R07,Branch,1200,"28,238.00",23.53
+R08,Branch,1986,"77,211.00",38.88
+R10,Branch,230,"29,571.00",128.57
+R12,Branch,1104,"22,811.00",20.66
+R16,Hub,21000,"254,678.00",12.13
+R19,Branch,400,"26,042.00",65.11
+R29,Branch,240,"5,742.00",23.93
+S01,Branch,1000,"163,998.00",164.00
+S01,Branch,350,"50,233.00",143.52
+S01,Branch,900,"126,638.00",140.71
+S02,Branch,5712,"250,000.00",43.77
+S03,Branch,3100,"105,530.00",34.04
+S03,Branch,60,"9,381.00",156.35
+S09,Branch,1980,"91,461.00",46.19
+S12,Branch,3500,"184,990.00",52.85
+S13,Branch,5000,"294,730.00",58.95
+S13,Branch,280,"9,572.00",34.19
+S13,Branch,2800,"77,567.00",27.70
+S13,Branch,2000,"57,433.00",28.72
+S17,Branch,3825,"400,000.00",104.58
+S27,Branch,4200,"143,750.00",34.23
+T01,Hub,37590,"1,035,986.00",27.56
+T02,Hub,17850,"375,921.00",21.06
+T03,Branch,4900,"136,321.00",27.82
+T04,Branch,5600,"115,752.00",20.67
+T05,Branch,1850,"54,419.00",29.42
+T06,Branch,2750,"50,009.00",18.19
+T07,Branch,525,"21,000.00",40.00
+T09,Branch,1400,"36,464.00",26.05
+T13,Branch,2100,"32,161.00",15.31
+T14,Branch,220,"13,107.00",59.58
+T26,Branch,980,"32,210.00",32.87
+T32,Branch,2600,"172,196.00",66.23
+T34,Branch,1500,"31,500.00",21.00
+T36,Branch,650,"16,830.00",25.89
+T86,Branch,800,"9,371.00",11.71
+T87,Branch,800,"9,371.00",11.71
+T88,Branch,1200,"14,700.00",12.25
+U02,Branch,1800,"82,688.00",45.94
+U03,Branch,4900,"99,550.00",20.32
+U04,Branch,5400,"95,721.00",17.73
+U06,Branch,4000,"252,000.00",63.00
+U07,Branch,2050,"80,000.00",39.02
+U09,Branch,4500,"238,050.00",52.90
+U10,Branch,2100,"120,609.00",57.43
+U110,Branch,850,"8,470.00",9.96
+U12,Branch,1250,"27,563.00",22.05
+U13,Branch,5085,"224,249.00",44.10
+U130,Branch,700,"15,750.00",22.50
+U133,Branch,1000,"55,835.00",55.84
+U135,Branch,350,"8,752.00",25.01
+U14,Branch,2700,"91,592.00",33.92
+U140,Branch,800,"11,025.00",13.78
+U141,Branch,300,"15,435.00",51.45
+U142,Branch,1200,"27,563.00",22.97
+U143,Branch,2200,"66,150.00",30.07
+U16,Branch,1800,"41,895.00",23.28
+U17,Branch,1000,"49,500.00",49.50
+U18,Branch,3500,"93,595.00",26.74
+U20,Branch,2000,"83,000.00",41.50
+U23,Branch,4455,"59,565.00",13.37
+U24,Branch,2200,"72,765.00",33.08
+U25,Branch,1000,"40,000.00",40.00
+U26,Branch,2000,"91,592.00",45.80
+U28,Branch,1405,"60,900.00",43.35
+U30,Branch,4000,"122,523.00",30.63
+U31,Branch,1500,"55,125.00",36.75
+U139,Branch,5000,"95,000.00",19.00
+U40,Branch,1700,"42,543.00",25.03
+U43,Hub,35700,"712,215.00",19.95
+U45,Branch,550,"20,837.00",37.89
+U48,Branch,1700,"141,750.00",83.38
+U78,Branch,1100,"42,000.00",38.18
+U83,Branch,800,"5,788.00",7.24
+U95,Branch,300,"12,155.00",40.52
+U145,Branch,1310,"33,600.00",25.65
+V01,Branch,5150,"64,000.00",12.43
+V02,Hub,5100,"251,372.00",49.29
+V04,Branch,2100,"41,895.00",19.95
+V05,Branch,3000,"66,150.00",22.05
+V06,Hub,40750,"1,025,325.00",25.16
+V08,Branch,5148,"99,225.00",19.27
+V09,Branch,1915,"55,152.00",28.80
+V10,Branch,2850,"51,840.00",18.19
+V11,Branch,800,"19,472.00",24.34
+V12,Branch,2400,"47,250.00",19.69
+V13,Branch,1000,"35,000.00",35.00
+V15,Branch,1500,"29,282.00",19.52
+V16,Branch,900,"29,824.00",33.14
+V22,Branch,220,"9,600.00",43.64
+V24,Branch,750,"13,230.00",17.64
+V32,Branch,100,"3,328.00",33.28
+W03,Branch,3600,"46,800.00",13.00
+W04,Branch,3120,"87,360.00",28.00
+W05,Branch,1350,"16,500.00",12.22
+W06,Branch,1100,"31,740.00",28.85
+W07,Branch,2200,"42,078.00",19.13
+W08,Branch,1230,"12,600.00",10.24
+W09,Branch,2500,"49,500.00",19.80
+W10,Hub,47000,"1,278,900.00",27.21
+W52,Branch,4500,"134,820.00",29.96
+W12,Branch,880,"19,845.00",22.55
+W14,Branch,860,"20,948.00",24.36
+W21,Branch,1850,"73,150.00",39.54
+W22,Branch,1216,"26,250.00",21.59
+W23,Branch,800,"13,230.00",16.54
+W40,Branch,700,"9,250.00",13.21
+W54,Branch,700,"14,700.00",21.00
+C02,Branch,5000,"85,500.00",17.10
+I46,Hub,10500,"185,500.00",17.67
+Q12,Branch,1200,"25,000.00",20.83
+K04,Branch,2208,"81,820.00",37.06
+J54,Branch,1056,"40,000.00",37.88
+N42,Branch,1800,"150,000.00",83.33
+I43,Branch,2000,"150,000.00",75.00
+U22,Branch,2000,"50,000.00",25.00
+J16,Branch,800,"28,000.00",35.00
+R06,Hub,12000,"194,481.00",16.21
+U15,Branch,2000,"48,000.00",24.00
+S26,Branch,3100,"290,000.00",93.55
+U11,Hub,24700,"525,000.00",21.26
+N33,Branch,4460,"300,000.00",67.26
+Q09,Branch,1225,"65,000.00",53.06
+M61,Branch,5478,"350,000.00",63.89
+M81,Hub,3711,"185,550.00",50.00
+B02,Branch,2800,"125,000.00",44.64
+K54,Branch,2400,"60,000.00",25.00
+C47,Branch,2200,"86,000.00",39.09
+P22,Branch,1250,"390,000.00",312.00
+M66,Branch,2152,"291,000.00",135.22
+K06,Branch,4600,"52,500.00",11.41
+W15,Branch,750,"20,000.00",26.67
+I42,Branch,5985,"282,058.00",47.13
+R01,Hub,2500,"100,000.00",40.00
+R32,Branch,3600,"130,000.00",36.11
+H91,Branch,294,"64,000.00",217.69
+E08,Branch,11189,"95,107.00",8.50
+Q34,Branch,1750,"12,500.00",7.14
+U27,Branch,2100,"46,000.00",21.90
+Q10,Branch,450,"4,533.00",10.07
+K85,Branch,1400,"75,133.00",53.67
+N40,Branch,4000,"14,700.00",3.68
+C02,Branch,6000,"104,055.00",17.34
+K08,Branch,1075,"56,112.00",52.20
+S17,Branch,1500,"138,000.00",92.00
+U07,Branch,1500,"57,980.00",38.65
+R06,Hub,12000,"185,220.00",15.44
+Q41,Branch,12000,"189,000.00",15.75
+W02,Branch,4800,"90,624.00",18.88
+M57,Branch,650,"18,191.00",27.99
+J16,Branch,600,"17,199.00",28.67
+U22,Branch,2000,"53,500.00",26.75
+U15,Branch,1970,"52,920.00",26.86
+S26,Branch,6000,"268,020.00",44.67
+C47,Branch,3000,"72,470.00",24.16
+U11,Hub,9500,"132,970.00",14.00
+U11,Hub,4200,"115,000.00",27.38
+U11,Hub,3600,"79,350.00",22.04
+U11,Hub,7500,"211,755.00",28.23
+Q09,Branch,518,"31,556.00",60.92
+N33,Branch,1600,"158,400.00",99.00
+M61,Branch,550,"75,600.00",137.45
+B02,Branch,2450,"119,602.00",48.82
+K54,Branch,1550,"23,000.00",14.84
+W44,Branch,400,"9,371.00",23.43
+M66,Branch,1675,"60,000.00",35.82
+P22,Branch,2300,"158,550.00",68.93
+P10,Branch,1800,"33,737.00",18.74
+K06,Branch,2950,"78,027.00",26.45
+W15,Branch,1850,"35,000.00",18.92
+R32,Branch,3000,"162,067.00",54.02
+R32,Branch,150,"19,845.00",132.30
+H91,Branch,1300,"33,275.00",25.60
+E08,Branch,5620,"229,336.00",40.81
+Q34,Branch,500,"14,333.00",28.67
+U27,Branch,2400,"30,000.00",12.50
+Q10,Branch,150,"5,775.00",38.50
+K85,Branch,650,"18,233.00",28.05
